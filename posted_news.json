@@ -1,8 +1,9 @@
 {
   "posted_links": [
-    "https://openai.com/index/supporting-independent-journalism-in-ukraine"
+    "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+    "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/"
   ],
-  "ai_index": 0,
-  "tech_index": 0,
-  "category": "tech"
+  "ai_index": 1,
+  "tech_index": 1,
+  "category": "ai"
 }
