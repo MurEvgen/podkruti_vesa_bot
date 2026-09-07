@@ -108,16 +108,17 @@ def post_to_telegram(text, schedule_date=None):
         "chat_id": CHANNEL_ID,
         "text": text,
         "parse_mode": "HTML",
-        "disable_web_page_preview": "false"
+        "disable_web_page_preview": False
     }
     
     if schedule_date:
-        # Unix timestamp (целое число секунд)
-        payload["schedule_date"] = int(schedule_date.timestamp())
-        print(f"⏰ Запланировано на {schedule_date.strftime('%H:%M:%S')} UTC")
+        # Unix timestamp как целое число
+        timestamp = int(schedule_date.timestamp())
+        payload["schedule_date"] = timestamp
+        print(f"⏰ Запланировано на {schedule_date.strftime('%H:%M:%S')} UTC (timestamp: {timestamp})")
     
-    # Отправляем как form data (не JSON!)
-    response = requests.post(url, data=payload)
+    # Отправляем как JSON (не form data!)
+    response = requests.post(url, json=payload)
     
     if response.status_code == 200:
         result = response.json()
