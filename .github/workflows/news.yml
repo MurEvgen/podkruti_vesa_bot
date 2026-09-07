@@ -2,7 +2,7 @@ name: Post News to Telegram
 
 on:
   schedule:
-    - cron: '*/20 * * * *'  # Каждые 30 минут
+    - cron: '*/20 * * * *'  # Каждые 20 минут
   workflow_dispatch:  # Для ручного запуска
 
 permissions:
@@ -36,3 +36,5 @@ jobs:
           git add posted_news.json
           git commit -m "Update posted news memory" || echo "No changes to commit"
           git push
+
+          
