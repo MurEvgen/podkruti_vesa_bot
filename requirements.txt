@@ -1,3 +1,4 @@
-   feedparser
-   groq
-   requests
+feedparser
+groq
+requests
+python-telegram-bot==13.15
