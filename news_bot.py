@@ -3,7 +3,6 @@ from groq import Groq
 import requests
 import os
 import json
-from datetime import datetime, timedelta, timezone
 
 # ========== НАСТРОЙКИ ==========
 GROQ_API_KEY = os.environ.get("GROQ_API_KEY")
@@ -64,47 +63,53 @@ def get_all_news():
     for feed_url in RSS_FEEDS:
         news = get_news_from_rss(feed_url, max_items=2)
         all_news.extend(news)
-    return all_news[:5]
+    return all_news
 
 # ========== ПЕРЕВОД И СОДЕРЖАНИЕ ==========
 def translate_title_with_qwen(original_title):
-    response = groq_client.chat.completions.create(
-        model="qwen/qwen3.8-27b",
-        messages=[
-            {"role": "system", "content": "Ты — переводчик. Переводи заголовки на русский кратко. Отвечай ТОЛЬКО переводом."},
-            {"role": "user", "content": f"Переведи:\n{original_title}"}
-        ],
-        temperature=0.3,
-        max_tokens=100
-    )
-    return response.choices[0].message.content.strip().strip('"\'')
+    try:
+        response = groq_client.chat.completions.create(
+            model="qwen/qwen3.8-27b",  # Ваша проверенная модель
+            messages=[
+                {"role": "system", "content": "Переведи заголовок на русский кратко. Отвечай ТОЛЬКО переводом."},
+                {"role": "user", "content": f"Переведи:\n{original_title}"}
+            ],
+            temperature=0.3,
+            max_tokens=100
+        )
+        return response.choices[0].message.content.strip().strip('"\'')
+    except Exception as e:
+        print(f"⚠️ Ошибка перевода: {e}")
+        return original_title
 
 def write_summary_with_qwen(news_item):
-    prompt = f"""ИСТОЧНИК: {news_item['source']}
+    try:
+        prompt = f"""ИСТОЧНИК: {news_item['source']}
 ЗАГОЛОВОК: {news_item['title']}
 ТЕКСТ: {news_item['summary']}
-Напиши КРАТКОЕ содержание в 2-4 предложениях (что, почему важно, факты). Живой язык, 1-2 эмодзи. Без заголовка."""
-    response = groq_client.chat.completions.create(
-        model="qwen/qwen3.8-27b",
-        messages=[
-            {"role": "system", "content": "Ты — редактор. Отвечай ТОЛЬКО текстом."},
-            {"role": "user", "content": prompt}
-        ],
-        temperature=0.7,
-        max_tokens=400
-    )
-    return response.choices[0].message.content.strip()
+Напиши КРАТКОЕ содержание в 2-4 предложениях. Живой язык, 1-2 эмодзи. Без заголовка."""
+        response = groq_client.chat.completions.create(
+            model="qwen/qwen3.8-27b",  # Ваша проверенная модель
+            messages=[
+                {"role": "system", "content": "Ты — редактор. Отвечай ТОЛЬКО текстом."},
+                {"role": "user", "content": prompt}
+            ],
+            temperature=0.7,
+            max_tokens=400
+        )
+        return response.choices[0].message.content.strip()
+    except Exception as e:
+        print(f"⚠️ Ошибка генерации: {e}")
+        return news_item['summary'][:200]
 
 def create_post(news_item):
     translated_title = translate_title_with_qwen(news_item['title'])
     summary = write_summary_with_qwen(news_item)
-    return f"<b>{translated_title}</b>\n\n{summary}\n\n <a href='{news_item['link']}'>Читать подробнее</a>\n\n#AI #технологии #новости"
+    return f"<b>{translated_title}</b>\n\n{summary}\n\n🔗 <a href='{news_item['link']}'>Читать подробнее</a>\n\n#AI #технологии #новости"
 
-# ========== ПОСТИНГ ЧЕРЕЗ TELEGRAM API ==========
-def post_to_telegram(text, schedule_date=None):
+# ========== ПОСТИНГ В TELEGRAM ==========
+def post_to_telegram(text):
     url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
-    
-    # Формируем данные
     data = {
         "chat_id": CHANNEL_ID,
         "text": text,
@@ -112,23 +117,15 @@ def post_to_telegram(text, schedule_date=None):
         "disable_web_page_preview": "false"
     }
     
-    if schedule_date:
-        data["schedule_date"] = str(int(schedule_date.timestamp()))
-        print(f"⏰ Планирую на {schedule_date.strftime('%H:%M:%S')} UTC")
-    
-    # Отправляем POST-запрос
-    response = requests.post(url, data=data)
+    response = requests.post(url, data=data, timeout=15)
     
     if response.status_code == 200:
         result = response.json()
         if result.get('ok'):
-            if schedule_date:
-                print(f"✅ Запланировано в Telegram!")
-            else:
-                print("✅ Опубликовано!")
+            print("✅ Опубликовано!")
             return True
     
-    print(f"⚠️ Ошибка: {response.text}")
+    print(f"⚠️ Ошибка Telegram: {response.text}")
     return False
 
 # ========== ГЛАВНЫЙ ЦИКЛ ==========
@@ -141,33 +138,26 @@ def main():
     raw_news = get_all_news()
     
     unique_news = [item for item in raw_news if item['link'] not in posted_links]
-    print(f" Найдено {len(raw_news)} новостей, из них {len(unique_news)} новых.\n")
+    print(f"📊 Найдено {len(raw_news)} новостей, из них {len(unique_news)} новых.\n")
     
     if not unique_news:
-        print("🔄 Новых новостей нет. Пропускаем.")
+        print("🔄 Новых новостей нет. Ждем следующего запуска через 30 минут.")
         return
     
-    interval_minutes = 12
-    new_links = []
-    current_time = datetime.now(timezone.utc)
+    # БЕРЕМ ТОЛЬКО 1 НОВОСТЬ за запуск для экономии лимитов GitHub
+    news_item = unique_news[0]
+    print(f"📝 Публикую: {news_item['title'][:40]}...")
     
-    for i, news_item in enumerate(unique_news):
-        print(f"📝 Обрабатываю: {news_item['title'][:50]}...")
-        try:
-            post = create_post(news_item)
-            
-            schedule_time = current_time + timedelta(minutes=2 + (i * interval_minutes))
-            
-            success = post_to_telegram(post, schedule_date=schedule_time)
-            if success:
-                new_links.append(news_item['link'])
-                
-        except Exception as e:
-            print(f"❌ Ошибка: {e}")
-            
-    save_posted_news(posted_links + new_links)
-    print(f"\n Готово! {len(new_links)} постов отправлено в Telegram.")
-    print(f"⏰ Они выйдут с интервалом 12 минут.")
+    try:
+        post = create_post(news_item)
+        if post_to_telegram(post):
+            posted_links.append(news_item['link'])
+            save_posted_news(posted_links)
+            print("🎉 Успешно! Скрипт завершает работу.")
+        else:
+            print("❌ Не удалось опубликовать")
+    except Exception as e:
+        print(f"❌ Ошибка: {e}")
 
 if __name__ == "__main__":
     main()
