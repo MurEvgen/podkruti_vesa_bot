@@ -9,14 +9,18 @@ GROQ_API_KEY = os.environ.get("GROQ_API_KEY")
 TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
 CHANNEL_ID = "@podkruti_vesa"
 
-RSS_FEEDS = [
+# Разделяем источники на категории
+AI_FEEDS = [
     'https://openai.com/blog/rss.xml',
     'https://venturebeat.com/category/ai/feed/',
     'https://www.anthropic.com/rss.xml',
     'https://www.syncedreview.com/feed/',
     'https://deepmind.google/blog/rss.xml',
     'https://neurohive.io/ru/feed/',
-    'https://habr.com/ru/hub/artificial_intelligence/rss/',
+    'https://habr.com/ru/hub/artificial_intelligence/rss/'
+]
+
+TECH_FEEDS = [
     'https://techcrunch.com/feed/',
     'https://arstechnica.com/feed/',
     'https://technode.com/feed/',
@@ -28,18 +32,22 @@ MEMORY_FILE = "posted_news.json"
 groq_client = Groq(api_key=GROQ_API_KEY)
 
 # ========== ФУНКЦИИ ПАМЯТИ ==========
-def load_posted_news():
+def load_memory():
     if os.path.exists(MEMORY_FILE):
         with open(MEMORY_FILE, 'r', encoding='utf-8') as f:
-            return json.load(f)
-    return []
+            data = json.load(f)
+            # Если старый формат (просто список), конвертируем
+            if isinstance(data, list):
+                return {'posted_links': data, 'ai_index': 0, 'tech_index': 0, 'category': 'ai'}
+            return data
+    return {'posted_links': [], 'ai_index': 0, 'tech_index': 0, 'category': 'ai'}
 
-def save_posted_news(posted_list):
+def save_memory(memory):
     with open(MEMORY_FILE, 'w', encoding='utf-8') as f:
-        json.dump(posted_list[-100:], f, ensure_ascii=False, indent=2)
+        json.dump(memory, f, ensure_ascii=False, indent=2)
 
 # ========== ЧТЕНИЕ RSS ==========
-def get_news_from_rss(feed_url, max_items=2):
+def get_news_from_rss(feed_url, max_items=3):
     try:
         feed = feedparser.parse(feed_url)
         news_list = []
@@ -58,18 +66,29 @@ def get_news_from_rss(feed_url, max_items=2):
         print(f"Ошибка при чтении {feed_url}: {e}")
         return []
 
-def get_all_news():
+def get_news_from_feeds(feeds, start_index):
+    """Берём новости начиная с определённого индекса (round-robin)"""
+    num_feeds = len(feeds)
+    if num_feeds == 0:
+        return [], start_index
+    
+    # Начинаем с start_index и идём по кругу
     all_news = []
-    for feed_url in RSS_FEEDS:
-        news = get_news_from_rss(feed_url, max_items=2)
+    current_index = start_index
+    for i in range(num_feeds):
+        feed_idx = (current_index + i) % num_feeds
+        news = get_news_from_rss(feeds[feed_idx], max_items=2)
         all_news.extend(news)
-    return all_news
+    
+    # Следующий индекс — сдвигаем на 1
+    next_index = (start_index + 1) % num_feeds
+    return all_news, next_index
 
 # ========== ПЕРЕВОД И СОДЕРЖАНИЕ ==========
 def translate_title_with_qwen(original_title):
     try:
         response = groq_client.chat.completions.create(
-            model="qwen/qwen3.8-27b",  # Ваша проверенная модель
+            model="qwen/qwen3.8-27b",
             messages=[
                 {"role": "system", "content": "Переведи заголовок на русский кратко. Отвечай ТОЛЬКО переводом."},
                 {"role": "user", "content": f"Переведи:\n{original_title}"}
@@ -89,7 +108,7 @@ def write_summary_with_qwen(news_item):
 ТЕКСТ: {news_item['summary']}
 Напиши КРАТКОЕ содержание в 2-4 предложениях. Живой язык, 1-2 эмодзи. Без заголовка."""
         response = groq_client.chat.completions.create(
-            model="qwen/qwen3.8-27b",  # Ваша проверенная модель
+            model="qwen/qwen3.8-27b",
             messages=[
                 {"role": "system", "content": "Ты — редактор. Отвечай ТОЛЬКО текстом."},
                 {"role": "user", "content": prompt}
@@ -132,28 +151,60 @@ def post_to_telegram(text):
 def main():
     print("🚀 Запуск...\n")
     
-    posted_links = load_posted_news()
-    print(f"🧠 В памяти {len(posted_links)} уже опубликованных новостей.")
+    memory = load_memory()
+    posted_links = memory['posted_links']
+    ai_index = memory.get('ai_index', 0)
+    tech_index = memory.get('tech_index', 0)
+    current_category = memory.get('category', 'ai')
     
-    raw_news = get_all_news()
+    print(f"🧠 В памяти {len(posted_links)} опубликованных новостей.")
+    print(f"📂 Текущая категория: {current_category.upper()}")
     
+    # Выбираем источники в зависимости от категории
+    if current_category == 'ai':
+        feeds = AI_FEEDS
+        start_index = ai_index
+        print(f"🤖 Источники AI: {len(feeds)} каналов")
+    else:
+        feeds = TECH_FEEDS
+        start_index = tech_index
+        print(f"💻 Источники TECH: {len(feeds)} каналов")
+    
+    # Получаем новости с round-robin
+    raw_news, next_index = get_news_from_feeds(feeds, start_index)
+    
+    # Фильтруем уже опубликованные
     unique_news = [item for item in raw_news if item['link'] not in posted_links]
     print(f"📊 Найдено {len(raw_news)} новостей, из них {len(unique_news)} новых.\n")
     
     if not unique_news:
-        print("🔄 Новых новостей нет. Ждем следующего запуска через 30 минут.")
+        print("🔄 Новых новостей нет. Переключаем категорию.")
+        # Переключаем категорию для следующего запуска
+        next_category = 'tech' if current_category == 'ai' else 'ai'
+        memory['category'] = next_category
+        save_memory(memory)
         return
     
-    # БЕРЕМ ТОЛЬКО 1 НОВОСТЬ за запуск для экономии лимитов GitHub
+    # Берём только 1 новость
     news_item = unique_news[0]
-    print(f"📝 Публикую: {news_item['title'][:40]}...")
+    print(f" Публикую: {news_item['title'][:40]}...")
     
     try:
         post = create_post(news_item)
         if post_to_telegram(post):
             posted_links.append(news_item['link'])
-            save_posted_news(posted_links)
-            print("🎉 Успешно! Скрипт завершает работу.")
+            
+            # Переключаем категорию для следующего запуска
+            next_category = 'tech' if current_category == 'ai' else 'ai'
+            
+            # Сохраняем обновлённую память
+            memory['posted_links'] = posted_links[-100:]  # Храним последние 100
+            memory['ai_index'] = ai_index if current_category == 'ai' else next_index
+            memory['tech_index'] = next_index if current_category == 'tech' else tech_index
+            memory['category'] = next_category
+            
+            save_memory(memory)
+            print(f"🎉 Успешно! Следующая категория: {next_category.upper()}")
         else:
             print("❌ Не удалось опубликовать")
     except Exception as e:
