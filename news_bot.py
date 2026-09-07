@@ -108,15 +108,16 @@ def post_to_telegram(text, schedule_date=None):
         "chat_id": CHANNEL_ID,
         "text": text,
         "parse_mode": "HTML",
-        "disable_web_page_preview": False
+        "disable_web_page_preview": "false"
     }
     
-    # Добавляем schedule_date (Unix timestamp)
     if schedule_date:
+        # Unix timestamp (целое число секунд)
         payload["schedule_date"] = int(schedule_date.timestamp())
         print(f"⏰ Запланировано на {schedule_date.strftime('%H:%M:%S')} UTC")
     
-    response = requests.post(url, json=payload)
+    # Отправляем как form data (не JSON!)
+    response = requests.post(url, data=payload)
     
     if response.status_code == 200:
         result = response.json()
@@ -129,7 +130,6 @@ def post_to_telegram(text, schedule_date=None):
     
     print(f"⚠️ Ошибка Telegram: {response.text}")
     return False
-
 # ========== ГЛАВНЫЙ ЦИКЛ ==========
 def main():
     print("🚀 Запуск...\n")
