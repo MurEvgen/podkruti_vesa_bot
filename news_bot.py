@@ -1,9 +1,9 @@
 import feedparser
 from groq import Groq
-import requests
 import os
 import json
 from datetime import datetime, timedelta, timezone
+from telegram import Bot
 
 # ========== НАСТРОЙКИ ==========
 GROQ_API_KEY = os.environ.get("GROQ_API_KEY")
@@ -27,6 +27,7 @@ RSS_FEEDS = [
 
 MEMORY_FILE = "posted_news.json"
 groq_client = Groq(api_key=GROQ_API_KEY)
+bot = Bot(token=TELEGRAM_BOT_TOKEN)
 
 # ========== ФУНКЦИИ ПАМЯТИ ==========
 def load_posted_news():
@@ -100,37 +101,25 @@ def create_post(news_item):
     summary = write_summary_with_qwen(news_item)
     return f"<b>{translated_title}</b>\n\n{summary}\n\n <a href='{news_item['link']}'>Читать подробнее</a>\n\n#AI #технологии #новости"
 
-# ========== ПОСТИНГ ЧЕРЕЗ HTTP (с schedule_date!) ==========
+# ========== ПОСТИНГ С SCHEDULE_DATE ==========
 def post_to_telegram(text, schedule_date=None):
-    url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
-    
-    payload = {
-        "chat_id": CHANNEL_ID,
-        "text": text,
-        "parse_mode": "HTML",
-        "disable_web_page_preview": False
-    }
-    
-    if schedule_date:
-        # Unix timestamp как целое число
-        timestamp = int(schedule_date.timestamp())
-        payload["schedule_date"] = timestamp
-        print(f"⏰ Запланировано на {schedule_date.strftime('%H:%M:%S')} UTC (timestamp: {timestamp})")
-    
-    # Отправляем как JSON (не form data!)
-    response = requests.post(url, json=payload)
-    
-    if response.status_code == 200:
-        result = response.json()
-        if result.get('ok'):
-            if schedule_date:
-                print(f"✅ Пост запланирован в Telegram!")
-            else:
-                print("✅ Опубликовано!")
-            return True
-    
-    print(f"⚠️ Ошибка Telegram: {response.text}")
-    return False
+    try:
+        bot.send_message(
+            chat_id=CHANNEL_ID,
+            text=text,
+            parse_mode="HTML",
+            disable_web_page_preview=False,
+            schedule_date=schedule_date  # ← Вот ключевой параметр!
+        )
+        if schedule_date:
+            print(f"✅ Запланировано на {schedule_date.strftime('%H:%M:%S')} UTC")
+        else:
+            print("✅ Опубликовано!")
+        return True
+    except Exception as e:
+        print(f"⚠️ Ошибка: {e}")
+        return False
+
 # ========== ГЛАВНЫЙ ЦИКЛ ==========
 def main():
     print("🚀 Запуск...\n")
@@ -141,14 +130,14 @@ def main():
     raw_news = get_all_news()
     
     unique_news = [item for item in raw_news if item['link'] not in posted_links]
-    print(f"📊 Найдено {len(raw_news)} новостей, из них {len(unique_news)} новых.\n")
+    print(f" Найдено {len(raw_news)} новостей, из них {len(unique_news)} новых.\n")
     
     if not unique_news:
         print("🔄 Новых новостей нет. Пропускаем.")
         return
     
     total_posts = len(unique_news)
-    interval_minutes = 12  # 5 постов за 60 минут
+    interval_minutes = 12
     
     new_links = []
     current_time = datetime.now(timezone.utc)
@@ -158,7 +147,7 @@ def main():
         try:
             post = create_post(news_item)
             
-            # Рассчитываем время: первый пост через 2 минуты, остальные с интервалом
+            # Первый пост через 2 минуты, остальные с интервалом 12 минут
             schedule_time = current_time + timedelta(minutes=2 + (i * interval_minutes))
             
             success = post_to_telegram(post, schedule_date=schedule_time)
