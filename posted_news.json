@@ -10,9 +10,10 @@
     "https://tech.eu/2026/09/07/tickets-for-good-raises-ps39m-to-expand-low-cost-access-to-live-events-globally/",
     "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
     "https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/",
-    "https://openai.com/index/an-alien-mind"
+    "https://openai.com/index/an-alien-mind",
+    "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
   ],
-  "ai_index": 0,
-  "tech_index": 0,
-  "category": "tech"
+  "ai_index": 1,
+  "tech_index": 1,
+  "category": "ai"
 }
