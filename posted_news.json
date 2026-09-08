@@ -58,9 +58,10 @@
     "https://techcrunch.com/2026/09/08/how-to-watch-apples-foldable-iphone-announcement/",
     "https://openai.com/index/codex-quantum-computing-experiments",
     "https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/",
-    "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/"
+    "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+    "https://arstechnica.com/gadgets/2026/09/lg-tv-shown-capable-of-tracking-user-activity-even-when-offline/"
   ],
-  "ai_index": 1,
-  "tech_index": 1,
-  "category": "tech"
+  "ai_index": 2,
+  "tech_index": 2,
+  "category": "ai"
 }
