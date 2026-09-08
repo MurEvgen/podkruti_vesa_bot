@@ -56,9 +56,10 @@
     "https://openai.com/index/introducing-chatgpt-images-2-5",
     "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
     "https://techcrunch.com/2026/09/08/how-to-watch-apples-foldable-iphone-announcement/",
-    "https://openai.com/index/codex-quantum-computing-experiments"
+    "https://openai.com/index/codex-quantum-computing-experiments",
+    "https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/"
   ],
-  "ai_index": 5,
-  "tech_index": 5,
-  "category": "tech"
+  "ai_index": 0,
+  "tech_index": 0,
+  "category": "ai"
 }
