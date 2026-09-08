@@ -37,9 +37,10 @@
     "https://www.theregister.com/public-sector/2026/09/08/uk-energy-operator-sticks-with-palantir-in-21m-direct-award/5294947",
     "https://pandaily.com/bitinfinite-wins-eccv-2026-cad-challenge-step-brep",
     "https://techcrunch.com/2026/09/08/stoke-space-raises-another-billion-to-rival-spacex-at-re-flying-rockets/",
-    "https://pandaily.com/deemos-hyper3d-worldgen-single-image-3d-scenes"
+    "https://pandaily.com/deemos-hyper3d-worldgen-single-image-3d-scenes",
+    "https://techcrunch.com/2026/09/08/poseidon-aerospace-lands-60m-ahead-of-first-pilotless-test-flight/"
   ],
-  "ai_index": 0,
-  "tech_index": 0,
-  "category": "tech"
+  "ai_index": 1,
+  "tech_index": 1,
+  "category": "ai"
 }
