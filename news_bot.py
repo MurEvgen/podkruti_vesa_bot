@@ -9,23 +9,32 @@ GROQ_API_KEY = os.environ.get("GROQ_API_KEY")
 TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
 CHANNEL_ID = "@podkruti_vesa"
 
-# Разделяем источники на категории
+# ========== ИСТОЧНИКИ ==========
 AI_FEEDS = [
+    # Западные ИИ-источники
     'https://openai.com/blog/rss.xml',
     'https://venturebeat.com/category/ai/feed/',
     'https://www.anthropic.com/rss.xml',
     'https://www.syncedreview.com/feed/',
     'https://deepmind.google/blog/rss.xml',
     'https://neurohive.io/ru/feed/',
-    'https://habr.com/ru/hub/artificial_intelligence/rss/'
+    'https://habr.com/ru/hub/artificial_intelligence/rss/',
+    # 🇳 Китайские ИИ-источники
+    'https://pandaily.com/feed/',                       # Pandaily (англ., фокус на Китае)
+    'https://www.chinatechnews.com/rss',                # ChinaTechNews
+    'http://rss.sina.com.cn/tech/index.xml',            # Sina Tech (китайский)
+    'https://www.cgtn.com/rss/tech'                     # CGTN Technology
 ]
 
 TECH_FEEDS = [
+    # Западные техно-источники
     'https://techcrunch.com/feed/',
     'https://arstechnica.com/feed/',
-    'https://technode.com/feed/',
+    'https://technode.com/feed/',                       # TechNode (Китай, англ.)
     'https://tech.eu/feed/',
-    'https://www.theregister.com/headlines.atom'
+    'https://www.theregister.com/headlines.atom',
+    # 🇨🇳 Китайские техно-источники
+    'https://www.scmp.com/rss/369480/rss.xml'           # SCMP Tech (Гонконг, англ.)
 ]
 
 MEMORY_FILE = "posted_news.json"
@@ -72,7 +81,6 @@ def get_news_from_feeds(feeds, start_index):
     if num_feeds == 0:
         return [], start_index
     
-    # Начинаем с start_index и идём по кругу
     all_news = []
     current_index = start_index
     for i in range(num_feeds):
@@ -80,7 +88,6 @@ def get_news_from_feeds(feeds, start_index):
         news = get_news_from_rss(feeds[feed_idx], max_items=2)
         all_news.extend(news)
     
-    # Следующий индекс — сдвигаем на 1
     next_index = (start_index + 1) % num_feeds
     return all_news, next_index
 
@@ -179,7 +186,6 @@ def main():
     
     if not unique_news:
         print("🔄 Новых новостей нет. Переключаем категорию.")
-        # Переключаем категорию для следующего запуска
         next_category = 'tech' if current_category == 'ai' else 'ai'
         memory['category'] = next_category
         save_memory(memory)
@@ -198,13 +204,13 @@ def main():
             next_category = 'tech' if current_category == 'ai' else 'ai'
             
             # Сохраняем обновлённую память
-            memory['posted_links'] = posted_links[-100:]  # Храним последние 100
+            memory['posted_links'] = posted_links[-100:]
             memory['ai_index'] = ai_index if current_category == 'ai' else next_index
             memory['tech_index'] = next_index if current_category == 'tech' else tech_index
             memory['category'] = next_category
             
             save_memory(memory)
-            print(f"🎉 Успешно! Следующая категория: {next_category.upper()}")
+            print(f" Успешно! Следующая категория: {next_category.upper()}")
         else:
             print("❌ Не удалось опубликовать")
     except Exception as e:
