@@ -64,9 +64,10 @@
     "https://www.theregister.com/os-platforms/2026/09/08/bing-wallpaper-app-opens-harry-potters-chamber-of-ads/5295118",
     "https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/",
     "https://www.chinatechnews.com/2026/09/09/128816-treat-ai-like-nukes-beijing-demands-un-controls-to-smash-western-tech-monopolies",
-    "https://arstechnica.com/gaming/2026/09/gog-brings-back-big-box-pc-games-one-printable-template-at-a-time/"
+    "https://arstechnica.com/gaming/2026/09/gog-brings-back-big-box-pc-games-one-printable-template-at-a-time/",
+    "https://www.theregister.com/security/2026/09/09/microsoft-breaks-patch-tuesday-record-with-974-cve-deluge/5295160"
   ],
-  "ai_index": 0,
-  "tech_index": 0,
-  "category": "tech"
+  "ai_index": 1,
+  "tech_index": 1,
+  "category": "ai"
 }
