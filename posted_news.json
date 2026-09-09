@@ -103,9 +103,10 @@
     "https://semiengineering.com/the-intersection-of-ai-and-voice-at-the-edge/",
     "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
     "https://www.eetimes.com/the-hardware-assisted-verification-imperative/",
-    "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image"
+    "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
+    "https://www.extremetech.com/internet/claude-hackers-are-hijacking-tokens-from-paying-subscribers"
   ],
-  "ai_index": 8,
-  "tech_index": 8,
-  "category": "tech"
+  "ai_index": 9,
+  "tech_index": 9,
+  "category": "ai"
 }
