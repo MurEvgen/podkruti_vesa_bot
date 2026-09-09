@@ -14,21 +14,21 @@ AI_FEEDS = [
     # --- ИИ-компании и лаборатории ---
     'https://openai.com/blog/rss.xml',
     'https://deepmind.google/blog/rss.xml',
-    'https://blog.google/technology/ai/rss/',          # Google AI Blog
+    'https://blog.google/technology/ai/rss/',
     # --- ИИ-разработки и исследования ---
-    'https://huggingface.co/blog/feed.xml',            # Hugging Face
-    'https://the-decoder.com/feed/',                   # The Decoder
-    'https://www.technologyreview.com/topic/artificial-intelligence/feed',  # MIT TR AI
-    'https://rss.arxiv.org/rss/cs.AI',                 # arXiv (научные статьи)
-    'https://techcrunch.com/category/artificial-intelligence/feed/',  # TechCrunch AI
-    'https://www.theverge.com/rss/ai-artificial-intelligence/index.xml',    # The Verge AI
+    'https://huggingface.co/blog/feed.xml',
+    'https://the-decoder.com/feed/',
+    'https://www.technologyreview.com/topic/artificial-intelligence/feed',
+    'https://rss.arxiv.org/rss/cs.AI',
+    'https://techcrunch.com/category/artificial-intelligence/feed/',
+    'https://www.theverge.com/rss/ai-artificial-intelligence/index.xml',
     # --- Русские ИИ-источники ---
     'https://neurohive.io/ru/feed/',
-    'https://habr.com/ru/rss/hub/artificial_intelligence/',  # Habr AI (альтернативный URL)
+    'https://habr.com/ru/rss/hub/artificial_intelligence/',
     # --- 🇨🇳 Китайские ИИ-источники ---
-    'https://pandaily.com/feed/',                      # Pandaily (англ., про Китай)
-    'https://www.qbitai.com/feed',                     # QbitAI (специализированный ИИ)
-    'https://www.infoq.cn/feed',                       # InfoQ CN (техсообщество)
+    'https://pandaily.com/feed/',
+    'https://www.qbitai.com/feed',
+    'https://www.infoq.cn/feed',
 ]
 
 TECH_FEEDS = [
@@ -38,24 +38,24 @@ TECH_FEEDS = [
     'https://tech.eu/feed/',
     'https://www.theregister.com/headlines.atom',
     # --- ⚙️ Инженерия × новые технологии ---
-    'https://hackaday.com/feed/',                      # Инженерные проекты
-    'https://www.therobotreport.com/feed/',            # Робототехника
-    'https://semiengineering.com/feed/',               # Чипы и полупроводники
-    'https://www.eetimes.com/feed/',                   # Электроника
-    'https://www.extremetech.com/feed',                # ExtremeTech
-    'https://www.tomshardware.com/feeds/all',          # Железо
-    'https://phys.org/rss-feed/',                      # Наука + инженерия
-    'https://spectrum.ieee.org/feeds/feed.rss',        # IEEE Spectrum (альтернативный URL)
+    'https://hackaday.com/feed/',
+    'https://www.therobotreport.com/feed/',
+    'https://semiengineering.com/feed/',
+    'https://www.eetimes.com/feed/',
+    'https://www.extremetech.com/feed',
+    'https://www.tomshardware.com/feeds/all',
+    'https://phys.org/rss-feed/',
+    'https://spectrum.ieee.org/feeds/feed.rss',
     # --- Русские техно-источники ---
     'https://3dnews.ru/news/rss/',
     'https://www.ixbt.com/export/news.rss',
     # --- 🇨🇳 Китайские техно-источники ---
-    'https://www.chinatechnews.com/feed',              # ChinaTechNews (альтернативный URL)
-    'https://www.scmp.com/rss/36/feed',                # SCMP Tech (альтернативный URL)
-    'http://rss.sina.com.cn/news/allnews/tech.xml',    # Sina Tech (альтернативный URL)
-    'https://www.36kr.com/feed',                       # 36Kr (главное техно-СМИ Китая)
-    'https://www.ithome.com/rss/',                     # ITHome (популярный техно-портал)
-    'https://www.geekpark.net/rss',                    # GeekPark (инновации и стартапы)
+    'https://www.chinatechnews.com/feed',
+    'https://www.scmp.com/rss/36/feed',
+    'http://rss.sina.com.cn/news/allnews/tech.xml',
+    'https://www.36kr.com/feed',
+    'https://www.ithome.com/rss/',
+    'https://www.geekpark.net/rss',
 ]
 
 MEMORY_FILE = "posted_news.json"
@@ -111,13 +111,19 @@ def get_news_from_feeds(feeds, start_index):
     next_index = (start_index + 1) % num_feeds
     return all_news, next_index
 
-# ========== ПЕРЕВОД И СОДЕРЖАНИЕ ==========
+# ========== ПЕРЕВОД И СОДЕРЖАНИЕ (УЛУЧШЕННЫЕ ПРОМПТЫ) ==========
 def translate_title_with_qwen(original_title):
     try:
         response = groq_client.chat.completions.create(
             model="qwen/qwen3.8-27b",
             messages=[
-                {"role": "system", "content": "Переведи заголовок на русский кратко. Отвечай ТОЛЬКО переводом."},
+                {"role": "system", "content": """Ты — профессиональный переводчик и редактор. Переведи заголовок с английского или китайского на русский.
+ПРАВИЛА:
+- Перевод должен быть ГРАММАТИЧЕСКИ ПРАВИЛЬНЫМ (согласование родов, падежей)
+- Используй естественные русские конструкции, избегай калек
+- Если слово не имеет хорошего русского аналога, перефразируй смысл
+- "Viral" переводи как "популярный" или "вирусный" (не "виральный")
+- Отвечай ТОЛЬКО переводом, без пояснений"""},
                 {"role": "user", "content": f"Переведи:\n{original_title}"}
             ],
             temperature=0.3,
@@ -133,11 +139,20 @@ def write_summary_with_qwen(news_item):
         prompt = f"""ИСТОЧНИК: {news_item['source']}
 ЗАГОЛОВОК: {news_item['title']}
 ТЕКСТ: {news_item['summary']}
-Напиши КРАТКОЕ содержание в 2-4 предложениях. Живой язык, 1-2 эмодзи. Без заголовка."""
+
+Напиши КРАТКОЕ содержание новости в 2-4 предложениях на РУССКОМ ЯЗЫКЕ.
+
+СТРОГИЕ ПРАВИЛА:
+- Пиши ГРАММАТИЧЕСКИ ПРАВИЛЬНО (проверяй согласование родов, падежей, времён)
+- Используй ЕСТЕСТВЕННЫЕ русские выражения, избегай калек с английского
+- НЕ используй английские слова в русском тексте (например, не пиши "на behalf", а пиши "от имени")
+- Переводи ВСЕ слова, не оставляй английский текст без перевода
+- Пиши живо и интересно, добавь 1-2 эмодзи
+- НЕ добавляй заголовок, начинай сразу с текста"""
         response = groq_client.chat.completions.create(
             model="qwen/qwen3.8-27b",
             messages=[
-                {"role": "system", "content": "Ты — редактор. Отвечай ТОЛЬКО текстом."},
+                {"role": "system", "content": "Ты — профессиональный редактор и переводчик. Отвечай ТОЛЬКО готовым текстом."},
                 {"role": "user", "content": prompt}
             ],
             temperature=0.7,
@@ -218,7 +233,6 @@ def main():
             
             next_category = 'tech' if current_category == 'ai' else 'ai'
             
-            # Храним 500 ссылок (источников теперь больше)
             memory['posted_links'] = posted_links[-500:]
             memory['ai_index'] = ai_index if current_category == 'ai' else next_index
             memory['tech_index'] = next_index if current_category == 'tech' else tech_index
