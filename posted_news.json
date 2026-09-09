@@ -78,9 +78,10 @@
     "https://technode.com/2026/09/09/deepseek-citic-securities-shanghai-star-market-ipo/",
     "https://tech.eu/2026/09/09/actionable-raises-10m-to-turn-customer-data-into-behavioural-predictions/",
     "https://www.theregister.com/personal-tech/2026/09/09/huawei-watch-d3-pumps-up-its-health-monitoring-credentials/5294920",
-    "https://pandaily.com/xiaomi-xring-o3-mass-production-mimo-o100-d100-roadmap"
+    "https://pandaily.com/xiaomi-xring-o3-mass-production-mimo-o100-d100-roadmap",
+    "https://technode.com/2026/09/09/xpeng-puts-humanoid-robot-production-line-into-operation-as-first-iron-robot-walks-off-autonomously/"
   ],
-  "ai_index": 5,
-  "tech_index": 5,
-  "category": "tech"
+  "ai_index": 0,
+  "tech_index": 0,
+  "category": "ai"
 }
