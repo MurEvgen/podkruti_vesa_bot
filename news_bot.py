@@ -9,32 +9,53 @@ GROQ_API_KEY = os.environ.get("GROQ_API_KEY")
 TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
 CHANNEL_ID = "@podkruti_vesa"
 
-# ========== ИСТОЧНИКИ ==========
+# ========== ИСТОЧНИКИ (только проверенные) ==========
 AI_FEEDS = [
-    # Западные ИИ-источники
+    # --- ИИ-компании и лаборатории ---
     'https://openai.com/blog/rss.xml',
-    'https://venturebeat.com/category/ai/feed/',
-    'https://www.anthropic.com/rss.xml',
-    'https://www.syncedreview.com/feed/',
     'https://deepmind.google/blog/rss.xml',
+    'https://blog.google/technology/ai/rss/',          # Google AI Blog
+    # --- ИИ-разработки и исследования ---
+    'https://huggingface.co/blog/feed.xml',            # Hugging Face
+    'https://the-decoder.com/feed/',                   # The Decoder
+    'https://www.technologyreview.com/topic/artificial-intelligence/feed',  # MIT TR AI
+    'https://rss.arxiv.org/rss/cs.AI',                 # arXiv (научные статьи)
+    'https://techcrunch.com/category/artificial-intelligence/feed/',  # TechCrunch AI
+    'https://www.theverge.com/rss/ai-artificial-intelligence/index.xml',    # The Verge AI
+    # --- Русские ИИ-источники ---
     'https://neurohive.io/ru/feed/',
-    'https://habr.com/ru/hub/artificial_intelligence/rss/',
-    # 🇳 Китайские ИИ-источники
-    'https://pandaily.com/feed/',                       # Pandaily (англ., фокус на Китае)
-    'https://www.chinatechnews.com/rss',                # ChinaTechNews
-    'http://rss.sina.com.cn/tech/index.xml',            # Sina Tech (китайский)
-    'https://www.cgtn.com/rss/tech'                     # CGTN Technology
+    'https://habr.com/ru/rss/hub/artificial_intelligence/',  # Habr AI (альтернативный URL)
+    # --- 🇨🇳 Китайские ИИ-источники ---
+    'https://pandaily.com/feed/',                      # Pandaily (англ., про Китай)
+    'https://www.qbitai.com/feed',                     # QbitAI (специализированный ИИ)
+    'https://www.infoq.cn/feed',                       # InfoQ CN (техсообщество)
 ]
 
 TECH_FEEDS = [
-    # Западные техно-источники
+    # --- Западные техно-СМИ ---
     'https://techcrunch.com/feed/',
     'https://arstechnica.com/feed/',
-    'https://technode.com/feed/',                       # TechNode (Китай, англ.)
     'https://tech.eu/feed/',
     'https://www.theregister.com/headlines.atom',
-    # 🇨🇳 Китайские техно-источники
-    'https://www.scmp.com/rss/369480/rss.xml'           # SCMP Tech (Гонконг, англ.)
+    # --- ⚙️ Инженерия × новые технологии ---
+    'https://hackaday.com/feed/',                      # Инженерные проекты
+    'https://www.therobotreport.com/feed/',            # Робототехника
+    'https://semiengineering.com/feed/',               # Чипы и полупроводники
+    'https://www.eetimes.com/feed/',                   # Электроника
+    'https://www.extremetech.com/feed',                # ExtremeTech
+    'https://www.tomshardware.com/feeds/all',          # Железо
+    'https://phys.org/rss-feed/',                      # Наука + инженерия
+    'https://spectrum.ieee.org/feeds/feed.rss',        # IEEE Spectrum (альтернативный URL)
+    # --- Русские техно-источники ---
+    'https://3dnews.ru/news/rss/',
+    'https://www.ixbt.com/export/news.rss',
+    # --- 🇨🇳 Китайские техно-источники ---
+    'https://www.chinatechnews.com/feed',              # ChinaTechNews (альтернативный URL)
+    'https://www.scmp.com/rss/36/feed',                # SCMP Tech (альтернативный URL)
+    'http://rss.sina.com.cn/news/allnews/tech.xml',    # Sina Tech (альтернативный URL)
+    'https://www.36kr.com/feed',                       # 36Kr (главное техно-СМИ Китая)
+    'https://www.ithome.com/rss/',                     # ITHome (популярный техно-портал)
+    'https://www.geekpark.net/rss',                    # GeekPark (инновации и стартапы)
 ]
 
 MEMORY_FILE = "posted_news.json"
@@ -45,7 +66,6 @@ def load_memory():
     if os.path.exists(MEMORY_FILE):
         with open(MEMORY_FILE, 'r', encoding='utf-8') as f:
             data = json.load(f)
-            # Если старый формат (просто список), конвертируем
             if isinstance(data, list):
                 return {'posted_links': data, 'ai_index': 0, 'tech_index': 0, 'category': 'ai'}
             return data
@@ -167,7 +187,6 @@ def main():
     print(f"🧠 В памяти {len(posted_links)} опубликованных новостей.")
     print(f"📂 Текущая категория: {current_category.upper()}")
     
-    # Выбираем источники в зависимости от категории
     if current_category == 'ai':
         feeds = AI_FEEDS
         start_index = ai_index
@@ -177,10 +196,8 @@ def main():
         start_index = tech_index
         print(f"💻 Источники TECH: {len(feeds)} каналов")
     
-    # Получаем новости с round-robin
     raw_news, next_index = get_news_from_feeds(feeds, start_index)
     
-    # Фильтруем уже опубликованные
     unique_news = [item for item in raw_news if item['link'] not in posted_links]
     print(f"📊 Найдено {len(raw_news)} новостей, из них {len(unique_news)} новых.\n")
     
@@ -191,26 +208,24 @@ def main():
         save_memory(memory)
         return
     
-    # Берём только 1 новость
     news_item = unique_news[0]
-    print(f" Публикую: {news_item['title'][:40]}...")
+    print(f"📝 Публикую: {news_item['title'][:40]}...")
     
     try:
         post = create_post(news_item)
         if post_to_telegram(post):
             posted_links.append(news_item['link'])
             
-            # Переключаем категорию для следующего запуска
             next_category = 'tech' if current_category == 'ai' else 'ai'
             
-            # Сохраняем обновлённую память
-            memory['posted_links'] = posted_links[-100:]
+            # Храним 500 ссылок (источников теперь больше)
+            memory['posted_links'] = posted_links[-500:]
             memory['ai_index'] = ai_index if current_category == 'ai' else next_index
             memory['tech_index'] = next_index if current_category == 'tech' else tech_index
             memory['category'] = next_category
             
             save_memory(memory)
-            print(f" Успешно! Следующая категория: {next_category.upper()}")
+            print(f"🎉 Успешно! Следующая категория: {next_category.upper()}")
         else:
             print("❌ Не удалось опубликовать")
     except Exception as e:
