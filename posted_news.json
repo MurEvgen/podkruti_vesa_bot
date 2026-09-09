@@ -61,9 +61,10 @@
     "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
     "https://arstechnica.com/gadgets/2026/09/lg-tv-shown-capable-of-tracking-user-activity-even-when-offline/",
     "https://www.theregister.com/security/2026/09/08/openais-artifactory-opened-covert-data-stealing-channel-alongside-hugging-face-attack/5295124",
-    "https://www.theregister.com/os-platforms/2026/09/08/bing-wallpaper-app-opens-harry-potters-chamber-of-ads/5295118"
+    "https://www.theregister.com/os-platforms/2026/09/08/bing-wallpaper-app-opens-harry-potters-chamber-of-ads/5295118",
+    "https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/"
   ],
-  "ai_index": 4,
-  "tech_index": 4,
-  "category": "tech"
+  "ai_index": 5,
+  "tech_index": 5,
+  "category": "ai"
 }
