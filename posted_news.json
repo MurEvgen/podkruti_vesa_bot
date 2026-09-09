@@ -63,9 +63,10 @@
     "https://www.theregister.com/security/2026/09/08/openais-artifactory-opened-covert-data-stealing-channel-alongside-hugging-face-attack/5295124",
     "https://www.theregister.com/os-platforms/2026/09/08/bing-wallpaper-app-opens-harry-potters-chamber-of-ads/5295118",
     "https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/",
-    "https://www.chinatechnews.com/2026/09/09/128816-treat-ai-like-nukes-beijing-demands-un-controls-to-smash-western-tech-monopolies"
+    "https://www.chinatechnews.com/2026/09/09/128816-treat-ai-like-nukes-beijing-demands-un-controls-to-smash-western-tech-monopolies",
+    "https://arstechnica.com/gaming/2026/09/gog-brings-back-big-box-pc-games-one-printable-template-at-a-time/"
   ],
-  "ai_index": 5,
-  "tech_index": 5,
-  "category": "tech"
+  "ai_index": 0,
+  "tech_index": 0,
+  "category": "ai"
 }
