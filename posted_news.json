@@ -127,9 +127,10 @@
     "https://www.ithome.com/1/000/623.htm",
     "https://arxiv.org/abs/2609.05439",
     "http://www.geekpark.net/news/370089",
-    "https://openai.com/index/gpt-6-astra-next-generation-work"
+    "https://openai.com/index/gpt-6-astra-next-generation-work",
+    "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/"
   ],
-  "ai_index": 0,
-  "tech_index": 0,
-  "category": "tech"
+  "ai_index": 1,
+  "tech_index": 1,
+  "category": "ai"
 }
