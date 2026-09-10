@@ -165,9 +165,10 @@
     "https://36kr.com/p/3977421065466121?f=rss",
     "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
     "https://www.ithome.com/1/001/043.htm",
-    "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/"
+    "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+    "http://www.geekpark.net/news/370064"
   ],
-  "ai_index": 19,
-  "tech_index": 19,
-  "category": "tech"
+  "ai_index": 0,
+  "tech_index": 0,
+  "category": "ai"
 }
