@@ -158,9 +158,10 @@
     "https://huggingface.co/blog/gradio-workflow-1111",
     "https://www.scmp.com/tech/tech-trends/article/3367093/ai-bottleneck-breaker-chinas-huawei-touts-high-speed-optical-module?utm_source=rss_feed",
     "https://the-decoder.com/gpt-6-astra-gives-mathematicians-a-breather-and-openai-says-thats-by-design/",
-    "https://www.scmp.com/tech/big-tech/article/3367051/deepseek-says-new-flash-ai-model-beats-kimi-k3-cyber-coding-benchmarks?utm_source=rss_feed"
+    "https://www.scmp.com/tech/big-tech/article/3367051/deepseek-says-new-flash-ai-model-beats-kimi-k3-cyber-coding-benchmarks?utm_source=rss_feed",
+    "https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents/"
   ],
   "ai_index": 16,
   "tech_index": 16,
-  "category": "ai"
+  "category": "tech"
 }
