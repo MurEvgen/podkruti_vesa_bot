@@ -169,9 +169,10 @@
     "http://www.geekpark.net/news/370064",
     "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
     "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
-    "https://blog.google/products-and-platforms/products/search/running-race-training-tips/"
+    "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+    "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/"
   ],
-  "ai_index": 1,
-  "tech_index": 1,
-  "category": "tech"
+  "ai_index": 2,
+  "tech_index": 2,
+  "category": "ai"
 }
