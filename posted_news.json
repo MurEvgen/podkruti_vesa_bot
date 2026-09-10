@@ -129,9 +129,10 @@
     "http://www.geekpark.net/news/370089",
     "https://openai.com/index/gpt-6-astra-next-generation-work",
     "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
-    "https://arxiv.org/abs/2609.09203"
+    "https://arxiv.org/abs/2609.09203",
+    "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/"
   ],
-  "ai_index": 1,
-  "tech_index": 1,
-  "category": "tech"
+  "ai_index": 2,
+  "tech_index": 2,
+  "category": "ai"
 }
