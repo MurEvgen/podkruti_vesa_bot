@@ -203,9 +203,10 @@
     "https://36kr.com/p/3974257096159747?f=rss",
     "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
     "https://www.ithome.com/1/001/224.htm",
-    "https://habr.com/ru/companies/bothub/articles/1081080/?utm_campaign=1081080&utm_source=habrahabr&utm_medium=rss"
+    "https://habr.com/ru/companies/bothub/articles/1081080/?utm_campaign=1081080&utm_source=habrahabr&utm_medium=rss",
+    "https://www.ithome.com/1/001/237.htm"
   ],
-  "ai_index": 18,
-  "tech_index": 18,
-  "category": "tech"
+  "ai_index": 19,
+  "tech_index": 19,
+  "category": "ai"
 }
