@@ -205,9 +205,10 @@
     "https://www.ithome.com/1/001/224.htm",
     "https://habr.com/ru/companies/bothub/articles/1081080/?utm_campaign=1081080&utm_source=habrahabr&utm_medium=rss",
     "https://www.ithome.com/1/001/237.htm",
-    "https://habr.com/ru/articles/1080590/?utm_campaign=1080590&utm_source=habrahabr&utm_medium=rss"
+    "https://habr.com/ru/articles/1080590/?utm_campaign=1080590&utm_source=habrahabr&utm_medium=rss",
+    "http://www.geekpark.net/news/370157"
   ],
-  "ai_index": 19,
-  "tech_index": 19,
-  "category": "tech"
+  "ai_index": 0,
+  "tech_index": 0,
+  "category": "ai"
 }
