@@ -207,9 +207,10 @@
     "https://www.ithome.com/1/001/237.htm",
     "https://habr.com/ru/articles/1080590/?utm_campaign=1080590&utm_source=habrahabr&utm_medium=rss",
     "http://www.geekpark.net/news/370157",
-    "https://habr.com/ru/companies/alfa/articles/1080768/?utm_campaign=1080768&utm_source=habrahabr&utm_medium=rss"
+    "https://habr.com/ru/companies/alfa/articles/1080768/?utm_campaign=1080768&utm_source=habrahabr&utm_medium=rss",
+    "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/"
   ],
-  "ai_index": 0,
-  "tech_index": 0,
-  "category": "tech"
+  "ai_index": 1,
+  "tech_index": 1,
+  "category": "ai"
 }
