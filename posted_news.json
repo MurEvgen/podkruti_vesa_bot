@@ -209,9 +209,10 @@
     "http://www.geekpark.net/news/370157",
     "https://habr.com/ru/companies/alfa/articles/1080768/?utm_campaign=1080768&utm_source=habrahabr&utm_medium=rss",
     "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/",
-    "https://habr.com/ru/companies/vk/articles/1080770/?utm_campaign=1080770&utm_source=habrahabr&utm_medium=rss"
+    "https://habr.com/ru/companies/vk/articles/1080770/?utm_campaign=1080770&utm_source=habrahabr&utm_medium=rss",
+    "https://arstechnica.com/health/2026/09/boy-developed-toasted-skin-condition-from-using-a-laptop-every-day/"
   ],
-  "ai_index": 1,
-  "tech_index": 1,
-  "category": "tech"
+  "ai_index": 2,
+  "tech_index": 2,
+  "category": "ai"
 }
