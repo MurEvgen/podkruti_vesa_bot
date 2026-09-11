@@ -223,9 +223,10 @@
     "https://semiengineering.com/chip-industry-week-in-review-155/",
     "https://habr.com/ru/companies/sberbank/articles/1080158/?utm_campaign=1080158&utm_source=habrahabr&utm_medium=rss",
     "https://www.eetimes.com/indian-researchers-look-beyond-gpus-to-neuromorphic-ai-hardware/",
-    "https://habr.com/ru/companies/kodik/articles/1081264/?utm_campaign=1081264&utm_source=habrahabr&utm_medium=rss"
+    "https://habr.com/ru/companies/kodik/articles/1081264/?utm_campaign=1081264&utm_source=habrahabr&utm_medium=rss",
+    "https://www.extremetech.com/mobile/new-iphone-feature-helps-you-prove-your-photos-arent-ai-generated"
   ],
-  "ai_index": 8,
-  "tech_index": 8,
-  "category": "tech"
+  "ai_index": 9,
+  "tech_index": 9,
+  "category": "ai"
 }
