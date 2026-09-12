@@ -257,9 +257,10 @@
     "https://www.theregister.com/ai-and-ml/2026/09/11/ai-more-likely-to-kill-animals-if-it-saves-fuel-or-money/5295993",
     "https://arxiv.org/abs/2609.10629",
     "https://hackaday.com/2026/09/11/all-the-best-computers-boot-to-python/",
-    "https://habr.com/ru/articles/1081466/?utm_campaign=1081466&utm_source=habrahabr&utm_medium=rss"
+    "https://habr.com/ru/articles/1081466/?utm_campaign=1081466&utm_source=habrahabr&utm_medium=rss",
+    "https://www.therobotreport.com/one-brick-at-a-time-how-monumental-uses-robotics-to-build-walls/"
   ],
-  "ai_index": 5,
-  "tech_index": 5,
-  "category": "tech"
+  "ai_index": 6,
+  "tech_index": 6,
+  "category": "ai"
 }
