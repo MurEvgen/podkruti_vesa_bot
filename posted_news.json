@@ -249,9 +249,10 @@
     "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
     "https://openai.com/index/perplexity-improving-accuracy-with-astra",
     "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
-    "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal"
+    "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
+    "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/"
   ],
-  "ai_index": 1,
-  "tech_index": 1,
-  "category": "tech"
+  "ai_index": 2,
+  "tech_index": 2,
+  "category": "ai"
 }
