@@ -259,9 +259,10 @@
     "https://hackaday.com/2026/09/11/all-the-best-computers-boot-to-python/",
     "https://habr.com/ru/articles/1081466/?utm_campaign=1081466&utm_source=habrahabr&utm_medium=rss",
     "https://www.therobotreport.com/one-brick-at-a-time-how-monumental-uses-robotics-to-build-walls/",
-    "https://habr.com/ru/companies/cloud_ru/articles/1069008/?utm_campaign=1069008&utm_source=habrahabr&utm_medium=rss"
+    "https://habr.com/ru/companies/cloud_ru/articles/1069008/?utm_campaign=1069008&utm_source=habrahabr&utm_medium=rss",
+    "https://semiengineering.com/heterogeneous-memory-chiplets-accelerate-multi-request-llm-inference-nus/"
   ],
-  "ai_index": 6,
-  "tech_index": 6,
-  "category": "tech"
+  "ai_index": 7,
+  "tech_index": 7,
+  "category": "ai"
 }
