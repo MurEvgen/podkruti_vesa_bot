@@ -265,9 +265,10 @@
     "https://www.eetimes.com/inside-architect-labs-two-week-chip-design/",
     "https://habr.com/ru/companies/ods/articles/1081508/?utm_campaign=1081508&utm_source=habrahabr&utm_medium=rss",
     "https://www.extremetech.com/computing/modders-make-rtx-5090-work-with-8-pin-pcie-power-cables-ditching-the-12v",
-    "https://habr.com/ru/companies/koda/articles/1081524/?utm_campaign=1081524&utm_source=habrahabr&utm_medium=rss"
+    "https://habr.com/ru/companies/koda/articles/1081524/?utm_campaign=1081524&utm_source=habrahabr&utm_medium=rss",
+    "https://www.tomshardware.com/video-games/playstation/consumer-rights-wiki-documents-at-least-44-instances-in-which-sony-says-you-own-your-games-project-is-direct-assault-on-sonys-claim-in-recent-ownership-lawsuit"
   ],
-  "ai_index": 9,
-  "tech_index": 9,
-  "category": "tech"
+  "ai_index": 10,
+  "tech_index": 10,
+  "category": "ai"
 }
