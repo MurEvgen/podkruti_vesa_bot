@@ -261,9 +261,10 @@
     "https://www.therobotreport.com/one-brick-at-a-time-how-monumental-uses-robotics-to-build-walls/",
     "https://habr.com/ru/companies/cloud_ru/articles/1069008/?utm_campaign=1069008&utm_source=habrahabr&utm_medium=rss",
     "https://semiengineering.com/heterogeneous-memory-chiplets-accelerate-multi-request-llm-inference-nus/",
-    "https://pandaily.com/huawei-7-2t-npo-optical-module-cioe-oif-6-4t-standard"
+    "https://pandaily.com/huawei-7-2t-npo-optical-module-cioe-oif-6-4t-standard",
+    "https://www.eetimes.com/inside-architect-labs-two-week-chip-design/"
   ],
-  "ai_index": 7,
-  "tech_index": 7,
-  "category": "tech"
+  "ai_index": 8,
+  "tech_index": 8,
+  "category": "ai"
 }
