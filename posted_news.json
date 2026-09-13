@@ -323,9 +323,10 @@
     "https://www.ithome.com/1/001/867.htm",
     "https://habr.com/ru/articles/1081764/?utm_campaign=1081764&utm_source=habrahabr&utm_medium=rss",
     "https://www.ithome.com/1/001/868.htm",
-    "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/"
+    "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+    "http://www.geekpark.net/news/370228"
   ],
-  "ai_index": 19,
-  "tech_index": 19,
-  "category": "tech"
+  "ai_index": 0,
+  "tech_index": 0,
+  "category": "ai"
 }
