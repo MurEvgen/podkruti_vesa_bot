@@ -321,9 +321,10 @@
     "https://36kr.com/p/3981147673345033?f=rss",
     "https://habr.com/ru/companies/vasexperts/articles/1078212/?utm_campaign=1078212&utm_source=habrahabr&utm_medium=rss",
     "https://www.ithome.com/1/001/867.htm",
-    "https://habr.com/ru/articles/1081764/?utm_campaign=1081764&utm_source=habrahabr&utm_medium=rss"
+    "https://habr.com/ru/articles/1081764/?utm_campaign=1081764&utm_source=habrahabr&utm_medium=rss",
+    "https://www.ithome.com/1/001/868.htm"
   ],
-  "ai_index": 18,
-  "tech_index": 18,
-  "category": "tech"
+  "ai_index": 19,
+  "tech_index": 19,
+  "category": "ai"
 }
