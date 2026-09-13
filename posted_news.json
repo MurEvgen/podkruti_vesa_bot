@@ -327,9 +327,10 @@
     "http://www.geekpark.net/news/370228",
     "https://habr.com/ru/articles/1081788/?utm_campaign=1081788&utm_source=habrahabr&utm_medium=rss",
     "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/",
-    "https://habr.com/ru/articles/1081780/?utm_campaign=1081780&utm_source=habrahabr&utm_medium=rss"
+    "https://habr.com/ru/articles/1081780/?utm_campaign=1081780&utm_source=habrahabr&utm_medium=rss",
+    "https://arstechnica.com/gadgets/2026/09/i-fixed-a-tractor-using-john-deeres-self-repair-service-farmers-arent-sold-on-it/"
   ],
-  "ai_index": 1,
-  "tech_index": 1,
-  "category": "tech"
+  "ai_index": 2,
+  "tech_index": 2,
+  "category": "ai"
 }
