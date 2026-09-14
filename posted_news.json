@@ -360,9 +360,10 @@
     "https://36kr.com/p/3983075898440708?f=rss",
     "https://the-decoder.com/china-fires-back-at-u-s-ai-safety-warnings-calling-them-fearmongering-to-lock-in-american-advantage/",
     "https://www.ithome.com/1/002/288.htm",
-    "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct"
+    "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
+    "http://www.geekpark.net/news/370269"
   ],
-  "ai_index": 19,
-  "tech_index": 19,
-  "category": "tech"
+  "ai_index": 0,
+  "tech_index": 0,
+  "category": "ai"
 }
