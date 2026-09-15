@@ -400,9 +400,10 @@
     "https://36kr.com/p/3984335944252165?f=rss",
     "https://arxiv.org/abs/2609.13396",
     "https://www.ithome.com/1/002/654.htm",
-    "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/"
+    "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
+    "http://www.geekpark.net/news/370345"
   ],
-  "ai_index": 19,
-  "tech_index": 19,
-  "category": "tech"
+  "ai_index": 0,
+  "tech_index": 0,
+  "category": "ai"
 }
