@@ -382,9 +382,10 @@
     "https://www.extremetech.com/computing/dumpster-diving-diyer-secures-working-ssds-ram-laptops-from-their-local",
     "https://habr.com/ru/articles/1082236/?utm_campaign=1082236&utm_source=habrahabr&utm_medium=rss",
     "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-ai-can-boost-u-s-gdp-by-32-percent-up-to-usd44-4-trillion-in-four-years-economics-model-predicts-that-displaced-employees-may-have-to-switch-to-jobs-like-electrician-and-nurse",
-    "https://habr.com/ru/articles/1079068/?utm_campaign=1079068&utm_source=habrahabr&utm_medium=rss"
+    "https://habr.com/ru/articles/1079068/?utm_campaign=1079068&utm_source=habrahabr&utm_medium=rss",
+    "https://phys.org/news/2026-09-plasma-fuels-thin-air.html"
   ],
-  "ai_index": 10,
-  "tech_index": 10,
-  "category": "tech"
+  "ai_index": 11,
+  "tech_index": 11,
+  "category": "ai"
 }
