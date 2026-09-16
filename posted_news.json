@@ -436,9 +436,10 @@
     "https://www.scmp.com/tech/article/3367605/deepseek-ai-engineer-slams-anthropic-openai-over-pacing-calls-invokes-nazi-germany?utm_source=rss_feed",
     "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
     "https://36kr.com/p/3985480196881413?f=rss",
-    "https://huggingface.co/blog/ibm-research/altk-evolve-consistency"
+    "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+    "https://36kr.com/p/3985410714581760?f=rss"
   ],
-  "ai_index": 17,
-  "tech_index": 17,
-  "category": "tech"
+  "ai_index": 18,
+  "tech_index": 18,
+  "category": "ai"
 }
