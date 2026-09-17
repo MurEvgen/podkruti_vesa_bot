@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
     "https://syncedreview.com/2025/06/24/bytedance-introduces-astra-a-dual-model-architecture-for-autonomous-robot-navigation/",
     "https://technode.com/2026/09/07/stellantis-huawei-jac-maserati-partnership/",
     "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
@@ -499,9 +498,10 @@
     "https://www.extremetech.com/mobile/googles-latest-pixel-drop-could-help-you-break-your-doomscrolling-habit",
     "https://habr.com/ru/articles/1083382/?utm_campaign=1083382&utm_source=habrahabr&utm_medium=rss",
     "https://www.tomshardware.com/tech-industry/cyber-security/hackers-find-encryption-key-stored-on-flock-camera-group-extracts-more-than-27-000-clips-1-6-million-images-captured-in-a-span-of-21-days-from-device",
-    "https://habr.com/ru/articles/1083416/?utm_campaign=1083416&utm_source=habrahabr&utm_medium=rss"
+    "https://habr.com/ru/articles/1083416/?utm_campaign=1083416&utm_source=habrahabr&utm_medium=rss",
+    "https://phys.org/news/2026-09-gamers-gambling-financial-future.html"
   ],
-  "ai_index": 10,
-  "tech_index": 10,
-  "category": "tech"
+  "ai_index": 11,
+  "tech_index": 11,
+  "category": "ai"
 }
