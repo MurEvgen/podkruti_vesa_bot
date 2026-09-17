@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://technode.com/2026/09/07/chinese-panel-makers-automotive-display-shipments/",
     "https://tech.eu/2026/09/07/flex-it-and-t1a-combine-to-create-eur150m-european-circular-it-platform/",
     "https://www.theregister.com/public-sector/2026/09/07/matt-clifford-to-leave-aria-before-anthropic-role-becomes-a-distraction/5294861",
     "https://www.theregister.com/offbeat/2026/09/07/us-watchdog-opens-probe-into-teslas-cybercab-self-certification/5294833",
@@ -499,9 +498,10 @@
     "https://www.chinatechnews.com/2026/09/17/129324-anthropic-ceo-criticized-over-anti-china-ai-stance",
     "https://the-decoder.com/an-openai-model-kept-slipping-prompt-injections-into-its-own-notes-and-researchers-still-arent-sure-why/",
     "https://www.scmp.com/tech/big-tech/article/3367882/how-huawei-plans-bypass-us-chip-curbs-its-new-unifiedbus-technology?utm_source=rss_feed",
-    "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/"
+    "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
+    "https://36kr.com/p/3987192212683781?f=rss"
   ],
-  "ai_index": 16,
-  "tech_index": 16,
-  "category": "tech"
+  "ai_index": 17,
+  "tech_index": 17,
+  "category": "ai"
 }
