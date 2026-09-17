@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.theregister.com/offbeat/2026/09/07/us-watchdog-opens-probe-into-teslas-cybercab-self-certification/5294833",
     "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/",
     "https://www.theregister.com/systems/2026/09/08/huawei-proudly-shows-off-an-entirely-un-american-chip/5294900",
     "https://technode.com/2026/09/08/huawei-unveils-kirin-9050-pro-chip-debuts-new-mate-xt-2-tri-folding-smartphone/",
@@ -499,9 +498,10 @@
     "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
     "https://36kr.com/p/3987192212683781?f=rss",
     "https://the-decoder.com/openai-reportedly-closes-in-on-solving-the-hodge-conjecture-its-second-millennium-prize-problem/",
-    "https://36kr.com/p/3987140543593472?f=rss"
+    "https://36kr.com/p/3987140543593472?f=rss",
+    "https://the-decoder.com/anthropic-keeps-pushing-claude-code-toward-autonomous-coding-with-new-parallel-agent-workflows/"
   ],
   "ai_index": 18,
   "tech_index": 18,
-  "category": "ai"
+  "category": "tech"
 }
