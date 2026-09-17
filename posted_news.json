@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.theregister.com/public-sector/2026/09/07/matt-clifford-to-leave-aria-before-anthropic-role-becomes-a-distraction/5294861",
     "https://www.theregister.com/offbeat/2026/09/07/us-watchdog-opens-probe-into-teslas-cybercab-self-certification/5294833",
     "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/",
     "https://www.theregister.com/systems/2026/09/08/huawei-proudly-shows-off-an-entirely-un-american-chip/5294900",
@@ -499,9 +498,10 @@
     "https://www.scmp.com/tech/big-tech/article/3367882/how-huawei-plans-bypass-us-chip-curbs-its-new-unifiedbus-technology?utm_source=rss_feed",
     "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
     "https://36kr.com/p/3987192212683781?f=rss",
-    "https://the-decoder.com/openai-reportedly-closes-in-on-solving-the-hodge-conjecture-its-second-millennium-prize-problem/"
+    "https://the-decoder.com/openai-reportedly-closes-in-on-solving-the-hodge-conjecture-its-second-millennium-prize-problem/",
+    "https://36kr.com/p/3987140543593472?f=rss"
   ],
-  "ai_index": 17,
-  "tech_index": 17,
-  "category": "tech"
+  "ai_index": 18,
+  "tech_index": 18,
+  "category": "ai"
 }
