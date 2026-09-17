@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.theregister.com/systems/2026/09/08/huawei-proudly-shows-off-an-entirely-un-american-chip/5294900",
     "https://technode.com/2026/09/08/huawei-unveils-kirin-9050-pro-chip-debuts-new-mate-xt-2-tri-folding-smartphone/",
     "https://technode.com/2026/09/08/amap-pitfall-list-feature/",
     "https://technode.com/2026/09/08/genlight-medical-c-d-rounds/",
@@ -499,9 +498,10 @@
     "https://the-decoder.com/openai-reportedly-closes-in-on-solving-the-hodge-conjecture-its-second-millennium-prize-problem/",
     "https://36kr.com/p/3987140543593472?f=rss",
     "https://the-decoder.com/anthropic-keeps-pushing-claude-code-toward-autonomous-coding-with-new-parallel-agent-workflows/",
-    "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/"
+    "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
+    "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/"
   ],
   "ai_index": 19,
   "tech_index": 19,
-  "category": "ai"
+  "category": "tech"
 }
