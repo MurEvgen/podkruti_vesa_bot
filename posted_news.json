@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/",
     "https://neurohive.io/ru/gotovye-prilozhenija/kak-ai-uluchshenie-izobrazhenij-menyaet-cifrovuju-fotografiju/",
     "https://technode.com/2026/09/07/chinese-panel-makers-automotive-display-shipments/",
     "https://tech.eu/2026/09/07/flex-it-and-t1a-combine-to-create-eur150m-european-circular-it-platform/",
@@ -499,9 +498,10 @@
     "https://www.ixbt.com/news/2026/09/17/436483-predstavlen-lexus-gx-2027-ceny-vyse-a-obeshhannoi-gibridnoi-sistemy-tak-i-net.html",
     "https://the-decoder.com/gpt-6-astra-pokemon-champion-in-18-hours-potato-farmer-after-one-creeper-mishap/",
     "https://www.chinatechnews.com/2026/09/17/129324-anthropic-ceo-criticized-over-anti-china-ai-stance",
-    "https://the-decoder.com/an-openai-model-kept-slipping-prompt-injections-into-its-own-notes-and-researchers-still-arent-sure-why/"
+    "https://the-decoder.com/an-openai-model-kept-slipping-prompt-injections-into-its-own-notes-and-researchers-still-arent-sure-why/",
+    "https://www.scmp.com/tech/big-tech/article/3367882/how-huawei-plans-bypass-us-chip-curbs-its-new-unifiedbus-technology?utm_source=rss_feed"
   ],
-  "ai_index": 15,
-  "tech_index": 15,
-  "category": "tech"
+  "ai_index": 16,
+  "tech_index": 16,
+  "category": "ai"
 }
