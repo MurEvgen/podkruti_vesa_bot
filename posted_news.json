@@ -484,9 +484,10 @@
     "http://www.geekpark.net/news/370472",
     "https://openai.com/index/reimagining-advertising-with-ai",
     "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
-    "https://arxiv.org/abs/2609.16129"
+    "https://arxiv.org/abs/2609.16129",
+    "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/"
   ],
-  "ai_index": 1,
-  "tech_index": 1,
-  "category": "tech"
+  "ai_index": 2,
+  "tech_index": 2,
+  "category": "ai"
 }
