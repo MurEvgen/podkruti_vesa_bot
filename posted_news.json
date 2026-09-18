@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://technode.com/2026/09/09/jd-cloud-moore-threads-100000-gpu-computing-cluster/",
     "https://techcrunch.com/2026/09/08/google-deepmind-alumni-are-building-tools-to-accelerate-fusion-power-for-the-grid/",
     "https://technode.com/2026/09/09/idc-global-wrist-worn-device-shipments-q2-2026/",
     "https://technode.com/2026/09/09/excelland-robotics-puts-robots-to-work/",
@@ -499,9 +498,10 @@
     "https://tech.eu/2026/09/18/open-cosmos-secures-eur300m/",
     "https://arxiv.org/abs/2609.19180",
     "https://www.theregister.com/security/2026/09/18/researchers-used-claude-to-hack-openai-employees-chatgpt-accounts/5297517",
-    "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/"
+    "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+    "https://hackaday.com/2026/09/18/making-a-digital-music-player-for-cassette-decks/"
   ],
-  "ai_index": 4,
-  "tech_index": 4,
-  "category": "tech"
+  "ai_index": 5,
+  "tech_index": 5,
+  "category": "ai"
 }
