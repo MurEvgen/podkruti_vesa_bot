@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
     "https://openai.com/index/teen-development-research-grants",
     "https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/",
     "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/",
@@ -499,9 +498,10 @@
     "https://phys.org/news/2026-09-early-wheat-yields-hardest-boost.html",
     "https://pandaily.com/lexiang-aether-embodied-model-outdoor-bbq-livestream",
     "https://3dnews.ru/1148676",
-    "https://www.qbitai.com/2026/09/491875.html"
+    "https://www.qbitai.com/2026/09/491875.html",
+    "https://3dnews.ru/1148664"
   ],
-  "ai_index": 12,
-  "tech_index": 12,
-  "category": "tech"
+  "ai_index": 13,
+  "tech_index": 13,
+  "category": "ai"
 }
