@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.theregister.com/os-platforms/2026/09/08/bing-wallpaper-app-opens-harry-potters-chamber-of-ads/5295118",
     "https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/",
     "https://www.chinatechnews.com/2026/09/09/128816-treat-ai-like-nukes-beijing-demands-un-controls-to-smash-western-tech-monopolies",
     "https://arstechnica.com/gaming/2026/09/gog-brings-back-big-box-pc-games-one-printable-template-at-a-time/",
@@ -499,9 +498,10 @@
     "https://36kr.com/p/3988678225214466?f=rss",
     "https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft/",
     "https://www.ithome.com/1/004/343.htm",
-    "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/"
+    "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+    "http://www.geekpark.net/news/370610"
   ],
-  "ai_index": 19,
-  "tech_index": 19,
-  "category": "tech"
+  "ai_index": 0,
+  "tech_index": 0,
+  "category": "ai"
 }
