@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.chinatechnews.com/2026/09/09/128816-treat-ai-like-nukes-beijing-demands-un-controls-to-smash-western-tech-monopolies",
     "https://arstechnica.com/gaming/2026/09/gog-brings-back-big-box-pc-games-one-printable-template-at-a-time/",
     "https://www.theregister.com/security/2026/09/09/microsoft-breaks-patch-tuesday-record-with-974-cve-deluge/5295160",
     "https://www.theregister.com/ai-and-ml/2026/09/09/openai-gpt-6-astra-will-run-a-retailer-without-cheating-and-sell-more-stuff-than-anthropic/5295144",
@@ -499,9 +498,10 @@
     "https://www.ithome.com/1/004/343.htm",
     "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
     "http://www.geekpark.net/news/370610",
-    "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/"
+    "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+    "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/"
   ],
-  "ai_index": 0,
-  "tech_index": 0,
-  "category": "tech"
+  "ai_index": 1,
+  "tech_index": 1,
+  "category": "ai"
 }
