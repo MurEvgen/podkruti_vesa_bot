@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
     "https://www.theregister.com/security/2026/09/08/boston-scientific-left-nursing-its-bottom-line-after-cyberattack/5295026",
     "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
     "https://openai.com/index/teen-development-research-grants",
@@ -499,9 +498,10 @@
     "https://www.tomshardware.com/tech-industry/artificial-intelligence/balatro-fan-claims-they-trained-google-fruit-fly-brain-simulation-to-beat-the-game-reinforcement-learning-currently-has-the-model-at-20-percent-success-rate",
     "https://habr.com/ru/companies/bcs_company/articles/1083670/?utm_campaign=1083670&utm_source=habrahabr&utm_medium=rss",
     "https://phys.org/news/2026-09-early-wheat-yields-hardest-boost.html",
-    "https://pandaily.com/lexiang-aether-embodied-model-outdoor-bbq-livestream"
+    "https://pandaily.com/lexiang-aether-embodied-model-outdoor-bbq-livestream",
+    "https://3dnews.ru/1148676"
   ],
-  "ai_index": 11,
-  "tech_index": 11,
-  "category": "tech"
+  "ai_index": 12,
+  "tech_index": 12,
+  "category": "ai"
 }
