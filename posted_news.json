@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://openai.com/index/codex-quantum-computing-experiments",
     "https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/",
     "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
     "https://arstechnica.com/gadgets/2026/09/lg-tv-shown-capable-of-tracking-user-activity-even-when-offline/",
@@ -499,9 +498,10 @@
     "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
     "https://www.scmp.com/tech/tech-trends/article/3367998/ant-international-embeds-ai-agents-across-all-platforms-biggest-ever-product-upgrade?utm_source=rss_feed",
     "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
-    "https://36kr.com/p/3984230181010434?f=rss"
+    "https://36kr.com/p/3984230181010434?f=rss",
+    "https://the-decoder.com/visible-chains-of-thought-are-a-safety-advantage-for-ai-but-that-transparency-is-slipping-away/"
   ],
   "ai_index": 17,
   "tech_index": 17,
-  "category": "ai"
+  "category": "tech"
 }
