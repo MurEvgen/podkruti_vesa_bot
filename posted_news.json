@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://pandaily.com/bitinfinite-wins-eccv-2026-cad-challenge-step-brep",
     "https://techcrunch.com/2026/09/08/stoke-space-raises-another-billion-to-rival-spacex-at-re-flying-rockets/",
     "https://pandaily.com/deemos-hyper3d-worldgen-single-image-3d-scenes",
     "https://techcrunch.com/2026/09/08/poseidon-aerospace-lands-60m-ahead-of-first-pilotless-test-flight/",
@@ -499,9 +498,10 @@
     "https://hackaday.com/2026/09/17/surveillance-camera-security-its-completely-flocked/",
     "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
     "https://www.therobotreport.com/designing-long-travel-axes-when-rack-and-pinion-outperforms-ball-screws-and-linear-motors/",
-    "https://arxiv.org/abs/2609.19170"
+    "https://arxiv.org/abs/2609.19170",
+    "https://semiengineering.com/negative-expansion-materials-resist-warpage/"
   ],
-  "ai_index": 6,
-  "tech_index": 6,
-  "category": "tech"
+  "ai_index": 7,
+  "tech_index": 7,
+  "category": "ai"
 }
