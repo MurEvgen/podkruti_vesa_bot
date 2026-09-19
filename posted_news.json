@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
     "https://www.eetimes.com/the-hardware-assisted-verification-imperative/",
     "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
     "https://www.extremetech.com/internet/claude-hackers-are-hijacking-tokens-from-paying-subscribers",
@@ -499,9 +498,10 @@
     "https://www.ithome.com/1/004/539.htm",
     "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
     "https://www.ithome.com/1/004/559.htm",
-    "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/"
+    "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+    "http://www.geekpark.net/news/370611"
   ],
-  "ai_index": 19,
-  "tech_index": 19,
-  "category": "tech"
+  "ai_index": 0,
+  "tech_index": 0,
+  "category": "ai"
 }
