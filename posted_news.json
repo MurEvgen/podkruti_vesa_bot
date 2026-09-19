@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
     "http://go.rss.sina.com.cn/redirect.php?url=http://tech.sina.com.cnhttps://tech.sina.com.cn/roll/2018-09-23/doc-ifxeuwwr7454098.shtml",
     "https://the-decoder.com/anthropic-built-an-economic-model-that-frames-its-ceos-bleakest-job-forecasts-as-an-outlier-scenario/",
     "https://36kr.com/p/3976975660511751?f=rss",
@@ -499,9 +498,10 @@
     "https://semiengineering.com/predicting-thermal-conductivity-in-advanced-beol-interconnect-stacks-peking-university/",
     "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
     "https://www.eetimes.com/ai-demand-will-keep-dram-market-under-pressure/",
-    "https://neurohive.io/ru/gotovye-prilozhenija/vidu-s2-model-generiruet-video-avatary-v-720p-pri-25-42-fps-i-redaktiruet-strim-na-letu/"
+    "https://neurohive.io/ru/gotovye-prilozhenija/vidu-s2-model-generiruet-video-avatary-v-720p-pri-25-42-fps-i-redaktiruet-strim-na-letu/",
+    "https://www.extremetech.com/electronics/snap-opens-preorders-for-its-uncomfortable-looking-specs-ar-glasses"
   ],
-  "ai_index": 8,
-  "tech_index": 8,
-  "category": "tech"
+  "ai_index": 9,
+  "tech_index": 9,
+  "category": "ai"
 }
