@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.extremetech.com/internet/claude-hackers-are-hijacking-tokens-from-paying-subscribers",
     "https://habr.com/ru/articles/1080518/?utm_campaign=1080518&utm_source=habrahabr&utm_medium=rss",
     "https://www.tomshardware.com/pc-components/cpus/apple-a20-pro-powers-iphone-18-pro-the-companys-first-2-nanometer-smartphone-chip",
     "https://habr.com/ru/articles/1080516/?utm_campaign=1080516&utm_source=habrahabr&utm_medium=rss",
@@ -499,9 +498,10 @@
     "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
     "http://www.geekpark.net/news/370611",
     "https://the-decoder.com/qwen3-8-omni-flash-undercuts-gemini-flash-pricing-while-matching-its-multimodal-benchmarks/",
-    "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/"
+    "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+    "https://the-decoder.com/unity-launches-official-plugins-for-claude-code-and-openai-codex-to-stop-ai-agents-from-using-outdated-tutorials/"
   ],
   "ai_index": 1,
   "tech_index": 1,
-  "category": "ai"
+  "category": "tech"
 }
