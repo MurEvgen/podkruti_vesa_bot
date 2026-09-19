@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/",
     "https://tech.eu/2026/09/09/harry-stebbings-backed-proptech-ostrich-shuts/",
     "https://neurohive.io/ru/papers/worldsculpt-model-sobiraet-3d-scenu-iz-soten-otdelnyh-meshej-po-naboru-kadrov/",
     "https://tech.eu/2026/09/09/msk-innovation-accelerator-seeks-next-wave-of-uk-healthtech-innovators/",
@@ -499,9 +498,10 @@
     "https://www.eetimes.com/intel-puts-high-na-euv-into-production-but-stitching-still-has-something-to-prove/",
     "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
     "https://www.extremetech.com/internet/google-asks-users-to-take-video-selfies-to-help-recover-their-accounts",
-    "https://habr.com/ru/articles/1079622/?utm_campaign=1079622&utm_source=habrahabr&utm_medium=rss"
+    "https://habr.com/ru/articles/1079622/?utm_campaign=1079622&utm_source=habrahabr&utm_medium=rss",
+    "https://www.tomshardware.com/pc-components/cpus/amd-shares-first-official-benchmarks-for-epyc-venice-cpus-targets-nvidia-company-claims-256-core-chip-is-more-than-twice-as-fast-as-nvidia-vera-96-core-model-20-percent-faster-per-core"
   ],
-  "ai_index": 9,
-  "tech_index": 9,
-  "category": "tech"
+  "ai_index": 10,
+  "tech_index": 10,
+  "category": "ai"
 }
