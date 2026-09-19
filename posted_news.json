@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://habr.com/ru/articles/1080516/?utm_campaign=1080516&utm_source=habrahabr&utm_medium=rss",
     "https://phys.org/news/2026-09-drought-north-africa-super-el.html",
     "https://www.qbitai.com/2026/09/486450.html",
     "https://spectrum.ieee.org/how-to-survive-a-layoff",
@@ -499,9 +498,10 @@
     "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
     "https://the-decoder.com/unity-launches-official-plugins-for-claude-code-and-openai-codex-to-stop-ai-agents-from-using-outdated-tutorials/",
     "https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy/",
-    "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/"
+    "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+    "https://tech.eu/2026/09/18/open-ai-closes-the-gap-as-europe-bets-on-sovereignty-and-infrastructure/"
   ],
-  "ai_index": 2,
-  "tech_index": 2,
-  "category": "tech"
+  "ai_index": 3,
+  "tech_index": 3,
+  "category": "ai"
 }
