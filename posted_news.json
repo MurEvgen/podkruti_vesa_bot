@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.tomshardware.com/pc-components/cpus/apple-a20-pro-powers-iphone-18-pro-the-companys-first-2-nanometer-smartphone-chip",
     "https://habr.com/ru/articles/1080516/?utm_campaign=1080516&utm_source=habrahabr&utm_medium=rss",
     "https://phys.org/news/2026-09-drought-north-africa-super-el.html",
     "https://www.qbitai.com/2026/09/486450.html",
@@ -499,9 +498,10 @@
     "https://the-decoder.com/qwen3-8-omni-flash-undercuts-gemini-flash-pricing-while-matching-its-multimodal-benchmarks/",
     "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
     "https://the-decoder.com/unity-launches-official-plugins-for-claude-code-and-openai-codex-to-stop-ai-agents-from-using-outdated-tutorials/",
-    "https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy/"
+    "https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy/",
+    "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/"
   ],
   "ai_index": 2,
   "tech_index": 2,
-  "category": "ai"
+  "category": "tech"
 }
