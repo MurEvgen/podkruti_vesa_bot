@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://the-decoder.com/suno-launches-v6-music-models-built-with-warner-bmg-and-believe/",
     "https://hackaday.com/2026/09/09/its-gnu-radio-companion-but-in-the-browser/",
     "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
     "https://www.therobotreport.com/agibot-share-plans-scale-humanoids-from-lab-to-real-world-at-robobusiness/",
@@ -499,9 +498,10 @@
     "https://www.chinatechnews.com/2026/09/18/129370-chinas-potential-mothership-for-underwater-drones-sparks-speculation",
     "https://the-decoder.com/googles-gemini-also-accidentally-hacked-three-real-companies-during-security-testing/",
     "https://www.scmp.com/opinion/world-opinion/article/3366862/ai-doesnt-just-answer-questions-it-legitimises-bad-ones?utm_source=rss_feed",
-    "https://the-decoder.com/ai-conference-iclr-is-drowning-in-abstracts-with-roughly-50000-submissions-before-the-deadline/"
+    "https://the-decoder.com/ai-conference-iclr-is-drowning-in-abstracts-with-roughly-50000-submissions-before-the-deadline/",
+    "https://36kr.com/p/3989629580114695?f=rss"
   ],
-  "ai_index": 16,
-  "tech_index": 16,
-  "category": "tech"
+  "ai_index": 17,
+  "tech_index": 17,
+  "category": "ai"
 }
