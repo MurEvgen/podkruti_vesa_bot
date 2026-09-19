@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.theregister.com/security/2026/09/09/wechat-worm-could-pwn-a-friend-before-they-even-answered-the-call/5295234",
     "https://www.theregister.com/software/2026/09/09/microsoft-closes-the-book-on-publisher-and-unplugs-project-online/5295205",
     "https://techcrunch.com/2026/09/09/uber-invests-10m-in-indian-fleet-operator-carrum-at-168m-valuation/",
     "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
@@ -499,9 +498,10 @@
     "https://www.tomshardware.com/pc-components/cpus/amd-shares-first-official-benchmarks-for-epyc-venice-cpus-targets-nvidia-company-claims-256-core-chip-is-more-than-twice-as-fast-as-nvidia-vera-96-core-model-20-percent-faster-per-core",
     "https://habr.com/ru/articles/1084028/?utm_campaign=1084028&utm_source=habrahabr&utm_medium=rss",
     "https://phys.org/news/2026-09-urban-real-hazardous-rainfall.html",
-    "https://pandaily.com/catl-2027-all-solid-state-small-batch"
+    "https://pandaily.com/catl-2027-all-solid-state-small-batch",
+    "https://spectrum.ieee.org/tech-talent-into-leadership-legacy"
   ],
-  "ai_index": 11,
-  "tech_index": 11,
-  "category": "tech"
+  "ai_index": 12,
+  "tech_index": 12,
+  "category": "ai"
 }
