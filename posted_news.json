@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.eetimes.com/the-hardware-assisted-verification-imperative/",
     "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
     "https://www.extremetech.com/internet/claude-hackers-are-hijacking-tokens-from-paying-subscribers",
     "https://habr.com/ru/articles/1080518/?utm_campaign=1080518&utm_source=habrahabr&utm_medium=rss",
@@ -499,9 +498,10 @@
     "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
     "https://www.ithome.com/1/004/559.htm",
     "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
-    "http://www.geekpark.net/news/370611"
+    "http://www.geekpark.net/news/370611",
+    "https://the-decoder.com/qwen3-8-omni-flash-undercuts-gemini-flash-pricing-while-matching-its-multimodal-benchmarks/"
   ],
   "ai_index": 0,
   "tech_index": 0,
-  "category": "ai"
+  "category": "tech"
 }
