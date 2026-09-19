@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.qbitai.com/2026/09/486374.html",
     "https://3dnews.ru/1148249",
     "https://www.infoq.cn/video/52550fXfrMaZhMqwrsC5?utm_source=rss&utm_medium=article",
     "https://www.ixbt.com/news/2026/09/10/434423-na-smenu-tu-144-budushhii-rossiiskii-sverxzvukovoi-samolet-polucit-novuiu-texnologiiu-patent-raskryvaet-ustroistvo-vozduxozabornika.html",
@@ -499,9 +498,10 @@
     "https://tech.eu/2026/09/18/open-ai-closes-the-gap-as-europe-bets-on-sovereignty-and-infrastructure/",
     "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
     "https://www.theregister.com/security/2026/09/19/agentic-security-is-the-billion-dollar-challenge-for-some-clever-startup-to-solve/5297546",
-    "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/"
+    "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+    "https://hackaday.com/2026/09/19/teaching-a-robot-hand-to-walk/"
   ],
-  "ai_index": 4,
-  "tech_index": 4,
-  "category": "tech"
+  "ai_index": 5,
+  "tech_index": 5,
+  "category": "ai"
 }
