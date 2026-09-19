@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.qbitai.com/2026/09/486450.html",
     "https://spectrum.ieee.org/how-to-survive-a-layoff",
     "https://www.qbitai.com/2026/09/486374.html",
     "https://3dnews.ru/1148249",
@@ -499,9 +498,10 @@
     "https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy/",
     "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
     "https://tech.eu/2026/09/18/open-ai-closes-the-gap-as-europe-bets-on-sovereignty-and-infrastructure/",
-    "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack"
+    "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+    "https://www.theregister.com/security/2026/09/19/agentic-security-is-the-billion-dollar-challenge-for-some-clever-startup-to-solve/5297546"
   ],
-  "ai_index": 3,
-  "tech_index": 3,
-  "category": "tech"
+  "ai_index": 4,
+  "tech_index": 4,
+  "category": "ai"
 }
