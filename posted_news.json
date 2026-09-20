@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.scmp.com/tech/tech-trends/article/3367093/ai-bottleneck-breaker-chinas-huawei-touts-high-speed-optical-module?utm_source=rss_feed",
     "https://the-decoder.com/gpt-6-astra-gives-mathematicians-a-breather-and-openai-says-thats-by-design/",
     "https://www.scmp.com/tech/big-tech/article/3367051/deepseek-says-new-flash-ai-model-beats-kimi-k3-cyber-coding-benchmarks?utm_source=rss_feed",
     "https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents/",
@@ -499,9 +498,10 @@
     "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
     "https://www.therobotreport.com/what-do-you-do-with-a-humanoid-robot-when-it-breaks-down/",
     "https://habr.com/ru/articles/1084410/?utm_campaign=1084410&utm_source=habrahabr&utm_medium=rss",
-    "https://semiengineering.com/agentic-ai-automates-design-rule-repair-while-preserving-layout-equivalence/"
+    "https://semiengineering.com/agentic-ai-automates-design-rule-repair-while-preserving-layout-equivalence/",
+    "https://habr.com/ru/articles/1084414/?utm_campaign=1084414&utm_source=habrahabr&utm_medium=rss"
   ],
   "ai_index": 7,
   "tech_index": 7,
-  "category": "ai"
+  "category": "tech"
 }
