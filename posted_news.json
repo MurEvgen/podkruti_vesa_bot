@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.ixbt.com/news/2026/09/10/434947-etot-rossiiskii-telekommunikacionnyi-sputnik-provedet-15-let-na-orbite-iamal-501-gotoviat-k-zapusku.html",
     "https://huggingface.co/blog/gradio-workflow-1111",
     "https://www.scmp.com/tech/tech-trends/article/3367093/ai-bottleneck-breaker-chinas-huawei-touts-high-speed-optical-module?utm_source=rss_feed",
     "https://the-decoder.com/gpt-6-astra-gives-mathematicians-a-breather-and-openai-says-thats-by-design/",
@@ -499,9 +498,10 @@
     "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
     "https://hackaday.com/2026/09/20/a-bandpass-filter-pulls-in-the-signals/",
     "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
-    "https://www.therobotreport.com/what-do-you-do-with-a-humanoid-robot-when-it-breaks-down/"
+    "https://www.therobotreport.com/what-do-you-do-with-a-humanoid-robot-when-it-breaks-down/",
+    "https://habr.com/ru/articles/1084410/?utm_campaign=1084410&utm_source=habrahabr&utm_medium=rss"
   ],
   "ai_index": 6,
   "tech_index": 6,
-  "category": "ai"
+  "category": "tech"
 }
