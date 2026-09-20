@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://habr.com/ru/articles/1080744/?utm_campaign=1080744&utm_source=habrahabr&utm_medium=rss",
     "https://www.extremetech.com/internet/meta-launches-muse-a-personal-ai-agent-that-acts-on-your-behalf",
     "https://habr.com/ru/articles/1080742/?utm_campaign=1080742&utm_source=habrahabr&utm_medium=rss",
     "https://www.tomshardware.com/desktops/pc-building/self-taught-electronics-tinkerer-builds-cold-war-era-vacuum-tube-computer-8-bit-design-uses-460-recycled-6n3p-vacuum-tubes-manufactured-in-the-1950s",
@@ -499,9 +498,10 @@
     "https://www.ithome.com/1/004/892.htm",
     "https://pandaily.com/faraday-future-jia-yueting-nine-eai-robots-9990",
     "http://www.geekpark.net/news/370667",
-    "https://the-decoder.com/daily-ai-usage-in-the-u-s-has-more-than-doubled-in-just-six-months/"
+    "https://the-decoder.com/daily-ai-usage-in-the-u-s-has-more-than-doubled-in-just-six-months/",
+    "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/"
   ],
-  "ai_index": 0,
-  "tech_index": 0,
-  "category": "tech"
+  "ai_index": 1,
+  "tech_index": 1,
+  "category": "ai"
 }
