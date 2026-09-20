@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://habr.com/ru/companies/otus/articles/1073506/?utm_campaign=1073506&utm_source=habrahabr&utm_medium=rss",
     "https://www.eetimes.com/what-six-hours-on-the-runway-told-me-about-air-traffic-control-resilience-and-ai/",
     "https://habr.com/ru/articles/1080744/?utm_campaign=1080744&utm_source=habrahabr&utm_medium=rss",
     "https://www.extremetech.com/internet/meta-launches-muse-a-personal-ai-agent-that-acts-on-your-behalf",
@@ -499,9 +498,10 @@
     "https://36kr.com/p/3991436755057415?f=rss",
     "https://the-decoder.com/following-openai-anthropic-is-also-reportedly-postponing-its-ipo/",
     "https://www.ithome.com/1/004/892.htm",
-    "https://pandaily.com/faraday-future-jia-yueting-nine-eai-robots-9990"
+    "https://pandaily.com/faraday-future-jia-yueting-nine-eai-robots-9990",
+    "http://www.geekpark.net/news/370667"
   ],
-  "ai_index": 19,
-  "tech_index": 19,
-  "category": "tech"
+  "ai_index": 0,
+  "tech_index": 0,
+  "category": "ai"
 }
