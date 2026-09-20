@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
     "https://www.ithome.com/1/000/623.htm",
     "https://arxiv.org/abs/2609.05439",
     "http://www.geekpark.net/news/370089",
@@ -499,9 +498,10 @@
     "https://www.extremetech.com/electronics/snap-opens-preorders-for-its-uncomfortable-looking-specs-ar-glasses",
     "https://neurohive.io/ru/papers/worldsculpt-model-sobiraet-3d-scenu-iz-soten-otdelnyh-meshej-po-naboru-kadrov/",
     "https://www.tomshardware.com/monitors/gaming-monitors/acer-predator-qd-oled-monitor-now-36-percent-off-500-hz-refresh-rate-and-true-black-500-certification-slashed-to-usd509-99",
-    "https://habr.com/ru/articles/1084192/?utm_campaign=1084192&utm_source=habrahabr&utm_medium=rss"
+    "https://habr.com/ru/articles/1084192/?utm_campaign=1084192&utm_source=habrahabr&utm_medium=rss",
+    "https://phys.org/news/2026-09-steel-site-pittsburgh-bacteria-evolved.html"
   ],
-  "ai_index": 10,
-  "tech_index": 10,
-  "category": "tech"
+  "ai_index": 11,
+  "tech_index": 11,
+  "category": "ai"
 }
