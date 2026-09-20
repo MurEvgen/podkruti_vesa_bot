@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://pandaily.com/jd-joyai-echowm-open-source-interactive-audiovisual-world-model",
     "https://spectrum.ieee.org/rivian-self-driving",
     "https://www.qbitai.com/2026/09/486934.html",
     "https://3dnews.ru/1148283",
@@ -499,9 +498,10 @@
     "https://arstechnica.com/cars/2026/09/dont-call-it-an-suv-the-ferrari-purosangue-review/",
     "https://the-decoder.com/runway-wants-to-turn-ai-video-generation-into-a-live-stream-you-control-in-real-time/",
     "https://www.theregister.com/os-platforms/2026/09/20/how-windows-turned-months-of-inactivity-into-a-7-hour-update-hostage-situation/5297478",
-    "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure"
+    "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
+    "https://hackaday.com/2026/09/20/reverse-engineering-a-sony-car-stereo-lcd/"
   ],
-  "ai_index": 3,
-  "tech_index": 3,
-  "category": "tech"
+  "ai_index": 4,
+  "tech_index": 4,
+  "category": "ai"
 }
