@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://huggingface.co/blog/gradio-workflow-1111",
     "https://www.scmp.com/tech/tech-trends/article/3367093/ai-bottleneck-breaker-chinas-huawei-touts-high-speed-optical-module?utm_source=rss_feed",
     "https://the-decoder.com/gpt-6-astra-gives-mathematicians-a-breather-and-openai-says-thats-by-design/",
     "https://www.scmp.com/tech/big-tech/article/3367051/deepseek-says-new-flash-ai-model-beats-kimi-k3-cyber-coding-benchmarks?utm_source=rss_feed",
@@ -499,9 +498,10 @@
     "https://hackaday.com/2026/09/20/a-bandpass-filter-pulls-in-the-signals/",
     "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
     "https://www.therobotreport.com/what-do-you-do-with-a-humanoid-robot-when-it-breaks-down/",
-    "https://habr.com/ru/articles/1084410/?utm_campaign=1084410&utm_source=habrahabr&utm_medium=rss"
+    "https://habr.com/ru/articles/1084410/?utm_campaign=1084410&utm_source=habrahabr&utm_medium=rss",
+    "https://semiengineering.com/agentic-ai-automates-design-rule-repair-while-preserving-layout-equivalence/"
   ],
-  "ai_index": 6,
-  "tech_index": 6,
-  "category": "tech"
+  "ai_index": 7,
+  "tech_index": 7,
+  "category": "ai"
 }
