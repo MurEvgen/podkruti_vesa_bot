@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://36kr.com/p/3977421065466121?f=rss",
     "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
     "https://www.ithome.com/1/001/043.htm",
     "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
@@ -499,9 +498,10 @@
     "https://habr.com/ru/articles/1082454/?utm_campaign=1082454&utm_source=habrahabr&utm_medium=rss",
     "https://www.tomshardware.com/tech-industry/big-tech/anthropic-openai-spacexai-and-google-face-antitrust-lawsuit-for-agreeing-to-slow-ai-development-plaintiffs-say-plan-has-been-in-motion-for-months-before-calls-agreement-self-serving",
     "https://habr.com/ru/articles/1084426/?utm_campaign=1084426&utm_source=habrahabr&utm_medium=rss",
-    "https://phys.org/news/2026-09-firelight-spoken-language.html"
+    "https://phys.org/news/2026-09-firelight-spoken-language.html",
+    "https://pandaily.com/byd-solid-state-battery-ev-2027-findreams-sulfide"
   ],
   "ai_index": 10,
   "tech_index": 10,
-  "category": "ai"
+  "category": "tech"
 }
