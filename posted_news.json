@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://hackaday.com/2026/09/09/origami-sensors-that-you-can-wear/",
     "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
     "https://hackaday.com/2026/09/09/3d-printable-lenticular-indicators/",
     "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
@@ -499,9 +498,10 @@
     "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
     "https://www.chinatechnews.com/2026/09/19/129443-netease-remote-tool-pulls-post-in-china-after-harmonyos-backlash",
     "https://habr.com/ru/articles/1084234/?utm_campaign=1084234&utm_source=habrahabr&utm_medium=rss",
-    "https://www.scmp.com/tech/tech-trends/article/3368101/chinas-gopro-rival-insta360-opens-first-us-flagship-store-new-yorks-times-square?utm_source=rss_feed"
+    "https://www.scmp.com/tech/tech-trends/article/3368101/chinas-gopro-rival-insta360-opens-first-us-flagship-store-new-yorks-times-square?utm_source=rss_feed",
+    "https://habr.com/ru/articles/1080018/?utm_campaign=1080018&utm_source=habrahabr&utm_medium=rss"
   ],
   "ai_index": 16,
   "tech_index": 16,
-  "category": "ai"
+  "category": "tech"
 }
