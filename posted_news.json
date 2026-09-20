@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents/",
     "http://go.rss.sina.com.cn/redirect.php?url=http://tech.sina.com.cnhttps://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6915894.shtml",
     "https://the-decoder.com/claude-fable-5-1s-language-is-less-load-bearing-than-its-predecessors/",
     "https://36kr.com/p/3977421065466121?f=rss",
@@ -499,9 +498,10 @@
     "https://semiengineering.com/agentic-ai-automates-design-rule-repair-while-preserving-layout-equivalence/",
     "https://habr.com/ru/articles/1084414/?utm_campaign=1084414&utm_source=habrahabr&utm_medium=rss",
     "https://www.tomshardware.com/peripherals/webcams/dell-pro-7-webcam-4k-review",
-    "https://habr.com/ru/articles/1082454/?utm_campaign=1082454&utm_source=habrahabr&utm_medium=rss"
+    "https://habr.com/ru/articles/1082454/?utm_campaign=1082454&utm_source=habrahabr&utm_medium=rss",
+    "https://www.tomshardware.com/tech-industry/big-tech/anthropic-openai-spacexai-and-google-face-antitrust-lawsuit-for-agreeing-to-slow-ai-development-plaintiffs-say-plan-has-been-in-motion-for-months-before-calls-agreement-self-serving"
   ],
-  "ai_index": 8,
-  "tech_index": 8,
-  "category": "tech"
+  "ai_index": 9,
+  "tech_index": 9,
+  "category": "ai"
 }
