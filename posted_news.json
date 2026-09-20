@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://arxiv.org/abs/2609.09203",
     "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
     "https://arxiv.org/abs/2609.09226",
     "https://www.theregister.com/ai-and-ml/2026/09/10/anthropic-reveals-fourth-likely-crime-committed-by-its-ai/5295412",
@@ -499,9 +498,10 @@
     "https://3dnews.ru/1148759",
     "https://www.qbitai.com/2026/09/492755.html",
     "https://3dnews.ru/1148755",
-    "https://www.infoq.cn/article/wKbZ8JlwJX26gTsW8r2o?utm_source=rss&utm_medium=article"
+    "https://www.infoq.cn/article/wKbZ8JlwJX26gTsW8r2o?utm_source=rss&utm_medium=article",
+    "https://www.ixbt.com/news/2026/09/20/436963-do-2-tb-so-skorostiu-1000-mbs-v-korpuse-vesom-vsego-33-gramma-predstavlen-portativnyi-ssd-sandisk-e31.html"
   ],
-  "ai_index": 13,
-  "tech_index": 13,
-  "category": "tech"
+  "ai_index": 14,
+  "tech_index": 14,
+  "category": "ai"
 }
