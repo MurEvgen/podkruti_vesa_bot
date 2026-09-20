@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://arxiv.org/abs/2609.05439",
     "http://www.geekpark.net/news/370089",
     "https://openai.com/index/gpt-6-astra-next-generation-work",
     "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
@@ -499,9 +498,10 @@
     "https://www.tomshardware.com/monitors/gaming-monitors/acer-predator-qd-oled-monitor-now-36-percent-off-500-hz-refresh-rate-and-true-black-500-certification-slashed-to-usd509-99",
     "https://habr.com/ru/articles/1084192/?utm_campaign=1084192&utm_source=habrahabr&utm_medium=rss",
     "https://phys.org/news/2026-09-steel-site-pittsburgh-bacteria-evolved.html",
-    "https://pandaily.com/huaruizhipu-praxis-one-mediatek-genio-pro-5100-edge"
+    "https://pandaily.com/huaruizhipu-praxis-one-mediatek-genio-pro-5100-edge",
+    "https://3dnews.ru/1148759"
   ],
-  "ai_index": 11,
-  "tech_index": 11,
-  "category": "tech"
+  "ai_index": 12,
+  "tech_index": 12,
+  "category": "ai"
 }
