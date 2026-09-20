@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://the-decoder.com/gpt-6-astra-gives-mathematicians-a-breather-and-openai-says-thats-by-design/",
     "https://www.scmp.com/tech/big-tech/article/3367051/deepseek-says-new-flash-ai-model-beats-kimi-k3-cyber-coding-benchmarks?utm_source=rss_feed",
     "https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents/",
     "http://go.rss.sina.com.cn/redirect.php?url=http://tech.sina.com.cnhttps://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6915894.shtml",
@@ -499,9 +498,10 @@
     "https://www.therobotreport.com/what-do-you-do-with-a-humanoid-robot-when-it-breaks-down/",
     "https://habr.com/ru/articles/1084410/?utm_campaign=1084410&utm_source=habrahabr&utm_medium=rss",
     "https://semiengineering.com/agentic-ai-automates-design-rule-repair-while-preserving-layout-equivalence/",
-    "https://habr.com/ru/articles/1084414/?utm_campaign=1084414&utm_source=habrahabr&utm_medium=rss"
+    "https://habr.com/ru/articles/1084414/?utm_campaign=1084414&utm_source=habrahabr&utm_medium=rss",
+    "https://www.tomshardware.com/peripherals/webcams/dell-pro-7-webcam-4k-review"
   ],
-  "ai_index": 7,
-  "tech_index": 7,
-  "category": "tech"
+  "ai_index": 8,
+  "tech_index": 8,
+  "category": "ai"
 }
