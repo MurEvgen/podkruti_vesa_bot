@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
     "https://www.therobotreport.com/what-bricklaying-has-taught-monumental-about-robots-construction/",
     "https://habr.com/ru/companies/selectel/articles/1080634/?utm_campaign=1080634&utm_source=habrahabr&utm_medium=rss",
     "https://semiengineering.com/redefining-processes-at-sub-2nm/",
@@ -499,9 +498,10 @@
     "https://www.scmp.com/tech/tech-trends/article/3368101/chinas-gopro-rival-insta360-opens-first-us-flagship-store-new-yorks-times-square?utm_source=rss_feed",
     "https://habr.com/ru/articles/1080018/?utm_campaign=1080018&utm_source=habrahabr&utm_medium=rss",
     "http://go.rss.sina.com.cn/redirect.php?url=http://tech.sina.com.cnhttps://tech.sina.com.cn/roll/2018-09-23/doc-ifxeuwwr7454098.shtml",
-    "https://habr.com/ru/articles/1084270/?utm_campaign=1084270&utm_source=habrahabr&utm_medium=rss"
+    "https://habr.com/ru/articles/1084270/?utm_campaign=1084270&utm_source=habrahabr&utm_medium=rss",
+    "https://36kr.com/p/3991436755057415?f=rss"
   ],
-  "ai_index": 17,
-  "tech_index": 17,
-  "category": "tech"
+  "ai_index": 18,
+  "tech_index": 18,
+  "category": "ai"
 }
