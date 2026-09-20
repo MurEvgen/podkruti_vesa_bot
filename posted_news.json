@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.ithome.com/1/001/043.htm",
     "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
     "http://www.geekpark.net/news/370064",
     "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
@@ -499,9 +498,10 @@
     "https://habr.com/ru/articles/1084426/?utm_campaign=1084426&utm_source=habrahabr&utm_medium=rss",
     "https://phys.org/news/2026-09-firelight-spoken-language.html",
     "https://pandaily.com/byd-solid-state-battery-ev-2027-findreams-sulfide",
-    "https://phys.org/news/2026-09-tiny-beach-crustaceans-big-sand.html"
+    "https://phys.org/news/2026-09-tiny-beach-crustaceans-big-sand.html",
+    "https://www.qbitai.com/2026/09/492973.html"
   ],
   "ai_index": 11,
   "tech_index": 11,
-  "category": "ai"
+  "category": "tech"
 }
