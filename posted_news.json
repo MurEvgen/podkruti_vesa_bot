@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://habr.com/ru/articles/1081006/?utm_campaign=1081006&utm_source=habrahabr&utm_medium=rss",
     "https://phys.org/news/2026-09-scientists-visualize-proteins-hidden-architecture.html",
     "https://pandaily.com/deepseek-v41-flash-official-ga-replaces-v4-pro",
     "https://spectrum.ieee.org/codeveloper-of-ethernet-predecessor-dies",
@@ -499,9 +498,10 @@
     "https://tech.eu/2026/09/21/metris-secures-5m-to-build-a-unified-data-layer-for-energy-assets/",
     "https://habr.com/ru/companies/ru_mts/articles/1083898/?utm_campaign=1083898&utm_source=habrahabr&utm_medium=rss",
     "https://tech.eu/2026/09/21/european-tech-weekly-recap-over-eur17b-invested-across-70-deals/",
-    "https://habr.com/ru/articles/1084578/?utm_campaign=1084578&utm_source=habrahabr&utm_medium=rss"
+    "https://habr.com/ru/articles/1084578/?utm_campaign=1084578&utm_source=habrahabr&utm_medium=rss",
+    "https://tech.eu/2026/09/21/newschool-vc-closes-eur10m-fund-i-to-back-early-stage-b2b-tech/"
   ],
-  "ai_index": 2,
-  "tech_index": 2,
-  "category": "tech"
+  "ai_index": 3,
+  "tech_index": 3,
+  "category": "ai"
 }
