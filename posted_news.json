@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.infoq.cn/article/hLyrZkaWJ9DkIUr7UvKQ?utm_source=rss&utm_medium=article",
     "https://www.ixbt.com/news/2026/09/10/435007-msi-vypustila-igrovoi-creator-p60-s-kakoi-to-strannoi-i-nesushhestvuiushhei-videokartoi-upomianuta-nekaia-rtx-s-2-gb-pamiati.html",
     "https://openai.com/index/put-data-to-work",
     "https://www.scmp.com/tech/tech-trends/article/3367124/enflame-shares-soar-188-shanghai-debut-nvidia-challenger-taps-investor-fever-ai?utm_source=rss_feed",
@@ -499,9 +498,10 @@
     "https://www.theregister.com/offbeat/2026/09/21/its-raining-the-transport-isnt-working-and-now-an-android-app-wants-to-walk-out-in-solidarity/5297494",
     "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
     "https://hackaday.com/2026/09/21/searching-for-dark-matter-with-a-levitating-magnet/",
-    "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping"
+    "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+    "https://semiengineering.com/how-60-ghz-radar-improves-low-power-presence-sensing-in-iot-devices/"
   ],
-  "ai_index": 5,
-  "tech_index": 5,
-  "category": "tech"
+  "ai_index": 6,
+  "tech_index": 6,
+  "category": "ai"
 }
