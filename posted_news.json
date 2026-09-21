@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.theregister.com/bofh/2026/09/11/bofh-oh-no-the-cms-ate-500-pages-of-corporate-documentation/5295201",
     "https://the-decoder.com/the-mathematical-ai-safety-institute-wants-to-prove-ai-is-safe-the-way-cryptographers-prove-codes-are-unbreakable/",
     "https://hackaday.com/2026/09/11/this-circuit-sculpture-is-an-esp32-powered-console/",
     "https://habr.com/ru/companies/cloud_ru/articles/1081198/?utm_campaign=1081198&utm_source=habrahabr&utm_medium=rss",
@@ -499,9 +498,10 @@
     "https://openai.com/index/advisory-group-on-mathematics-and-ai",
     "https://www.chinatechnews.com/2026/09/22/129462-chinese-tech-company-executive-tells-american-firms-to-shrink-teams",
     "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
-    "https://www.scmp.com/tech/tech-war/article/3368281/ai-safety-fears-mount-can-us-china-hotline-prevent-global-crisis?utm_source=rss_feed"
+    "https://www.scmp.com/tech/tech-war/article/3368281/ai-safety-fears-mount-can-us-china-hotline-prevent-global-crisis?utm_source=rss_feed",
+    "https://huggingface.co/blog/tokenizers-v1"
   ],
   "ai_index": 16,
   "tech_index": 16,
-  "category": "ai"
+  "category": "tech"
 }
