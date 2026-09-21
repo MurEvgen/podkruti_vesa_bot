@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.eetimes.com/from-ai-assisted-eda-to-ai-mediated-engineering/",
     "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
     "https://www.extremetech.com/electronics/apple-watch-series-12-ushers-in-new-health-sensing-system-oura-like-readiness",
     "https://habr.com/ru/articles/1081030/?utm_campaign=1081030&utm_source=habrahabr&utm_medium=rss",
@@ -499,9 +498,10 @@
     "https://arxiv.org/abs/2609.20971",
     "https://www.ithome.com/1/005/148.htm",
     "https://arxiv.org/abs/2609.20974",
-    "http://www.geekpark.net/news/370717"
+    "http://www.geekpark.net/news/370717",
+    "https://habr.com/ru/companies/yandex/articles/1083300/?utm_campaign=1083300&utm_source=habrahabr&utm_medium=rss"
   ],
   "ai_index": 0,
   "tech_index": 0,
-  "category": "ai"
+  "category": "tech"
 }
