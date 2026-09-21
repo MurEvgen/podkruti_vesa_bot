@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
     "https://www.extremetech.com/electronics/apple-watch-series-12-ushers-in-new-health-sensing-system-oura-like-readiness",
     "https://habr.com/ru/articles/1081030/?utm_campaign=1081030&utm_source=habrahabr&utm_medium=rss",
     "https://www.tomshardware.com/video-games/nintendo/nintendo-of-america-puts-tariff-refunds-towards-customer-appreciation-sale-but-no-refunds-to-switch-2-buyers-offers-30-percent-off-games-and-accessories-from-september-13-to-26",
@@ -499,9 +498,10 @@
     "https://www.ithome.com/1/005/148.htm",
     "https://arxiv.org/abs/2609.20974",
     "http://www.geekpark.net/news/370717",
-    "https://habr.com/ru/companies/yandex/articles/1083300/?utm_campaign=1083300&utm_source=habrahabr&utm_medium=rss"
+    "https://habr.com/ru/companies/yandex/articles/1083300/?utm_campaign=1083300&utm_source=habrahabr&utm_medium=rss",
+    "https://tech.eu/2026/09/21/metris-secures-5m-to-build-a-unified-data-layer-for-energy-assets/"
   ],
-  "ai_index": 0,
-  "tech_index": 0,
-  "category": "tech"
+  "ai_index": 1,
+  "tech_index": 1,
+  "category": "ai"
 }
