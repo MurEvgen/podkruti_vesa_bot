@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.scmp.com/tech/tech-trends/article/3367124/enflame-shares-soar-188-shanghai-debut-nvidia-challenger-taps-investor-fever-ai?utm_source=rss_feed",
     "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
     "https://36kr.com/p/3978405614599174?f=rss",
     "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
@@ -499,9 +498,10 @@
     "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
     "https://semiengineering.com/how-60-ghz-radar-improves-low-power-presence-sensing-in-iot-devices/",
     "https://habr.com/ru/companies/yandex_cloud_and_infra/articles/1084654/?utm_campaign=1084654&utm_source=habrahabr&utm_medium=rss",
-    "https://semiengineering.com/how-robotics-and-intelligent-equipment-control-drive-next-gen-fab-productivity/"
+    "https://semiengineering.com/how-robotics-and-intelligent-equipment-control-drive-next-gen-fab-productivity/",
+    "https://habr.com/ru/companies/infostart/articles/1084708/?utm_campaign=1084708&utm_source=habrahabr&utm_medium=rss"
   ],
   "ai_index": 7,
   "tech_index": 7,
-  "category": "ai"
+  "category": "tech"
 }
