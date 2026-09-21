@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://habr.com/ru/articles/1081154/?utm_campaign=1081154&utm_source=habrahabr&utm_medium=rss",
     "https://tech.eu/2026/09/11/seed-capital-closes-eur130m-fund-v-to-expand-across-the-nordics/",
     "https://the-decoder.com/anthropics-1-5-billion-book-settlement-descends-into-chaos-as-authors-and-publishers-fight-over-who-gets-paid/",
     "https://www.theregister.com/bofh/2026/09/11/bofh-oh-no-the-cms-ate-500-pages-of-corporate-documentation/5295201",
@@ -499,9 +498,10 @@
     "https://3dnews.ru/1148809",
     "https://www.infoq.cn/video/fJe6qRKX70UqqCEDMRTK?utm_source=rss&utm_medium=article",
     "https://www.ixbt.com/news/2026/09/21/437406-naucnye-stati-prevratili-v-ii-agentov-kotorye-sami-vypolniaiut-opisannye-v-nix-issledovaniia.html",
-    "https://openai.com/index/advisory-group-on-mathematics-and-ai"
+    "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+    "https://www.chinatechnews.com/2026/09/22/129462-chinese-tech-company-executive-tells-american-firms-to-shrink-teams"
   ],
-  "ai_index": 14,
-  "tech_index": 14,
-  "category": "tech"
+  "ai_index": 15,
+  "tech_index": 15,
+  "category": "ai"
 }
