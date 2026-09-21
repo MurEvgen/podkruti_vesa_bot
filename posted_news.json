@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://the-decoder.com/swarmchasers-hunt-rogue-agents-anthropic-investigates-itself-and-the-trail-they-both-follow-is-going-dark/",
     "https://www.theregister.com/databases/2026/09/10/azure-sql-data-sync-stops-taking-newcomers-before-2027-execution/5295579",
     "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
     "https://hackaday.com/2026/09/10/little-droid-has-party-mode/",
@@ -499,9 +498,10 @@
     "https://www.ixbt.com/news/2026/09/20/437169-google-i-blackstone-zapustili-crux-ai-novyi-operator-stroit-data-centry-dlia-tpu-na-milliardy-dollarov.html",
     "https://the-decoder.com/alibabas-open-weight-qwen-image-2-1-claims-to-beat-closed-models-in-image-generation-with-just-7-billion-parameters/",
     "https://www.chinatechnews.com/2026/09/21/129446-baidu-highlights-massive-ai-growth-in-latest-financial-report",
-    "https://the-decoder.com/tencents-gander-aims-to-keep-talking-while-it-works-in-the-background/"
+    "https://the-decoder.com/tencents-gander-aims-to-keep-talking-while-it-works-in-the-background/",
+    "https://www.scmp.com/tech/big-tech/article/3368011/us-weighs-restrictions-cloud-computing-how-will-chinas-ai-sector-adapt?utm_source=rss_feed"
   ],
-  "ai_index": 15,
-  "tech_index": 15,
-  "category": "tech"
+  "ai_index": 16,
+  "tech_index": 16,
+  "category": "ai"
 }
