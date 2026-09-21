@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://36kr.com/p/3978405614599174?f=rss",
     "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
     "https://36kr.com/p/3974257096159747?f=rss",
     "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
@@ -499,9 +498,10 @@
     "https://habr.com/ru/companies/yandex_cloud_and_infra/articles/1084654/?utm_campaign=1084654&utm_source=habrahabr&utm_medium=rss",
     "https://semiengineering.com/how-robotics-and-intelligent-equipment-control-drive-next-gen-fab-productivity/",
     "https://habr.com/ru/companies/infostart/articles/1084708/?utm_campaign=1084708&utm_source=habrahabr&utm_medium=rss",
-    "https://www.eetimes.com/highly-integrated-multibeam-beamformers-offer-swap-benefits-for-payload-phased-array-antennas/"
+    "https://www.eetimes.com/highly-integrated-multibeam-beamformers-offer-swap-benefits-for-payload-phased-array-antennas/",
+    "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone"
   ],
   "ai_index": 8,
   "tech_index": 8,
-  "category": "ai"
+  "category": "tech"
 }
