@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://habr.com/ru/articles/1080590/?utm_campaign=1080590&utm_source=habrahabr&utm_medium=rss",
     "http://www.geekpark.net/news/370157",
     "https://habr.com/ru/companies/alfa/articles/1080768/?utm_campaign=1080768&utm_source=habrahabr&utm_medium=rss",
     "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/",
@@ -499,9 +498,10 @@
     "https://www.tomshardware.com/tech-industry/data-centers/local-opposition-blocked-usd68-billion-worth-of-data-center-projects-in-the-second-quarter-of-2026-data-center-investments-reportedly-still-on-track-to-hit-usd32-trillion-by-2050",
     "https://habr.com/ru/companies/otus/articles/1079804/?utm_campaign=1079804&utm_source=habrahabr&utm_medium=rss",
     "https://phys.org/news/2026-09-stress-bacterial-rna-proteins-stories.html",
-    "https://pandaily.com/tripcom-group-china-tech-carnival-shenzhen-inbound-travel"
+    "https://pandaily.com/tripcom-group-china-tech-carnival-shenzhen-inbound-travel",
+    "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data"
   ],
-  "ai_index": 11,
-  "tech_index": 11,
-  "category": "tech"
+  "ai_index": 12,
+  "tech_index": 12,
+  "category": "ai"
 }
