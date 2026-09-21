@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://habr.com/ru/companies/vk/articles/1080770/?utm_campaign=1080770&utm_source=habrahabr&utm_medium=rss",
     "https://arstechnica.com/health/2026/09/boy-developed-toasted-skin-condition-from-using-a-laptop-every-day/",
     "https://habr.com/ru/articles/1081154/?utm_campaign=1081154&utm_source=habrahabr&utm_medium=rss",
     "https://tech.eu/2026/09/11/seed-capital-closes-eur130m-fund-v-to-expand-across-the-nordics/",
@@ -499,9 +498,10 @@
     "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data",
     "https://www.qbitai.com/2026/09/493268.html",
     "https://3dnews.ru/1148809",
-    "https://www.infoq.cn/video/fJe6qRKX70UqqCEDMRTK?utm_source=rss&utm_medium=article"
+    "https://www.infoq.cn/video/fJe6qRKX70UqqCEDMRTK?utm_source=rss&utm_medium=article",
+    "https://www.ixbt.com/news/2026/09/21/437406-naucnye-stati-prevratili-v-ii-agentov-kotorye-sami-vypolniaiut-opisannye-v-nix-issledovaniia.html"
   ],
-  "ai_index": 13,
-  "tech_index": 13,
-  "category": "tech"
+  "ai_index": 14,
+  "tech_index": 14,
+  "category": "ai"
 }
