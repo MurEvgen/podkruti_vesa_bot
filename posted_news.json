@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "http://www.geekpark.net/news/370157",
     "https://habr.com/ru/companies/alfa/articles/1080768/?utm_campaign=1080768&utm_source=habrahabr&utm_medium=rss",
     "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/",
     "https://habr.com/ru/companies/vk/articles/1080770/?utm_campaign=1080770&utm_source=habrahabr&utm_medium=rss",
@@ -499,9 +498,10 @@
     "https://habr.com/ru/companies/otus/articles/1079804/?utm_campaign=1079804&utm_source=habrahabr&utm_medium=rss",
     "https://phys.org/news/2026-09-stress-bacterial-rna-proteins-stories.html",
     "https://pandaily.com/tripcom-group-china-tech-carnival-shenzhen-inbound-travel",
-    "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data"
+    "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data",
+    "https://www.qbitai.com/2026/09/493268.html"
   ],
   "ai_index": 12,
   "tech_index": 12,
-  "category": "ai"
+  "category": "tech"
 }
