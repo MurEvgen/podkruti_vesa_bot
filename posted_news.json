@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://tech.eu/2026/09/11/seed-capital-closes-eur130m-fund-v-to-expand-across-the-nordics/",
     "https://the-decoder.com/anthropics-1-5-billion-book-settlement-descends-into-chaos-as-authors-and-publishers-fight-over-who-gets-paid/",
     "https://www.theregister.com/bofh/2026/09/11/bofh-oh-no-the-cms-ate-500-pages-of-corporate-documentation/5295201",
     "https://the-decoder.com/the-mathematical-ai-safety-institute-wants-to-prove-ai-is-safe-the-way-cryptographers-prove-codes-are-unbreakable/",
@@ -499,9 +498,10 @@
     "https://www.infoq.cn/video/fJe6qRKX70UqqCEDMRTK?utm_source=rss&utm_medium=article",
     "https://www.ixbt.com/news/2026/09/21/437406-naucnye-stati-prevratili-v-ii-agentov-kotorye-sami-vypolniaiut-opisannye-v-nix-issledovaniia.html",
     "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-    "https://www.chinatechnews.com/2026/09/22/129462-chinese-tech-company-executive-tells-american-firms-to-shrink-teams"
+    "https://www.chinatechnews.com/2026/09/22/129462-chinese-tech-company-executive-tells-american-firms-to-shrink-teams",
+    "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an"
   ],
   "ai_index": 15,
   "tech_index": 15,
-  "category": "ai"
+  "category": "tech"
 }
