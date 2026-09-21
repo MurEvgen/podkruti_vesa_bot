@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
     "https://www.eetimes.com/from-ai-assisted-eda-to-ai-mediated-engineering/",
     "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
     "https://www.extremetech.com/electronics/apple-watch-series-12-ushers-in-new-health-sensing-system-oura-like-readiness",
@@ -499,9 +498,10 @@
     "https://36kr.com/p/3991565233257221?f=rss",
     "https://arxiv.org/abs/2609.20971",
     "https://www.ithome.com/1/005/148.htm",
-    "https://arxiv.org/abs/2609.20974"
+    "https://arxiv.org/abs/2609.20974",
+    "http://www.geekpark.net/news/370717"
   ],
-  "ai_index": 19,
-  "tech_index": 19,
-  "category": "tech"
+  "ai_index": 0,
+  "tech_index": 0,
+  "category": "ai"
 }
