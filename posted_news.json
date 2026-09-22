@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
     "https://tech.eu/2026/09/11/mistral-secures-3b-series-d-100-days-to-save-eu-inc-and-early-stage-funding-crisis/",
     "https://arxiv.org/abs/2609.10584",
     "https://www.theregister.com/ai-and-ml/2026/09/11/ai-more-likely-to-kill-animals-if-it-saves-fuel-or-money/5295993",
@@ -499,9 +498,10 @@
     "https://3dnews.ru/1148853",
     "https://www.infoq.cn/article/rNHK14OsBl5CgSpMoTPq?utm_source=rss&utm_medium=article",
     "https://www.ixbt.com/news/2026/09/22/437600-rutube-podvel-letnie-itogi-polzovateli-stali-dolse-smotret-roliki.html",
-    "https://huggingface.co/blog/transformers-llama-cpp-quants"
+    "https://huggingface.co/blog/transformers-llama-cpp-quants",
+    "https://www.scmp.com/tech/tech-trends/article/3368417/chinas-hygon-moves-beyond-data-centres-embedded-processors-robotics-edge-ai?utm_source=rss_feed"
   ],
-  "ai_index": 14,
-  "tech_index": 14,
-  "category": "tech"
+  "ai_index": 15,
+  "tech_index": 15,
+  "category": "ai"
 }
