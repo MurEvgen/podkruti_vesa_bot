@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.therobotreport.com/teradyne-robotics-sues-jaka-over-3-universal-robots-patents/",
     "https://habr.com/ru/articles/1081286/?utm_campaign=1081286&utm_source=habrahabr&utm_medium=rss",
     "https://semiengineering.com/chip-industry-week-in-review-155/",
     "https://habr.com/ru/companies/sberbank/articles/1080158/?utm_campaign=1080158&utm_source=habrahabr&utm_medium=rss",
@@ -499,9 +498,10 @@
     "https://huggingface.co/blog/tokenizers-v1",
     "https://36kr.com/p/3993338830486272?f=rss",
     "https://the-decoder.com/un-science-panel-says-there-is-no-assurance-humans-will-keep-control-over-ai-agents/",
-    "https://36kr.com/p/3993831103347713?f=rss"
+    "https://36kr.com/p/3993831103347713?f=rss",
+    "https://the-decoder.com/xai-launches-grok-4-7-at-bargain-prices-but-benchmarks-reveal-a-wide-gap-to-claude-and-gpt-6/"
   ],
   "ai_index": 18,
   "tech_index": 18,
-  "category": "ai"
+  "category": "tech"
 }
