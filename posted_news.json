@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.theregister.com/ai-and-ml/2026/09/11/ai-more-likely-to-kill-animals-if-it-saves-fuel-or-money/5295993",
     "https://arxiv.org/abs/2609.10629",
     "https://hackaday.com/2026/09/11/all-the-best-computers-boot-to-python/",
     "https://habr.com/ru/articles/1081466/?utm_campaign=1081466&utm_source=habrahabr&utm_medium=rss",
@@ -499,9 +498,10 @@
     "https://huggingface.co/blog/transformers-llama-cpp-quants",
     "https://www.scmp.com/tech/tech-trends/article/3368417/chinas-hygon-moves-beyond-data-centres-embedded-processors-robotics-edge-ai?utm_source=rss_feed",
     "https://huggingface.co/blog/evaleval-aisi",
-    "https://www.scmp.com/tech/tech-trends/article/3368404/chinas-huawei-trims-mobile-chip-gap-apple-tau-scaling-law-pays-bernstein?utm_source=rss_feed"
+    "https://www.scmp.com/tech/tech-trends/article/3368404/chinas-huawei-trims-mobile-chip-gap-apple-tau-scaling-law-pays-bernstein?utm_source=rss_feed",
+    "https://the-decoder.com/claude-opus-5-5-matches-fable-5-1-at-40-percent-lower-cost-as-anthropic-promises-to-fix-claudish-writing/"
   ],
   "ai_index": 16,
   "tech_index": 16,
-  "category": "ai"
+  "category": "tech"
 }
