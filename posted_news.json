@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
     "https://36kr.com/p/3978780178627332?f=rss",
     "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
     "https://www.ithome.com/1/001/493.htm",
@@ -499,9 +498,10 @@
     "https://www.eetimes.com/how-ai-is-accelerating-pcb-design-and-prototyping/",
     "https://habr.com/ru/companies/just_ai/articles/1084804/?utm_campaign=1084804&utm_source=habrahabr&utm_medium=rss",
     "https://www.extremetech.com/computing/googlebooks-launch-with-models-from-asus-acer-lenovo-dell-and-hp",
-    "https://habr.com/ru/articles/1085146/?utm_campaign=1085146&utm_source=habrahabr&utm_medium=rss"
+    "https://habr.com/ru/articles/1085146/?utm_campaign=1085146&utm_source=habrahabr&utm_medium=rss",
+    "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-and-china-propose-hotline-to-de-escalate-ai-threats-ahead-of-washington-summit-comms-channel-between-both-nations-to-be-left-open-in-case-of-national-security-threats-posed-by-autonomous-artificial-intelligence"
   ],
-  "ai_index": 9,
-  "tech_index": 9,
-  "category": "tech"
+  "ai_index": 10,
+  "tech_index": 10,
+  "category": "ai"
 }
