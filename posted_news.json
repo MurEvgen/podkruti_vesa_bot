@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.qbitai.com/2026/09/487573.html",
     "https://3dnews.ru/1148356",
     "https://www.infoq.cn/article/rlXYaPUjVR0fffbQK3Iz?utm_source=rss&utm_medium=article",
     "https://www.ixbt.com/news/2026/09/11/435208-kitaiskaia-smic-pocti-dognala-samsung-kompaniia-pokazala-naibolsii-rost-vyrucki-sredi-liderov-rynka-proizvodstva-mikrosxem.html",
@@ -499,9 +498,10 @@
     "https://tech.eu/2026/09/22/gamindo-raises-eur14m-to-make-corporate-training-more-interactive/",
     "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
     "https://www.theregister.com/ai-and-ml/2026/09/22/california-tightens-datacenter-rules-on-water-and-power/5298028",
-    "https://habr.com/ru/articles/1084968/?utm_campaign=1084968&utm_source=habrahabr&utm_medium=rss"
+    "https://habr.com/ru/articles/1084968/?utm_campaign=1084968&utm_source=habrahabr&utm_medium=rss",
+    "https://hackaday.com/2026/09/21/a-computer-terminal-the-old-way/"
   ],
-  "ai_index": 4,
-  "tech_index": 4,
-  "category": "tech"
+  "ai_index": 5,
+  "tech_index": 5,
+  "category": "ai"
 }
