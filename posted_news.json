@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://the-decoder.com/ex-deepmind-vp-vinyals-says-ai-self-improvement-is-coming-but-wont-trigger-an-intelligence-explosion/",
     "https://www.scmp.com/tech/big-tech/article/3367219/chinese-optical-transceiver-makers-dodge-us-ban-now-fcc-updates-rules?utm_source=rss_feed",
     "https://the-decoder.com/deep-learning-pioneer-bengio-argues-the-training-process-itself-makes-ai-dangerous/",
     "https://36kr.com/p/3978921197140998?f=rss",
@@ -499,9 +498,10 @@
     "https://www.therobotreport.com/iac-completes-autonomous-racing-event-at-laguna-seca/",
     "https://habr.com/ru/articles/1085028/?utm_campaign=1085028&utm_source=habrahabr&utm_medium=rss",
     "https://semiengineering.com/chip-industry-technical-paper-roundup-sept-22/",
-    "https://habr.com/ru/companies/first/articles/1084590/?utm_campaign=1084590&utm_source=habrahabr&utm_medium=rss"
+    "https://habr.com/ru/companies/first/articles/1084590/?utm_campaign=1084590&utm_source=habrahabr&utm_medium=rss",
+    "https://www.eetimes.com/how-ai-is-accelerating-pcb-design-and-prototyping/"
   ],
-  "ai_index": 7,
-  "tech_index": 7,
-  "category": "tech"
+  "ai_index": 8,
+  "tech_index": 8,
+  "category": "ai"
 }
