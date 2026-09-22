@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://habr.com/ru/companies/cloud_ru/articles/1081198/?utm_campaign=1081198&utm_source=habrahabr&utm_medium=rss",
     "https://www.therobotreport.com/teradyne-robotics-sues-jaka-over-3-universal-robots-patents/",
     "https://habr.com/ru/articles/1081286/?utm_campaign=1081286&utm_source=habrahabr&utm_medium=rss",
     "https://semiengineering.com/chip-industry-week-in-review-155/",
@@ -499,9 +498,10 @@
     "https://www.scmp.com/tech/tech-war/article/3368281/ai-safety-fears-mount-can-us-china-hotline-prevent-global-crisis?utm_source=rss_feed",
     "https://huggingface.co/blog/tokenizers-v1",
     "https://36kr.com/p/3993338830486272?f=rss",
-    "https://the-decoder.com/un-science-panel-says-there-is-no-assurance-humans-will-keep-control-over-ai-agents/"
+    "https://the-decoder.com/un-science-panel-says-there-is-no-assurance-humans-will-keep-control-over-ai-agents/",
+    "https://36kr.com/p/3993831103347713?f=rss"
   ],
-  "ai_index": 17,
-  "tech_index": 17,
-  "category": "tech"
+  "ai_index": 18,
+  "tech_index": 18,
+  "category": "ai"
 }
