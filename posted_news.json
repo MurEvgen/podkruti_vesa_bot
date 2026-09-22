@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://habr.com/ru/articles/1081324/?utm_campaign=1081324&utm_source=habrahabr&utm_medium=rss",
     "https://phys.org/news/2026-09-chihuahua-dogs-coyote-small-mighty.html",
     "https://pandaily.com/china-llm-router-logs-6tb-credential-leak-researcher-claim",
     "https://3dnews.ru/1148359",
@@ -499,9 +498,10 @@
     "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
     "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
     "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
-    "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/"
+    "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+    "https://tech.eu/2026/09/22/gamindo-raises-eur14m-to-make-corporate-training-more-interactive/"
   ],
-  "ai_index": 2,
-  "tech_index": 2,
-  "category": "tech"
+  "ai_index": 3,
+  "tech_index": 3,
+  "category": "ai"
 }
