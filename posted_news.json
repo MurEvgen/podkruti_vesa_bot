@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://habr.com/ru/articles/1081466/?utm_campaign=1081466&utm_source=habrahabr&utm_medium=rss",
     "https://www.therobotreport.com/one-brick-at-a-time-how-monumental-uses-robotics-to-build-walls/",
     "https://habr.com/ru/companies/cloud_ru/articles/1069008/?utm_campaign=1069008&utm_source=habrahabr&utm_medium=rss",
     "https://semiengineering.com/heterogeneous-memory-chiplets-accelerate-multi-request-llm-inference-nus/",
@@ -499,9 +498,10 @@
     "https://www.scmp.com/tech/tech-trends/article/3368404/chinas-huawei-trims-mobile-chip-gap-apple-tau-scaling-law-pays-bernstein?utm_source=rss_feed",
     "https://the-decoder.com/claude-opus-5-5-matches-fable-5-1-at-40-percent-lower-cost-as-anthropic-promises-to-fix-claudish-writing/",
     "https://36kr.com/p/3994316084214534?f=rss",
-    "https://the-decoder.com/openai-calls-for-international-standards-on-ai-that-could-improve-itself/"
+    "https://the-decoder.com/openai-calls-for-international-standards-on-ai-that-could-improve-itself/",
+    "https://36kr.com/p/3994148400200706?f=rss"
   ],
-  "ai_index": 17,
-  "tech_index": 17,
-  "category": "tech"
+  "ai_index": 18,
+  "tech_index": 18,
+  "category": "ai"
 }
