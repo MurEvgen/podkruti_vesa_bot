@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://habr.com/ru/companies/sberbank/articles/1080158/?utm_campaign=1080158&utm_source=habrahabr&utm_medium=rss",
     "https://www.eetimes.com/indian-researchers-look-beyond-gpus-to-neuromorphic-ai-hardware/",
     "https://habr.com/ru/companies/kodik/articles/1081264/?utm_campaign=1081264&utm_source=habrahabr&utm_medium=rss",
     "https://www.extremetech.com/mobile/new-iphone-feature-helps-you-prove-your-photos-arent-ai-generated",
@@ -499,9 +498,10 @@
     "https://36kr.com/p/3993831103347713?f=rss",
     "https://the-decoder.com/xai-launches-grok-4-7-at-bargain-prices-but-benchmarks-reveal-a-wide-gap-to-claude-and-gpt-6/",
     "https://www.ithome.com/1/005/529.htm",
-    "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/"
+    "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
+    "http://www.geekpark.net/news/370768"
   ],
-  "ai_index": 19,
-  "tech_index": 19,
-  "category": "tech"
+  "ai_index": 0,
+  "tech_index": 0,
+  "category": "ai"
 }
