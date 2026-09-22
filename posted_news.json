@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.eetimes.com/inside-architect-labs-two-week-chip-design/",
     "https://habr.com/ru/companies/ods/articles/1081508/?utm_campaign=1081508&utm_source=habrahabr&utm_medium=rss",
     "https://www.extremetech.com/computing/modders-make-rtx-5090-work-with-8-pin-pcie-power-cables-ditching-the-12v",
     "https://habr.com/ru/companies/koda/articles/1081524/?utm_campaign=1081524&utm_source=habrahabr&utm_medium=rss",
@@ -499,9 +498,10 @@
     "https://the-decoder.com/openais-gpt-6-sol-and-luna-cut-prices-in-half-but-barely-move-the-needle-on-performance/",
     "https://www.ithome.com/1/006/011.htm",
     "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-    "http://www.geekpark.net/news/370797"
+    "http://www.geekpark.net/news/370797",
+    "https://openai.com/index/better-prompt-caching-for-gpt-6"
   ],
   "ai_index": 0,
   "tech_index": 0,
-  "category": "ai"
+  "category": "tech"
 }
