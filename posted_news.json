@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://pandaily.com/china-llm-router-logs-6tb-credential-leak-researcher-claim",
     "https://3dnews.ru/1148359",
     "https://www.qbitai.com/2026/09/487573.html",
     "https://3dnews.ru/1148356",
@@ -499,9 +498,10 @@
     "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
     "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
     "https://tech.eu/2026/09/22/gamindo-raises-eur14m-to-make-corporate-training-more-interactive/",
-    "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills"
+    "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+    "https://www.theregister.com/ai-and-ml/2026/09/22/california-tightens-datacenter-rules-on-water-and-power/5298028"
   ],
-  "ai_index": 3,
-  "tech_index": 3,
-  "category": "tech"
+  "ai_index": 4,
+  "tech_index": 4,
+  "category": "ai"
 }
