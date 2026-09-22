@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://arxiv.org/abs/2609.10584",
     "https://www.theregister.com/ai-and-ml/2026/09/11/ai-more-likely-to-kill-animals-if-it-saves-fuel-or-money/5295993",
     "https://arxiv.org/abs/2609.10629",
     "https://hackaday.com/2026/09/11/all-the-best-computers-boot-to-python/",
@@ -499,9 +498,10 @@
     "https://www.ixbt.com/news/2026/09/22/437600-rutube-podvel-letnie-itogi-polzovateli-stali-dolse-smotret-roliki.html",
     "https://huggingface.co/blog/transformers-llama-cpp-quants",
     "https://www.scmp.com/tech/tech-trends/article/3368417/chinas-hygon-moves-beyond-data-centres-embedded-processors-robotics-edge-ai?utm_source=rss_feed",
-    "https://huggingface.co/blog/evaleval-aisi"
+    "https://huggingface.co/blog/evaleval-aisi",
+    "https://www.scmp.com/tech/tech-trends/article/3368404/chinas-huawei-trims-mobile-chip-gap-apple-tau-scaling-law-pays-bernstein?utm_source=rss_feed"
   ],
-  "ai_index": 15,
-  "tech_index": 15,
-  "category": "tech"
+  "ai_index": 16,
+  "tech_index": 16,
+  "category": "ai"
 }
