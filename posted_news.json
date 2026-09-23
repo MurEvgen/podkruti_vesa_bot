@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
     "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
     "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
     "https://tech.eu/2026/09/11/luca-bocchio-joins-balderton-as-partner-after-more-than-a-decade-in-european-vc/",
@@ -499,9 +498,10 @@
     "https://phys.org/news/2026-09-free-surveyed-users-losses.html",
     "https://pandaily.com/zhipu-zcode-open-source-repo-wiki-fix-maas-no-retention",
     "https://spectrum.ieee.org/spain-astronaut-ieee-honorary-member",
-    "https://www.qbitai.com/2026/09/496578.html"
+    "https://www.qbitai.com/2026/09/496578.html",
+    "https://3dnews.ru/1148903"
   ],
-  "ai_index": 12,
-  "tech_index": 12,
-  "category": "tech"
+  "ai_index": 13,
+  "tech_index": 13,
+  "category": "ai"
 }
