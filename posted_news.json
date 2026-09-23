@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.qbitai.com/2026/09/488447.html",
     "https://phys.org/news/2026-09-ancient-armored-fish-evolved-distinct.html",
     "https://www.qbitai.com/2026/09/488672.html",
     "https://3dnews.ru/1148413",
@@ -499,9 +498,10 @@
     "http://www.geekpark.net/news/370883",
     "https://openai.com/index/ringg",
     "https://techcrunch.com/2026/09/23/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely/",
-    "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/"
+    "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+    "https://arstechnica.com/tech-policy/2026/09/discord-age-verification-rolls-out-today-with-changes-spurred-by-user-backlash/"
   ],
-  "ai_index": 1,
-  "tech_index": 1,
-  "category": "tech"
+  "ai_index": 2,
+  "tech_index": 2,
+  "category": "ai"
 }
