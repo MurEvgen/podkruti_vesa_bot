@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.scmp.com/tech/tech-trends/article/3367207/what-agi-how-chinas-ai-firms-are-catching-openai-astra-sparks-debate?utm_source=rss_feed",
     "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
     "https://36kr.com/p/3980309439265793?f=rss",
     "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
@@ -499,9 +498,10 @@
     "https://arxiv.org/abs/2609.25010",
     "https://semiengineering.com/wafer-scale-sub-5nm-channel-monolayer-mos2-transistors-cmu-uf-mit-et-al/",
     "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
-    "https://www.eetimes.com/canadian-startup-sees-success-in-space-qualification/"
+    "https://www.eetimes.com/canadian-startup-sees-success-in-space-qualification/",
+    "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3"
   ],
   "ai_index": 8,
   "tech_index": 8,
-  "category": "ai"
+  "category": "tech"
 }
