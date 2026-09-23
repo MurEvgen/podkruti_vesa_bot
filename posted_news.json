@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.therobotreport.com/ultrasound-offers-scalable-path-tactile-intelligence-physical-ai/",
     "https://www.infoq.cn/article/0kYhxXxhOXhxGATe64ec?utm_source=rss&utm_medium=article",
     "https://semiengineering.com/reducing-hbm-ecc-controller-overhead-for-ai-inference-rpi-ibm/",
     "https://www.qbitai.com/2026/09/488380.html",
@@ -499,9 +498,10 @@
     "https://the-decoder.com/nvidia-backed-nscale-keeps-its-biggest-customer-bytedance-out-of-its-ipo-filing/",
     "https://36kr.com/p/3996102074290305?f=rss",
     "https://the-decoder.com/anthropic-engineer-explains-why-claudes-writing-got-worse-although-the-model-got-smarter/",
-    "https://36kr.com/p/3995880197230724?f=rss"
+    "https://36kr.com/p/3995880197230724?f=rss",
+    "https://the-decoder.com/youtube-adds-ai-tools-to-creator-studio-with-script-coaching-smart-thumbnails-and-gemini-editing/"
   ],
   "ai_index": 18,
   "tech_index": 18,
-  "category": "ai"
+  "category": "tech"
 }
