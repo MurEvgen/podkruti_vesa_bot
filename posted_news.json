@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.ithome.com/1/001/666.htm",
     "https://habr.com/ru/articles/1081456/?utm_campaign=1081456&utm_source=habrahabr&utm_medium=rss",
     "http://www.geekpark.net/news/370227",
     "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
@@ -499,9 +498,10 @@
     "https://habr.com/ru/articles/1085494/?utm_campaign=1085494&utm_source=habrahabr&utm_medium=rss",
     "https://www.tomshardware.com/pc-components/microsd-cards/beat-the-switch-2-storage-crisis-with-this-usd99-512gb-microsd-express-card-amazon-deal-slashes-33-percent-off-high-performance-samsung-p9",
     "https://habr.com/ru/articles/1085514/?utm_campaign=1085514&utm_source=habrahabr&utm_medium=rss",
-    "https://phys.org/news/2026-09-free-surveyed-users-losses.html"
+    "https://phys.org/news/2026-09-free-surveyed-users-losses.html",
+    "https://pandaily.com/zhipu-zcode-open-source-repo-wiki-fix-maas-no-retention"
   ],
   "ai_index": 11,
   "tech_index": 11,
-  "category": "ai"
+  "category": "tech"
 }
