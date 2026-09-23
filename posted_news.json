@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://habr.com/ru/articles/1078900/?utm_campaign=1078900&utm_source=habrahabr&utm_medium=rss",
     "https://www.theregister.com/systems/2026/09/12/nvidias-groq-acquihire-is-on-the-dojs-radar-but-its-already-too-late/5295986",
     "https://habr.com/ru/articles/1074678/?utm_campaign=1074678&utm_source=habrahabr&utm_medium=rss",
     "https://hackaday.com/2026/09/12/big-infinity-mirror-clock-invites-you-to-gaze-deeply/",
@@ -499,9 +498,10 @@
     "https://www.ixbt.com/news/2026/09/23/437844-svezee-obnovlenie-windows-11-vyzyvaet-vylety-battlefield-6-i-drugix-igr.html",
     "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
     "https://www.scmp.com/tech/article/3368525/trump-offloads-tens-millions-ai-tech-shares-led-microsoft-amazon-meta?utm_source=rss_feed",
-    "https://huggingface.co/blog/nvidia/nemotron-diarization"
+    "https://huggingface.co/blog/nvidia/nemotron-diarization",
+    "https://www.scmp.com/tech/tech-trends/article/3368535/chinas-storage-makers-aim-climb-value-chain-advanced-packaging-bets?utm_source=rss_feed"
   ],
-  "ai_index": 15,
-  "tech_index": 15,
-  "category": "tech"
+  "ai_index": 16,
+  "tech_index": 16,
+  "category": "ai"
 }
