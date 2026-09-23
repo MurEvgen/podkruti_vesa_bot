@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.chinatechnews.com/2026/09/12/128960-ai-built-weworm-threat-exposed-as-tencent-patches-wechat-vulnerability",
     "https://the-decoder.com/gpt-6-astra-appears-to-show-a-step-change-in-spatial-reasoning-based-on-early-benchmarks/",
     "https://www.scmp.com/tech/tech-trends/article/3367207/what-agi-how-chinas-ai-firms-are-catching-openai-astra-sparks-debate?utm_source=rss_feed",
     "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
@@ -499,9 +498,10 @@
     "https://arxiv.org/abs/2609.22277",
     "https://www.therobotreport.com/intel-discusses-infrastructure-needed-to-scale-physical-ai-robobusiness/",
     "https://arxiv.org/abs/2609.25010",
-    "https://semiengineering.com/wafer-scale-sub-5nm-channel-monolayer-mos2-transistors-cmu-uf-mit-et-al/"
+    "https://semiengineering.com/wafer-scale-sub-5nm-channel-monolayer-mos2-transistors-cmu-uf-mit-et-al/",
+    "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/"
   ],
   "ai_index": 7,
   "tech_index": 7,
-  "category": "ai"
+  "category": "tech"
 }
