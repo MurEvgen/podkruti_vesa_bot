@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://spectrum.ieee.org/ieee-to-reward-sections",
     "https://www.qbitai.com/2026/09/487796.html",
     "https://3dnews.ru/1148391",
     "https://www.infoq.cn/article/i1FJsYNhNM4wwV78ANhL?utm_source=rss&utm_medium=article",
@@ -499,9 +498,10 @@
     "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
     "https://tech.eu/2026/09/22/nato-innovation-fund-co-leads-eur11m-investment-in-defencetech-outfit-terasi/",
     "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
-    "https://www.theregister.com/ai-and-ml/2026/09/23/frontier-ai-keeps-racing-despite-calls-to-slow-down/5298448"
+    "https://www.theregister.com/ai-and-ml/2026/09/23/frontier-ai-keeps-racing-despite-calls-to-slow-down/5298448",
+    "https://arxiv.org/abs/2609.22161"
   ],
   "ai_index": 4,
   "tech_index": 4,
-  "category": "ai"
+  "category": "tech"
 }
