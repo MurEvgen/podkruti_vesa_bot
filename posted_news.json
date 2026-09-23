@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.infoq.cn/article/i1FJsYNhNM4wwV78ANhL?utm_source=rss&utm_medium=article",
     "https://www.ixbt.com/news/2026/09/12/435349-kitaicy-vystraivaiutsia-v-ocered-za-skladnym-iphone-duo-tolko-na-jdcom-oformleno-pocti-155-mln-predzakazov.html",
     "https://the-decoder.com/anthropic-ceo-amodei-wants-ai-speed-limits-before-self-improvement-outpaces-human-control/",
     "https://www.chinatechnews.com/2026/09/12/128960-ai-built-weworm-threat-exposed-as-tencent-patches-wechat-vulnerability",
@@ -499,9 +498,10 @@
     "https://www.theregister.com/ai-and-ml/2026/09/23/frontier-ai-keeps-racing-despite-calls-to-slow-down/5298448",
     "https://arxiv.org/abs/2609.22161",
     "https://hackaday.com/2026/09/22/why-raindrops-make-for-pretty-good-antennae/",
-    "https://arxiv.org/abs/2609.22277"
+    "https://arxiv.org/abs/2609.22277",
+    "https://www.therobotreport.com/intel-discusses-infrastructure-needed-to-scale-physical-ai-robobusiness/"
   ],
-  "ai_index": 5,
-  "tech_index": 5,
-  "category": "tech"
+  "ai_index": 6,
+  "tech_index": 6,
+  "category": "ai"
 }
