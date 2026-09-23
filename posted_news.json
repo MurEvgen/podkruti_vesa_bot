@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://semiengineering.com/reducing-hbm-ecc-controller-overhead-for-ai-inference-rpi-ibm/",
     "https://www.qbitai.com/2026/09/488380.html",
     "https://www.eetimes.com/fabships-aim-to-exploit-free-space-vacuum-for-compound-semiconductor-substrates/",
     "https://www.extremetech.com/internet/unlimited-siri-ai-access-will-require-you-to-pay-up",
@@ -499,9 +498,10 @@
     "https://the-decoder.com/anthropic-engineer-explains-why-claudes-writing-got-worse-although-the-model-got-smarter/",
     "https://36kr.com/p/3995880197230724?f=rss",
     "https://the-decoder.com/youtube-adds-ai-tools-to-creator-studio-with-script-coaching-smart-thumbnails-and-gemini-editing/",
-    "https://www.ithome.com/1/006/509.htm"
+    "https://www.ithome.com/1/006/509.htm",
+    "https://arxiv.org/abs/2609.25013"
   ],
   "ai_index": 19,
   "tech_index": 19,
-  "category": "ai"
+  "category": "tech"
 }
