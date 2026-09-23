@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.qbitai.com/2026/09/488380.html",
     "https://www.eetimes.com/fabships-aim-to-exploit-free-space-vacuum-for-compound-semiconductor-substrates/",
     "https://www.extremetech.com/internet/unlimited-siri-ai-access-will-require-you-to-pay-up",
     "https://www.tomshardware.com/pc-components/build-a-high-end-amd-gaming-pc-for-less-ryzen-7-9800x3d-bundle-includes-an-x870e-motherboard-32gb-ddr5-aio-cooler-and-a-game-for-usd1-109-99",
@@ -499,9 +498,10 @@
     "https://36kr.com/p/3995880197230724?f=rss",
     "https://the-decoder.com/youtube-adds-ai-tools-to-creator-studio-with-script-coaching-smart-thumbnails-and-gemini-editing/",
     "https://www.ithome.com/1/006/509.htm",
-    "https://arxiv.org/abs/2609.25013"
+    "https://arxiv.org/abs/2609.25013",
+    "http://www.geekpark.net/news/370883"
   ],
-  "ai_index": 19,
-  "tech_index": 19,
-  "category": "tech"
+  "ai_index": 0,
+  "tech_index": 0,
+  "category": "ai"
 }
