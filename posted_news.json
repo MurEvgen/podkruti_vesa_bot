@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://the-decoder.com/sam-altman-calls-for-pacing-ai-development-but-promises-rapid-progress-will-continue/",
     "https://36kr.com/p/3978416117464071?f=rss",
     "https://arxiv.org/abs/2609.11987",
     "https://36kr.com/p/3983075898440708?f=rss",
@@ -499,9 +498,10 @@
     "https://the-decoder.com/sakana-ai-hires-jurgen-schmidhuber-inventor-of-deep-learning-world-models-and-your-next-chatgpt-update/",
     "https://hackaday.com/2026/09/24/handheld-scanner-is-a-radio-multi-tool/",
     "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
-    "https://www.therobotreport.com/why-you-should-look-beyond-spec-sheet-when-choosing-motion-architecture/"
+    "https://www.therobotreport.com/why-you-should-look-beyond-spec-sheet-when-choosing-motion-architecture/",
+    "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/"
   ],
   "ai_index": 6,
   "tech_index": 6,
-  "category": "ai"
+  "category": "tech"
 }
