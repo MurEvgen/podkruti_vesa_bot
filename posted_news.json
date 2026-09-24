@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://36kr.com/p/3981147673345033?f=rss",
     "https://habr.com/ru/companies/vasexperts/articles/1078212/?utm_campaign=1078212&utm_source=habrahabr&utm_medium=rss",
     "https://www.ithome.com/1/001/867.htm",
     "https://habr.com/ru/articles/1081764/?utm_campaign=1081764&utm_source=habrahabr&utm_medium=rss",
@@ -499,9 +498,10 @@
     "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
     "https://semiengineering.com/five-signals-from-the-2026-functional-verification-study/",
     "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
-    "https://www.eetimes.com/from-qubits-to-workflows-rethinking-quantum-computing/"
+    "https://www.eetimes.com/from-qubits-to-workflows-rethinking-quantum-computing/",
+    "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware"
   ],
   "ai_index": 8,
   "tech_index": 8,
-  "category": "ai"
+  "category": "tech"
 }
