@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.ithome.com/1/001/868.htm",
     "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
     "http://www.geekpark.net/news/370228",
     "https://habr.com/ru/articles/1081788/?utm_campaign=1081788&utm_source=habrahabr&utm_medium=rss",
@@ -499,9 +498,10 @@
     "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
     "https://www.extremetech.com/mobile/adobe-launches-redesigned-premiere-video-editing-app-on-android",
     "https://neurohive.io/ru/papers/obvyazka-ii-agentov-metod-rrsi-ot-google-dajot-do-4-7-punkta-na-neznakomyh-benchmarkah/",
-    "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-brings-snapdragon-x2-plus-to-13-inch-surface-laptop-12-inch-surface-pro-low-end-systems-finally-get-upgrades"
+    "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-brings-snapdragon-x2-plus-to-13-inch-surface-laptop-12-inch-surface-pro-low-end-systems-finally-get-upgrades",
+    "https://habr.com/ru/articles/1085916/?utm_campaign=1085916&utm_source=habrahabr&utm_medium=rss"
   ],
   "ai_index": 10,
   "tech_index": 10,
-  "category": "ai"
+  "category": "tech"
 }
