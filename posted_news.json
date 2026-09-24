@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "http://www.geekpark.net/news/370228",
     "https://habr.com/ru/articles/1081788/?utm_campaign=1081788&utm_source=habrahabr&utm_medium=rss",
     "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/",
     "https://habr.com/ru/articles/1081780/?utm_campaign=1081780&utm_source=habrahabr&utm_medium=rss",
@@ -499,9 +498,10 @@
     "https://neurohive.io/ru/papers/obvyazka-ii-agentov-metod-rrsi-ot-google-dajot-do-4-7-punkta-na-neznakomyh-benchmarkah/",
     "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-brings-snapdragon-x2-plus-to-13-inch-surface-laptop-12-inch-surface-pro-low-end-systems-finally-get-upgrades",
     "https://habr.com/ru/articles/1085916/?utm_campaign=1085916&utm_source=habrahabr&utm_medium=rss",
-    "https://phys.org/news/2026-09-aerial-reveal-successful-woodland-expansion.html"
+    "https://phys.org/news/2026-09-aerial-reveal-successful-woodland-expansion.html",
+    "https://pandaily.com/sensetime-sensenova-u1-pro-image-model-8k-raccoon-api"
   ],
   "ai_index": 11,
   "tech_index": 11,
-  "category": "ai"
+  "category": "tech"
 }
