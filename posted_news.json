@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://habr.com/ru/articles/1081846/?utm_campaign=1081846&utm_source=habrahabr&utm_medium=rss",
     "https://phys.org/news/2026-09-cities-moon-isnt-scientists.html",
     "https://www.qbitai.com/2026/09/488832.html",
     "https://3dnews.ru/1148422",
@@ -499,9 +498,10 @@
     "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data",
     "https://www.ithome.com/1/007/014.htm",
     "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
-    "http://www.geekpark.net/news/371030"
+    "http://www.geekpark.net/news/371030",
+    "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark"
   ],
   "ai_index": 0,
   "tech_index": 0,
-  "category": "ai"
+  "category": "tech"
 }
