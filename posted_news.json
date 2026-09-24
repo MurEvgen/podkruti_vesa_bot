@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.ithome.com/1/002/288.htm",
     "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
     "http://www.geekpark.net/news/370269",
     "https://the-decoder.com/clay-mathematics-institute-says-the-navier-stokes-millennium-prize-problem-has-apparently-been-settled/",
@@ -499,9 +498,10 @@
     "https://semiengineering.com/a-network-on-chip-noc-for-multi-die-devices/",
     "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
     "https://www.eetimes.com/delos-data-targets-heterogeneous-ai-with-data-interface/",
-    "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain"
+    "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
+    "https://www.extremetech.com/electronics/meta-announces-its-first-anti-pervert-smart-glasses"
   ],
-  "ai_index": 8,
-  "tech_index": 8,
-  "category": "tech"
+  "ai_index": 9,
+  "tech_index": 9,
+  "category": "ai"
 }
