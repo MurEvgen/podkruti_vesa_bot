@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://pandaily.com/shanghai-ai-lab-sjtu-ncp-archpreview-open-source",
     "https://phys.org/news/2026-09-jwst-tiny-moons-exoplanet-great.html",
     "https://habr.com/ru/articles/1081846/?utm_campaign=1081846&utm_source=habrahabr&utm_medium=rss",
     "https://phys.org/news/2026-09-cities-moon-isnt-scientists.html",
@@ -499,9 +498,10 @@
     "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
     "https://36kr.com/p/3996805864312961?f=rss",
     "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data",
-    "https://www.ithome.com/1/007/014.htm"
+    "https://www.ithome.com/1/007/014.htm",
+    "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/"
   ],
   "ai_index": 19,
   "tech_index": 19,
-  "category": "ai"
+  "category": "tech"
 }
