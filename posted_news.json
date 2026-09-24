@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://phys.org/news/2026-09-consumers-demand-transparency-rewarded.html",
     "https://pandaily.com/shanghai-ai-lab-sjtu-ncp-archpreview-open-source",
     "https://phys.org/news/2026-09-jwst-tiny-moons-exoplanet-great.html",
     "https://habr.com/ru/articles/1081846/?utm_campaign=1081846&utm_source=habrahabr&utm_medium=rss",
@@ -499,9 +498,10 @@
     "https://36kr.com/p/3995480853204870?f=rss",
     "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
     "https://36kr.com/p/3996805864312961?f=rss",
-    "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data"
+    "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data",
+    "https://www.ithome.com/1/007/014.htm"
   ],
-  "ai_index": 18,
-  "tech_index": 18,
-  "category": "tech"
+  "ai_index": 19,
+  "tech_index": 19,
+  "category": "ai"
 }
