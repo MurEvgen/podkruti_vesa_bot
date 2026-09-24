@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://36kr.com/p/3983075898440708?f=rss",
     "https://the-decoder.com/china-fires-back-at-u-s-ai-safety-warnings-calling-them-fearmongering-to-lock-in-american-advantage/",
     "https://www.ithome.com/1/002/288.htm",
     "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
@@ -499,9 +498,10 @@
     "https://www.therobotreport.com/why-you-should-look-beyond-spec-sheet-when-choosing-motion-architecture/",
     "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
     "https://semiengineering.com/a-network-on-chip-noc-for-multi-die-devices/",
-    "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face"
+    "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+    "https://www.eetimes.com/delos-data-targets-heterogeneous-ai-with-data-interface/"
   ],
-  "ai_index": 7,
-  "tech_index": 7,
-  "category": "tech"
+  "ai_index": 8,
+  "tech_index": 8,
+  "category": "ai"
 }
