@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
     "https://www.scmp.com/plus/news/china/diplomacy/article/3367456/xi-touts-brics-cooperation-ai-us-titans-flag-tech-risks?utm_source=rss_feed",
     "https://the-decoder.com/sam-altman-calls-for-pacing-ai-development-but-promises-rapid-progress-will-continue/",
     "https://36kr.com/p/3978416117464071?f=rss",
@@ -499,9 +498,10 @@
     "https://the-decoder.com/black-forest-labs-launches-flux-3-action-an-open-robotics-ai-model/",
     "https://www.theregister.com/security/2026/09/24/decades-old-file-security-flaws-found-in-android-linux-macos-and-windows/5298672",
     "https://the-decoder.com/sakana-ai-hires-jurgen-schmidhuber-inventor-of-deep-learning-world-models-and-your-next-chatgpt-update/",
-    "https://hackaday.com/2026/09/24/handheld-scanner-is-a-radio-multi-tool/"
+    "https://hackaday.com/2026/09/24/handheld-scanner-is-a-radio-multi-tool/",
+    "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/"
   ],
   "ai_index": 5,
   "tech_index": 5,
-  "category": "ai"
+  "category": "tech"
 }
