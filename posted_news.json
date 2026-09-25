@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://36kr.com/p/3984125136091905?f=rss",
     "https://arxiv.org/abs/2609.13356",
     "https://36kr.com/p/3984335944252165?f=rss",
     "https://arxiv.org/abs/2609.13396",
@@ -499,9 +498,10 @@
     "https://hackaday.com/2026/09/25/this-week-in-security-fbi-gets-hacked-muse-vulnerable-to-clickfix-popular-rust-developers-at-risk-attacking-the-rp2350-and-new-attacks-against-rsa/",
     "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
     "https://www.therobotreport.com/agility-robotics-maker-of-digit-humanoid-exploring-wheeled-robots/",
-    "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/"
+    "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+    "https://semiengineering.com/chip-industry-week-in-review-157/"
   ],
-  "ai_index": 6,
-  "tech_index": 6,
-  "category": "tech"
+  "ai_index": 7,
+  "tech_index": 7,
+  "category": "ai"
 }
