@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.theregister.com/on-prem/2026/09/14/datacenter-developers-want-your-backyard-fas-says-negotiate-harder/5296308",
     "https://the-decoder.com/openai-has-hundreds-of-contract-workers-reading-your-chatgpt-conversations/",
     "https://hackaday.com/2026/09/14/pulse-a-new-vhdl-simulator/",
     "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
@@ -499,9 +498,10 @@
     "https://spectrum.ieee.org/epics-in-ieee-portable-educational",
     "https://www.qbitai.com/2026/09/496961.html",
     "https://3dnews.ru/1149010",
-    "https://www.infoq.cn/article/OUcL9autU0dg1BIt6bib?utm_source=rss&utm_medium=article"
+    "https://www.infoq.cn/article/OUcL9autU0dg1BIt6bib?utm_source=rss&utm_medium=article",
+    "https://www.ixbt.com/news/2026/09/25/438168-priamaia-sviaz-so-sputnika-starlink-priamo-v-smartfone-v-bezliudnoi-mestnosti-starlink-mobile-zapustili-v-ugande.html"
   ],
-  "ai_index": 13,
-  "tech_index": 13,
-  "category": "tech"
+  "ai_index": 14,
+  "tech_index": 14,
+  "category": "ai"
 }
