@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://hackaday.com/2026/09/14/pulse-a-new-vhdl-simulator/",
     "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
     "https://www.therobotreport.com/arm-to-discuss-scaling-physical-ai-at-robobusiness/",
     "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
@@ -499,9 +498,10 @@
     "https://3dnews.ru/1149010",
     "https://www.infoq.cn/article/OUcL9autU0dg1BIt6bib?utm_source=rss&utm_medium=article",
     "https://www.ixbt.com/news/2026/09/25/438168-priamaia-sviaz-so-sputnika-starlink-priamo-v-smartfone-v-bezliudnoi-mestnosti-starlink-mobile-zapustili-v-ugande.html",
-    "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/"
+    "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+    "https://www.chinatechnews.com/2026/09/25/129740-china-accelerates-commercial-space-offensive-with-high-density-launch-sorties-and-leo-megaconstellations"
   ],
-  "ai_index": 14,
-  "tech_index": 14,
-  "category": "tech"
+  "ai_index": 15,
+  "tech_index": 15,
+  "category": "ai"
 }
