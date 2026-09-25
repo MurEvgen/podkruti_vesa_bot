@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
     "https://www.eetimes.com/digital-keys-and-radio-technology-in-smart-buildings/",
     "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
     "https://www.extremetech.com/computing/dumpster-diving-diyer-secures-working-ssds-ram-laptops-from-their-local",
@@ -499,9 +498,10 @@
     "https://the-decoder.com/top-ai-experts-badly-underestimated-how-fast-the-field-is-moving-study-finds/",
     "https://www.scmp.com/tech/tech-war/article/3368633/china-tech-faces-fresh-scrutiny-us-blacklist-bill-introduced-lenovo-case-emerges?utm_source=rss_feed",
     "https://arxiv.org/abs/2609.28475",
-    "https://36kr.com/p/3997468580958089?f=rss"
+    "https://36kr.com/p/3997468580958089?f=rss",
+    "https://arxiv.org/abs/2609.28506"
   ],
   "ai_index": 17,
   "tech_index": 17,
-  "category": "ai"
+  "category": "tech"
 }
