@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety/",
     "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
     "https://the-decoder.com/apple-brings-a-fully-revamped-siri-built-on-googles-gemini-but-not-to-the-eu/",
     "https://arstechnica.com/cars/2026/09/volvo-bigs-up-the-batteries-for-2028-xc60-and-xc90-plug-in-refresh/",
@@ -499,9 +498,10 @@
     "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
     "https://www.extremetech.com/computing/so-long-rtx-5090-we-could-hardly-afford-ye",
     "https://habr.com/ru/articles/1086798/?utm_campaign=1086798&utm_source=habrahabr&utm_medium=rss",
-    "https://www.tomshardware.com/tech-industry/data-centers/elon-musks-spacexai-to-add-another-660-000-ai-gpus-this-year-nearing-a-total-of-1-44-million-in-operation-firm-is-building-1-2-gigawatt-power-plant-to-bring-systems-fully-online"
+    "https://www.tomshardware.com/tech-industry/data-centers/elon-musks-spacexai-to-add-another-660-000-ai-gpus-this-year-nearing-a-total-of-1-44-million-in-operation-firm-is-building-1-2-gigawatt-power-plant-to-bring-systems-fully-online",
+    "https://habr.com/ru/articles/1086842/?utm_campaign=1086842&utm_source=habrahabr&utm_medium=rss"
   ],
   "ai_index": 10,
   "tech_index": 10,
-  "category": "ai"
+  "category": "tech"
 }
