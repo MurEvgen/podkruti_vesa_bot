@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
     "https://tech.eu/2026/09/14/an-ai-app-builder-without-an-ai-serverpod-bets-on-what-comes-after-vibe-coding/",
     "https://the-decoder.com/microsofts-ai-rulebook-readable-thinking-no-inner-life-and-definitely-no-rights/",
     "https://www.theregister.com/on-prem/2026/09/14/datacenter-developers-want-your-backyard-fas-says-negotiate-harder/5296308",
@@ -499,9 +498,10 @@
     "https://habr.com/ru/articles/1086426/?utm_campaign=1086426&utm_source=habrahabr&utm_medium=rss",
     "https://phys.org/news/2026-09-qa-grasslands-diverse-landscapes-drought.html",
     "https://pandaily.com/iflytek-spark-asr-2-0-noise-dialect-code-switch",
-    "https://spectrum.ieee.org/epics-in-ieee-portable-educational"
+    "https://spectrum.ieee.org/epics-in-ieee-portable-educational",
+    "https://www.qbitai.com/2026/09/496961.html"
   ],
   "ai_index": 12,
   "tech_index": 12,
-  "category": "ai"
+  "category": "tech"
 }
