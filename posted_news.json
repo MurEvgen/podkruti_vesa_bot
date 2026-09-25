@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://openai.com/index/fyxer",
     "https://www.chinatechnews.com/2026/09/15/129014-as-europes-space-dreams-appear-to-crumble-beijing-secures-the-orbital-digital-high-ground",
     "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
     "https://www.scmp.com/tech/tech-trends/article/3367486/chinese-researchers-chart-five-stage-path-toward-last-ai-built-humans?utm_source=rss_feed",
@@ -499,9 +498,10 @@
     "https://the-decoder.com/metas-muse-agent-gives-every-user-a-full-cloud-computer-running-ubuntu-linux/",
     "https://tech.eu/2026/09/25/central-european-startup-going-for-bigger-cheques-as-want-moment-in-spotlight-says-vc/",
     "https://the-decoder.com/intelligence-doesnt-come-cheap-as-ai-drives-up-costs-for-the-nsa-hospitals-and-insurers/",
-    "https://www.theregister.com/storage/2026/09/25/raspberry-pi-surfs-memory-crunch-to-record-first-half/5299155"
+    "https://www.theregister.com/storage/2026/09/25/raspberry-pi-surfs-memory-crunch-to-record-first-half/5299155",
+    "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/"
   ],
   "ai_index": 4,
   "tech_index": 4,
-  "category": "ai"
+  "category": "tech"
 }
