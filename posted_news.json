@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://36kr.com/p/3984335944252165?f=rss",
     "https://arxiv.org/abs/2609.13396",
     "https://www.ithome.com/1/002/654.htm",
     "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
@@ -499,9 +498,10 @@
     "https://www.therobotreport.com/agility-robotics-maker-of-digit-humanoid-exploring-wheeled-robots/",
     "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
     "https://semiengineering.com/chip-industry-week-in-review-157/",
-    "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/"
+    "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
+    "https://www.eetimes.com/huaweis-tau-law-takes-commercial-form/"
   ],
-  "ai_index": 7,
-  "tech_index": 7,
-  "category": "tech"
+  "ai_index": 8,
+  "tech_index": 8,
+  "category": "ai"
 }
