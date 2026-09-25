@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "http://www.geekpark.net/news/370269",
     "https://the-decoder.com/clay-mathematics-institute-says-the-navier-stokes-millennium-prize-problem-has-apparently-been-settled/",
     "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
     "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
@@ -499,9 +498,10 @@
     "https://www.eetimes.com/delos-data-targets-heterogeneous-ai-with-data-interface/",
     "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
     "https://www.extremetech.com/electronics/meta-announces-its-first-anti-pervert-smart-glasses",
-    "https://habr.com/ru/articles/1086430/?utm_campaign=1086430&utm_source=habrahabr&utm_medium=rss"
+    "https://habr.com/ru/articles/1086430/?utm_campaign=1086430&utm_source=habrahabr&utm_medium=rss",
+    "https://www.tomshardware.com/tech-industry/artificial-intelligence/australian-pm-says-openai-took-84-days-to-email-agency-after-agent-hacked-its-national-health-care-portal-incident-is-believed-to-be-the-first-known-case-of-ai-breaching-a-government-site"
   ],
-  "ai_index": 9,
-  "tech_index": 9,
-  "category": "tech"
+  "ai_index": 10,
+  "tech_index": 10,
+  "category": "ai"
 }
