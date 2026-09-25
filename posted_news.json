@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://arstechnica.com/cars/2026/09/how-to-make-a-small-suv-slightly-smaller-the-2028-volvo-xc40/",
     "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
     "https://tech.eu/2026/09/14/an-ai-app-builder-without-an-ai-serverpod-bets-on-what-comes-after-vibe-coding/",
     "https://the-decoder.com/microsofts-ai-rulebook-readable-thinking-no-inner-life-and-definitely-no-rights/",
@@ -499,9 +498,10 @@
     "https://www.tomshardware.com/tech-industry/artificial-intelligence/australian-pm-says-openai-took-84-days-to-email-agency-after-agent-hacked-its-national-health-care-portal-incident-is-believed-to-be-the-first-known-case-of-ai-breaching-a-government-site",
     "https://habr.com/ru/articles/1086426/?utm_campaign=1086426&utm_source=habrahabr&utm_medium=rss",
     "https://phys.org/news/2026-09-qa-grasslands-diverse-landscapes-drought.html",
-    "https://pandaily.com/iflytek-spark-asr-2-0-noise-dialect-code-switch"
+    "https://pandaily.com/iflytek-spark-asr-2-0-noise-dialect-code-switch",
+    "https://spectrum.ieee.org/epics-in-ieee-portable-educational"
   ],
-  "ai_index": 11,
-  "tech_index": 11,
-  "category": "tech"
+  "ai_index": 12,
+  "tech_index": 12,
+  "category": "ai"
 }
