@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://arxiv.org/abs/2609.13396",
     "https://www.ithome.com/1/002/654.htm",
     "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
     "http://www.geekpark.net/news/370345",
@@ -499,9 +498,10 @@
     "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
     "https://semiengineering.com/chip-industry-week-in-review-157/",
     "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
-    "https://www.eetimes.com/huaweis-tau-law-takes-commercial-form/"
+    "https://www.eetimes.com/huaweis-tau-law-takes-commercial-form/",
+    "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music"
   ],
   "ai_index": 8,
   "tech_index": 8,
-  "category": "ai"
+  "category": "tech"
 }
