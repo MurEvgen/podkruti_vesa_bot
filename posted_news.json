@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-ai-can-boost-u-s-gdp-by-32-percent-up-to-usd44-4-trillion-in-four-years-economics-model-predicts-that-displaced-employees-may-have-to-switch-to-jobs-like-electrician-and-nurse",
     "https://habr.com/ru/articles/1079068/?utm_campaign=1079068&utm_source=habrahabr&utm_medium=rss",
     "https://phys.org/news/2026-09-plasma-fuels-thin-air.html",
     "https://pandaily.com/moonshot-kimi-k28-preview-full-rollout-kimi-code",
@@ -499,9 +498,10 @@
     "https://www.ithome.com/1/007/157.htm",
     "https://the-decoder.com/white-house-tells-openai-and-anthropic-to-let-u-s-review-new-models-before-sharing-them-with-british-testers/",
     "https://www.ithome.com/1/007/166.htm",
-    "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/"
+    "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+    "http://www.geekpark.net/news/371035"
   ],
-  "ai_index": 19,
-  "tech_index": 19,
-  "category": "tech"
+  "ai_index": 0,
+  "tech_index": 0,
+  "category": "ai"
 }
