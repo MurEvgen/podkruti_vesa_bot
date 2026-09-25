@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.eetimes.com/digital-keys-and-radio-technology-in-smart-buildings/",
     "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
     "https://www.extremetech.com/computing/dumpster-diving-diyer-secures-working-ssds-ram-laptops-from-their-local",
     "https://habr.com/ru/articles/1082236/?utm_campaign=1082236&utm_source=habrahabr&utm_medium=rss",
@@ -499,9 +498,10 @@
     "https://www.scmp.com/tech/tech-war/article/3368633/china-tech-faces-fresh-scrutiny-us-blacklist-bill-introduced-lenovo-case-emerges?utm_source=rss_feed",
     "https://arxiv.org/abs/2609.28475",
     "https://36kr.com/p/3997468580958089?f=rss",
-    "https://arxiv.org/abs/2609.28506"
+    "https://arxiv.org/abs/2609.28506",
+    "https://www.ithome.com/1/007/157.htm"
   ],
-  "ai_index": 17,
-  "tech_index": 17,
-  "category": "tech"
+  "ai_index": 18,
+  "tech_index": 18,
+  "category": "ai"
 }
