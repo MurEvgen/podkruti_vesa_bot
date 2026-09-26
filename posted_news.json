@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
     "https://www.scmp.com/tech/article/3367605/deepseek-ai-engineer-slams-anthropic-openai-over-pacing-calls-invokes-nazi-germany?utm_source=rss_feed",
     "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
     "https://36kr.com/p/3985480196881413?f=rss",
@@ -499,9 +498,10 @@
     "https://the-decoder.com/openais-gpt-6-astra-can-now-tell-you-exactly-where-you-screwed-up-your-ikea-shelf/",
     "https://www.theregister.com/personal-tech/2026/09/26/how-samsung-turned-months-of-inactivity-into-a-very-attention-seeking-smartphone/5298736",
     "https://the-decoder.com/nvidias-sol-pi-system-cuts-coding-agent-token-usage-nearly-in-half-by-optimizing-the-harness/",
-    "https://hackaday.com/2026/09/26/you-can-make-a-microprocessor-thats-all-your-own/"
+    "https://hackaday.com/2026/09/26/you-can-make-a-microprocessor-thats-all-your-own/",
+    "https://habr.com/ru/articles/1086940/?utm_campaign=1086940&utm_source=habrahabr&utm_medium=rss"
   ],
   "ai_index": 5,
   "tech_index": 5,
-  "category": "ai"
+  "category": "tech"
 }
