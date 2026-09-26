@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://hackaday.com/2026/09/15/linux-fu-speak-up/",
     "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
     "https://www.therobotreport.com/inorbit-ai-releases-openrobops-iso-21423-reference-implementation/",
     "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
@@ -499,9 +498,10 @@
     "https://3dnews.ru/1149076",
     "https://www.infoq.cn/article/kJ4EkjPLVTh9iT5yyXkM?utm_source=rss&utm_medium=article",
     "https://www.ixbt.com/news/2026/09/26/438358-rossiiskii-printer-naucili-pecatat-elektroniku-i-iskat-brak-priamo-na-xodu.html",
-    "https://openai.com/index/proaction"
+    "https://openai.com/index/proaction",
+    "https://www.chinatechnews.com/2026/09/26/129673-china-fears-resurgent-japanese-militarism-as-tokyo-pursues-autonomous-combat-robots-and-ai-satellites"
   ],
-  "ai_index": 14,
-  "tech_index": 14,
-  "category": "tech"
+  "ai_index": 15,
+  "tech_index": 15,
+  "category": "ai"
 }
