@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
     "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
     "https://arstechnica.com/science/2026/09/how-chimps-teach-their-kids-tool-tricks/",
     "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
@@ -499,9 +498,10 @@
     "https://www.extremetech.com/mobile/grapheneos-picks-motorola-signature-27-as-its-first-non-pixel-phone",
     "https://habr.com/ru/articles/1086980/?utm_campaign=1086980&utm_source=habrahabr&utm_medium=rss",
     "https://www.tomshardware.com/video-games/pc-gaming/27-year-old-gta-2-gets-full-path-tracing-and-60-fps-frame-generation-via-rtx-remix-custom-direct3d-9-wrapper-modernizes-classic-with-custom-direct3d-9-bridge-unlocks-dynamic-lighting",
-    "https://habr.com/ru/articles/1086994/?utm_campaign=1086994&utm_source=habrahabr&utm_medium=rss"
+    "https://habr.com/ru/articles/1086994/?utm_campaign=1086994&utm_source=habrahabr&utm_medium=rss",
+    "https://phys.org/news/2026-09-sparse-layers-nanometer-silver-particles.html"
   ],
-  "ai_index": 10,
-  "tech_index": 10,
-  "category": "tech"
+  "ai_index": 11,
+  "tech_index": 11,
+  "category": "ai"
 }
