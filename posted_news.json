@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
     "https://36kr.com/p/3985480196881413?f=rss",
     "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
     "https://36kr.com/p/3985410714581760?f=rss",
@@ -499,9 +498,10 @@
     "https://the-decoder.com/nvidias-sol-pi-system-cuts-coding-agent-token-usage-nearly-in-half-by-optimizing-the-harness/",
     "https://hackaday.com/2026/09/26/you-can-make-a-microprocessor-thats-all-your-own/",
     "https://habr.com/ru/articles/1086940/?utm_campaign=1086940&utm_source=habrahabr&utm_medium=rss",
-    "https://www.therobotreport.com/amazon-to-invest-100m-in-new-indiana-manufacturing-facility/"
+    "https://www.therobotreport.com/amazon-to-invest-100m-in-new-indiana-manufacturing-facility/",
+    "https://habr.com/ru/companies/studyai/articles/1086772/?utm_campaign=1086772&utm_source=habrahabr&utm_medium=rss"
   ],
   "ai_index": 6,
   "tech_index": 6,
-  "category": "ai"
+  "category": "tech"
 }
