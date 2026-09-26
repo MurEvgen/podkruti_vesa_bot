@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.ixbt.com/news/2026/09/15/436051-spacex-za-polgoda-vypolnila-207-152-manevra-ukloneniia-ot-stolknovenii-starlink.html",
     "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
     "https://www.chinatechnews.com/2026/09/16/129046-china-unveils-top-100-county-list-to-fuel-drone-economy-expansion",
     "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
@@ -499,9 +498,10 @@
     "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
     "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data/",
     "https://tech.eu/2026/09/25/tekever-raises-580m-series-d-dtcp-closes-455m-defence-fund-and-the-challenge-to-reinvent-chip-design/",
-    "https://the-decoder.com/openais-gpt-6-astra-can-now-tell-you-exactly-where-you-screwed-up-your-ikea-shelf/"
+    "https://the-decoder.com/openais-gpt-6-astra-can-now-tell-you-exactly-where-you-screwed-up-your-ikea-shelf/",
+    "https://www.theregister.com/personal-tech/2026/09/26/how-samsung-turned-months-of-inactivity-into-a-very-attention-seeking-smartphone/5298736"
   ],
-  "ai_index": 3,
-  "tech_index": 3,
-  "category": "tech"
+  "ai_index": 4,
+  "tech_index": 4,
+  "category": "ai"
 }
