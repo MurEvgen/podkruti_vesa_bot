@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://arstechnica.com/science/2026/09/how-chimps-teach-their-kids-tool-tricks/",
     "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
     "https://tech.eu/2026/09/16/acoubatt-raises-ps11m-to-improve-battery-manufacturing-safety-and-reliability/",
     "https://habr.com/ru/articles/1082742/?utm_campaign=1082742&utm_source=habrahabr&utm_medium=rss",
@@ -499,9 +498,10 @@
     "https://www.tomshardware.com/video-games/pc-gaming/27-year-old-gta-2-gets-full-path-tracing-and-60-fps-frame-generation-via-rtx-remix-custom-direct3d-9-wrapper-modernizes-classic-with-custom-direct3d-9-bridge-unlocks-dynamic-lighting",
     "https://habr.com/ru/articles/1086994/?utm_campaign=1086994&utm_source=habrahabr&utm_medium=rss",
     "https://phys.org/news/2026-09-sparse-layers-nanometer-silver-particles.html",
-    "https://www.qbitai.com/2026/09/498478.html"
+    "https://www.qbitai.com/2026/09/498478.html",
+    "https://3dnews.ru/1149092"
   ],
-  "ai_index": 11,
-  "tech_index": 11,
-  "category": "tech"
+  "ai_index": 12,
+  "tech_index": 12,
+  "category": "ai"
 }
