@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
     "https://tech.eu/2026/09/16/acoubatt-raises-ps11m-to-improve-battery-manufacturing-safety-and-reliability/",
     "https://habr.com/ru/articles/1082742/?utm_campaign=1082742&utm_source=habrahabr&utm_medium=rss",
     "https://www.theregister.com/networks/2026/09/16/bt-email-users-hit-by-barrage-of-unsolicited-password-reset-pins/5296616",
@@ -499,9 +498,10 @@
     "https://habr.com/ru/articles/1086994/?utm_campaign=1086994&utm_source=habrahabr&utm_medium=rss",
     "https://phys.org/news/2026-09-sparse-layers-nanometer-silver-particles.html",
     "https://www.qbitai.com/2026/09/498478.html",
-    "https://3dnews.ru/1149092"
+    "https://3dnews.ru/1149092",
+    "https://www.qbitai.com/2026/09/498271.html"
   ],
   "ai_index": 12,
   "tech_index": 12,
-  "category": "ai"
+  "category": "tech"
 }
