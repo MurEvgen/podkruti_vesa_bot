@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.therobotreport.com/agilitys-digit-5-humanoid-has-new-legs-batteries-safety-upgrades/",
     "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
     "https://semiengineering.com/moving-test-data-faster/",
     "https://habr.com/ru/companies/ru_mts/articles/1082524/?utm_campaign=1082524&utm_source=habrahabr&utm_medium=rss",
@@ -499,9 +498,10 @@
     "https://www.ixbt.com/news/2026/09/26/materinskaia-plata-s-14-iadernym-core-i7-13798hre-i-pcie-50-vsego-195-erying-vypustila-komplekty-dlia-sborki-desevyx-pk-na-cpu-intel-dlia-promyslennyx-sistem.html",
     "https://the-decoder.com/former-ukrainian-defense-minister-fedorov-pitches-a-private-sector-robot-army/",
     "https://www.chinatechnews.com/2026/09/26/129832-beijing-respects-u-s-move-to-rebrand-artificial-intelligence-as-super-intelligence",
-    "https://the-decoder.com/two-thirds-of-it-leaders-report-ai-results-but-few-would-interrupt-the-ceos-vacation-over-them/"
+    "https://the-decoder.com/two-thirds-of-it-leaders-report-ai-results-but-few-would-interrupt-the-ceos-vacation-over-them/",
+    "https://www.scmp.com/tech/big-tech/article/3368819/how-alibaba-using-ai-revamp-its-mapping-app-and-take-meituan?utm_source=rss_feed"
   ],
-  "ai_index": 15,
-  "tech_index": 15,
-  "category": "tech"
+  "ai_index": 16,
+  "tech_index": 16,
+  "category": "ai"
 }
