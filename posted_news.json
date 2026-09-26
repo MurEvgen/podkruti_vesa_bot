@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
     "https://36kr.com/p/3985410714581760?f=rss",
     "https://the-decoder.com/google-launches-gemini-3-8-live-to-take-on-openais-gpt-live-1-at-a-fraction-of-the-cost/",
     "https://www.ithome.com/1/003/015.htm",
@@ -499,9 +498,10 @@
     "https://habr.com/ru/articles/1086940/?utm_campaign=1086940&utm_source=habrahabr&utm_medium=rss",
     "https://www.therobotreport.com/amazon-to-invest-100m-in-new-indiana-manufacturing-facility/",
     "https://habr.com/ru/companies/studyai/articles/1086772/?utm_campaign=1086772&utm_source=habrahabr&utm_medium=rss",
-    "https://semiengineering.com/comparing-a7-cfet-and-a10-nanosheet-fets-from-parasitics-to-chip-reliability-tum-unimore-applied-materials/"
+    "https://semiengineering.com/comparing-a7-cfet-and-a10-nanosheet-fets-from-parasitics-to-chip-reliability-tum-unimore-applied-materials/",
+    "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/"
   ],
   "ai_index": 7,
   "tech_index": 7,
-  "category": "ai"
+  "category": "tech"
 }
