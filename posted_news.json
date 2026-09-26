@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://habr.com/ru/companies/otus/articles/1082580/?utm_campaign=1082580&utm_source=habrahabr&utm_medium=rss",
     "https://phys.org/news/2026-09-rivers-dont-storms.html",
     "https://pandaily.com/xpeng-turing-chip-humanoid-physical-ai",
     "https://spectrum.ieee.org/inference-hardware-revolution",
@@ -499,9 +498,10 @@
     "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
     "https://www.ithome.com/1/007/347.htm",
     "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
-    "http://www.geekpark.net/news/371038"
+    "http://www.geekpark.net/news/371038",
+    "https://habr.com/ru/articles/1086828/?utm_campaign=1086828&utm_source=habrahabr&utm_medium=rss"
   ],
   "ai_index": 0,
   "tech_index": 0,
-  "category": "ai"
+  "category": "tech"
 }
