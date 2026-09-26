@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-leaders-clash-over-safety-fears-after-anthropic-whistleblower-says-ai-could-kill-us-all-by-2030-openai-anthropic-and-xai-figureheads-call-for-external-governance-while-jensen-huang-says-worries-are-made-up",
     "https://habr.com/ru/companies/otus/articles/1082580/?utm_campaign=1082580&utm_source=habrahabr&utm_medium=rss",
     "https://phys.org/news/2026-09-rivers-dont-storms.html",
     "https://pandaily.com/xpeng-turing-chip-humanoid-physical-ai",
@@ -499,9 +498,10 @@
     "https://www.ithome.com/1/007/332.htm",
     "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
     "https://www.ithome.com/1/007/347.htm",
-    "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem"
+    "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
+    "http://www.geekpark.net/news/371038"
   ],
-  "ai_index": 19,
-  "tech_index": 19,
-  "category": "tech"
+  "ai_index": 0,
+  "tech_index": 0,
+  "category": "ai"
 }
