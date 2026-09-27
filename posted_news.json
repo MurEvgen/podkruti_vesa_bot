@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://arxiv.org/abs/2609.17632",
     "https://www.theregister.com/devops/2026/09/17/swift-64-unifies-building-across-linux-macos-windows/5297006",
     "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
     "https://hackaday.com/2026/09/16/recreating-unobtainable-diagnostic-tools-for-the-jaguar-xj220/",
@@ -499,9 +498,10 @@
     "https://the-decoder.com/some-anthropic-veterans-are-reportedly-buying-remote-land-in-case-ai-goes-awry/",
     "https://spectrum.ieee.org/poetry-user-interface-design",
     "https://www.qbitai.com/2026/09/498633.html",
-    "https://3dnews.ru/1149115"
+    "https://3dnews.ru/1149115",
+    "https://the-decoder.com/ai-agents-do-more-of-the-work-in-model-development-but-humans-still-make-the-decisions/"
   ],
   "ai_index": 13,
   "tech_index": 13,
-  "category": "ai"
+  "category": "tech"
 }
