@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://semiengineering.com/why-package-digital-twins-are-so-hard-to-build/",
     "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
     "https://www.eetimes.com/no-summer-lull-for-semiconductors/",
     "https://habr.com/ru/articles/1083340/?utm_campaign=1083340&utm_source=habrahabr&utm_medium=rss",
@@ -499,9 +498,10 @@
     "https://www.chinatechnews.com/2026/09/28/129886-china-wants-to-break-free-from-western-tech-dependence-and-its-latest-high-level-meeting-proves-it",
     "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
     "https://www.scmp.com/tech/tech-trends/article/3368817/globalfoundries-sees-strong-demand-chinese-optical-modules-amid-data-centre-boom?utm_source=rss_feed",
-    "https://neurohive.io/ru/gotovye-prilozhenija/video-iz-foto-18-kak-ozhivit-foto-i-delat-generaciju-18-s-erofylab/"
+    "https://neurohive.io/ru/gotovye-prilozhenija/video-iz-foto-18-kak-ozhivit-foto-i-delat-generaciju-18-s-erofylab/",
+    "https://www.ithome.com/1/007/612.htm"
   ],
-  "ai_index": 16,
-  "tech_index": 16,
-  "category": "tech"
+  "ai_index": 17,
+  "tech_index": 17,
+  "category": "ai"
 }
