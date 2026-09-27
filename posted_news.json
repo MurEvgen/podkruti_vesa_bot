@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.eetimes.com/no-summer-lull-for-semiconductors/",
     "https://habr.com/ru/articles/1083340/?utm_campaign=1083340&utm_source=habrahabr&utm_medium=rss",
     "https://www.extremetech.com/mobile/googles-latest-pixel-drop-could-help-you-break-your-doomscrolling-habit",
     "https://habr.com/ru/articles/1083382/?utm_campaign=1083382&utm_source=habrahabr&utm_medium=rss",
@@ -499,9 +498,10 @@
     "https://www.scmp.com/tech/tech-trends/article/3368817/globalfoundries-sees-strong-demand-chinese-optical-modules-amid-data-centre-boom?utm_source=rss_feed",
     "https://neurohive.io/ru/gotovye-prilozhenija/video-iz-foto-18-kak-ozhivit-foto-i-delat-generaciju-18-s-erofylab/",
     "https://www.ithome.com/1/007/612.htm",
-    "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/"
+    "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+    "https://www.ithome.com/1/007/611.htm"
   ],
-  "ai_index": 17,
-  "tech_index": 17,
-  "category": "tech"
+  "ai_index": 18,
+  "tech_index": 18,
+  "category": "ai"
 }
