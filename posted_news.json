@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.scmp.com/tech/tech-trends/article/3367755/chinas-zai-raises-revenue-target-25-after-us5-billion-cash-injection?utm_source=rss_feed",
     "https://the-decoder.com/apple-is-reportedly-building-an-enterprise-ai-server-with-its-own-m8-ultra-chips/",
     "https://36kr.com/p/3985787773402120?f=rss",
     "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
@@ -499,9 +498,10 @@
     "https://hackaday.com/2026/09/26/basically-galvanizing-metal-without-acid/",
     "https://habr.com/ru/articles/1087022/?utm_campaign=1087022&utm_source=habrahabr&utm_medium=rss",
     "https://hackaday.com/2026/09/26/a-modular-macro-keypad/",
-    "https://habr.com/ru/articles/1086294/?utm_campaign=1086294&utm_source=habrahabr&utm_medium=rss"
+    "https://habr.com/ru/articles/1086294/?utm_campaign=1086294&utm_source=habrahabr&utm_medium=rss",
+    "https://www.therobotreport.com/from-14-cities-to-15000-what-it-will-take-to-scale-robotaxis/"
   ],
-  "ai_index": 5,
-  "tech_index": 5,
-  "category": "tech"
+  "ai_index": 6,
+  "tech_index": 6,
+  "category": "ai"
 }
