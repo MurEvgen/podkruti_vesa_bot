@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
     "https://arxiv.org/abs/2609.17631",
     "https://tech.eu/2026/09/17/nearby-computing-secures-eur680k-to-scale-cloud-to-edge-orchestration-platform/",
     "https://arxiv.org/abs/2609.17632",
@@ -499,9 +498,10 @@
     "https://www.tomshardware.com/desktops/gaming-pcs/ps5-emulator-successfully-runs-six-titles-at-a-playable-60-fps-ps5-emulation-continues-to-gather-momentum-as-developers-improve-shader-translation-and-vulkan-support",
     "https://habr.com/ru/articles/1087140/?utm_campaign=1087140&utm_source=habrahabr&utm_medium=rss",
     "https://phys.org/news/2026-09-dna-reveals-chemosynthesis-genes-bacteria.html",
-    "https://the-decoder.com/some-anthropic-veterans-are-reportedly-buying-remote-land-in-case-ai-goes-awry/"
+    "https://the-decoder.com/some-anthropic-veterans-are-reportedly-buying-remote-land-in-case-ai-goes-awry/",
+    "https://spectrum.ieee.org/poetry-user-interface-design"
   ],
-  "ai_index": 11,
-  "tech_index": 11,
-  "category": "tech"
+  "ai_index": 12,
+  "tech_index": 12,
+  "category": "ai"
 }
