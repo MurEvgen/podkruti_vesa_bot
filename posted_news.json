@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://habr.com/ru/companies/airi/articles/1082908/?utm_campaign=1082908&utm_source=habrahabr&utm_medium=rss",
     "https://www.extremetech.com/computing/hdmi-22-ultra96-cables-with-96gbps-bandwidth-now-available",
     "https://habr.com/ru/companies/vk/articles/1082862/?utm_campaign=1082862&utm_source=habrahabr&utm_medium=rss",
     "https://www.tomshardware.com/pc-components/overclocking/developer-vibe-codes-a-tool-to-let-nvidia-rtx-50-series-laptop-owners-crank-up-their-power-limits-can-juice-rtx-5090-mobile-gpu-to-225w",
@@ -499,9 +498,10 @@
     "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
     "https://36kr.com/p/3999967284957059?f=rss",
     "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
-    "https://www.ithome.com/1/007/460.htm"
+    "https://www.ithome.com/1/007/460.htm",
+    "https://habr.com/ru/articles/1087036/?utm_campaign=1087036&utm_source=habrahabr&utm_medium=rss"
   ],
   "ai_index": 18,
   "tech_index": 18,
-  "category": "ai"
+  "category": "tech"
 }
