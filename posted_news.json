@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://tech.eu/2026/09/17/nearby-computing-secures-eur680k-to-scale-cloud-to-edge-orchestration-platform/",
     "https://arxiv.org/abs/2609.17632",
     "https://www.theregister.com/devops/2026/09/17/swift-64-unifies-building-across-linux-macos-windows/5297006",
     "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
@@ -499,9 +498,10 @@
     "https://phys.org/news/2026-09-dna-reveals-chemosynthesis-genes-bacteria.html",
     "https://the-decoder.com/some-anthropic-veterans-are-reportedly-buying-remote-land-in-case-ai-goes-awry/",
     "https://spectrum.ieee.org/poetry-user-interface-design",
-    "https://www.qbitai.com/2026/09/498633.html"
+    "https://www.qbitai.com/2026/09/498633.html",
+    "https://3dnews.ru/1149115"
   ],
-  "ai_index": 12,
-  "tech_index": 12,
-  "category": "tech"
+  "ai_index": 13,
+  "tech_index": 13,
+  "category": "ai"
 }
