@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://habr.com/ru/companies/ru_mts/articles/1082524/?utm_campaign=1082524&utm_source=habrahabr&utm_medium=rss",
     "https://www.eetimes.com/pasqal-nasdaq-debut-meets-a-risk-reckoning/",
     "https://habr.com/ru/companies/airi/articles/1082908/?utm_campaign=1082908&utm_source=habrahabr&utm_medium=rss",
     "https://www.extremetech.com/computing/hdmi-22-ultra96-cables-with-96gbps-bandwidth-now-available",
@@ -499,9 +498,10 @@
     "https://the-decoder.com/two-thirds-of-it-leaders-report-ai-results-but-few-would-interrupt-the-ceos-vacation-over-them/",
     "https://www.scmp.com/tech/big-tech/article/3368819/how-alibaba-using-ai-revamp-its-mapping-app-and-take-meituan?utm_source=rss_feed",
     "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
-    "https://36kr.com/p/3999967284957059?f=rss"
+    "https://36kr.com/p/3999967284957059?f=rss",
+    "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause"
   ],
   "ai_index": 17,
   "tech_index": 17,
-  "category": "ai"
+  "category": "tech"
 }
