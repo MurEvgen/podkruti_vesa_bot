@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.ithome.com/1/003/373.htm",
     "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
     "http://www.geekpark.net/news/370472",
     "https://openai.com/index/reimagining-advertising-with-ai",
@@ -499,9 +498,10 @@
     "https://www.tomshardware.com/tech-industry/taiwans-chip-talisman-snack-faces-production-halt-after-94-percent-strike-vote-workers-demand-share-of-usd176-million-factory-sale-to-ase",
     "https://www.qbitai.com/2026/09/498546.html",
     "https://www.tomshardware.com/tech-industry/u-s-and-uk-navies-successfully-launch-3-700-pound-submarine-sinking-torpedo-from-robotic-drone-submarine-in-historic-first-project-broadsword-proves-weapon-interchangeability-in-just-seven-months",
-    "https://habr.com/ru/articles/1087094/?utm_campaign=1087094&utm_source=habrahabr&utm_medium=rss"
+    "https://habr.com/ru/articles/1087094/?utm_campaign=1087094&utm_source=habrahabr&utm_medium=rss",
+    "https://www.tomshardware.com/tech-industry/artificial-intelligence/developer-says-jev-decision-model-beat-pokemon-red-in-under-a-week-non-llm-engine-succeeds-where-traditional-chatbots-stalled-for-months-but-claude-opus-5-coached-the-model-through-its-dead-ends"
   ],
-  "ai_index": 8,
-  "tech_index": 8,
-  "category": "tech"
+  "ai_index": 9,
+  "tech_index": 9,
+  "category": "ai"
 }
