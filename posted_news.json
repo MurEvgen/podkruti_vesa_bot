@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://habr.com/ru/articles/1083416/?utm_campaign=1083416&utm_source=habrahabr&utm_medium=rss",
     "https://phys.org/news/2026-09-gamers-gambling-financial-future.html",
     "https://pandaily.com/china-industrial-robots-domestic-share-estun-inovance",
     "https://content.knowledgehub.wiley.com/single-phase-direct-liquid-cooling-is-proven-for-the-next-decade-of-ultra-dense-compute/",
@@ -499,9 +498,10 @@
     "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
     "https://www.ithome.com/1/007/615.htm",
     "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
-    "http://www.geekpark.net/news/371040"
+    "http://www.geekpark.net/news/371040",
+    "https://habr.com/ru/articles/1087250/?utm_campaign=1087250&utm_source=habrahabr&utm_medium=rss"
   ],
   "ai_index": 0,
   "tech_index": 0,
-  "category": "ai"
+  "category": "tech"
 }
