@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://arxiv.org/abs/2609.17631",
     "https://tech.eu/2026/09/17/nearby-computing-secures-eur680k-to-scale-cloud-to-edge-orchestration-platform/",
     "https://arxiv.org/abs/2609.17632",
     "https://www.theregister.com/devops/2026/09/17/swift-64-unifies-building-across-linux-macos-windows/5297006",
@@ -499,9 +498,10 @@
     "https://habr.com/ru/articles/1087140/?utm_campaign=1087140&utm_source=habrahabr&utm_medium=rss",
     "https://phys.org/news/2026-09-dna-reveals-chemosynthesis-genes-bacteria.html",
     "https://the-decoder.com/some-anthropic-veterans-are-reportedly-buying-remote-land-in-case-ai-goes-awry/",
-    "https://spectrum.ieee.org/poetry-user-interface-design"
+    "https://spectrum.ieee.org/poetry-user-interface-design",
+    "https://www.qbitai.com/2026/09/498633.html"
   ],
   "ai_index": 12,
   "tech_index": 12,
-  "category": "ai"
+  "category": "tech"
 }
