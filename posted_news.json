@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.extremetech.com/mobile/googles-latest-pixel-drop-could-help-you-break-your-doomscrolling-habit",
     "https://habr.com/ru/articles/1083382/?utm_campaign=1083382&utm_source=habrahabr&utm_medium=rss",
     "https://www.tomshardware.com/tech-industry/cyber-security/hackers-find-encryption-key-stored-on-flock-camera-group-extracts-more-than-27-000-clips-1-6-million-images-captured-in-a-span-of-21-days-from-device",
     "https://habr.com/ru/articles/1083416/?utm_campaign=1083416&utm_source=habrahabr&utm_medium=rss",
@@ -499,9 +498,10 @@
     "https://www.ithome.com/1/007/612.htm",
     "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
     "https://www.ithome.com/1/007/611.htm",
-    "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/"
+    "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+    "https://www.ithome.com/1/007/615.htm"
   ],
-  "ai_index": 18,
-  "tech_index": 18,
-  "category": "tech"
+  "ai_index": 19,
+  "tech_index": 19,
+  "category": "ai"
 }
