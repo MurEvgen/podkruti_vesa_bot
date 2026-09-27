@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
     "https://www.eetimes.com/no-summer-lull-for-semiconductors/",
     "https://habr.com/ru/articles/1083340/?utm_campaign=1083340&utm_source=habrahabr&utm_medium=rss",
     "https://www.extremetech.com/mobile/googles-latest-pixel-drop-could-help-you-break-your-doomscrolling-habit",
@@ -499,9 +498,10 @@
     "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
     "https://www.scmp.com/tech/tech-trends/article/3368817/globalfoundries-sees-strong-demand-chinese-optical-modules-amid-data-centre-boom?utm_source=rss_feed",
     "https://neurohive.io/ru/gotovye-prilozhenija/video-iz-foto-18-kak-ozhivit-foto-i-delat-generaciju-18-s-erofylab/",
-    "https://www.ithome.com/1/007/612.htm"
+    "https://www.ithome.com/1/007/612.htm",
+    "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/"
   ],
   "ai_index": 17,
   "tech_index": 17,
-  "category": "ai"
+  "category": "tech"
 }
