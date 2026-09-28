@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
     "https://www.theregister.com/systems/2026/09/18/marvell-pushes-globalfoundries-to-light-up-wafer-production/5297340",
     "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
     "https://hackaday.com/2026/09/17/surveillance-camera-security-its-completely-flocked/",
@@ -499,9 +498,10 @@
     "https://3dnews.ru/1149129",
     "https://www.infoq.cn/article/zl0e1sUoD95YJfboNz2a?utm_source=rss&utm_medium=article",
     "https://3dnews.ru/1149136",
-    "https://www.infoq.cn/article/7zcxyr8aBkDqQO682CJm?utm_source=rss&utm_medium=article"
+    "https://www.infoq.cn/article/7zcxyr8aBkDqQO682CJm?utm_source=rss&utm_medium=article",
+    "https://www.ixbt.com/news/2026/09/28/438891-pocti-3-000-mosenniceskix-resursov-mosenniki-gotoviat-lovuski-dlia-pokupatelei-novyx-iphone.html"
   ],
-  "ai_index": 13,
-  "tech_index": 13,
-  "category": "tech"
+  "ai_index": 14,
+  "tech_index": 14,
+  "category": "ai"
 }
