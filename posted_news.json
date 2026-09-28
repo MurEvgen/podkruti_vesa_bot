@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.infoq.cn/article/AFC40lL0yaxVCDvBRFOK?utm_source=rss&utm_medium=article",
     "https://www.ixbt.com/news/2026/09/18/436687-9-iz-10-naucnyx-biomedicinskix-statei-k-koncu-2025-goda-napisany-s-ucastiem-ii.html",
     "https://openai.com/index/cooley-gopublic",
     "https://www.chinatechnews.com/2026/09/18/129376-humanoid-robot-kicks-remote-from-engineers-hand-during-china-test",
@@ -499,9 +498,10 @@
     "https://arstechnica.com/science/2026/09/new-device-captures-carbon-dioxide-by-pumping-it-across-a-battery/",
     "https://the-decoder.com/more-than-20-leading-ai-researchers-warn-that-automated-ai-research-poses-extreme-risks/",
     "https://tech.eu/2026/09/28/granite-raises-eur4m-to-bring-its-agentic-cloud-infrastructure-to-market/",
-    "https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task/"
+    "https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task/",
+    "https://www.theregister.com/ai-and-ml/2026/09/28/french-dev-aims-to-solve-bots-blindness-so-they-can-understand-guis/5299575"
   ],
-  "ai_index": 3,
-  "tech_index": 3,
-  "category": "tech"
+  "ai_index": 4,
+  "tech_index": 4,
+  "category": "ai"
 }
