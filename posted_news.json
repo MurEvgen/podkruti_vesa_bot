@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://content.knowledgehub.wiley.com/single-phase-direct-liquid-cooling-is-proven-for-the-next-decade-of-ultra-dense-compute/",
     "https://www.qbitai.com/2026/09/491649.html",
     "https://3dnews.ru/1148615",
     "https://www.infoq.cn/article/EsH2bUAoMNQx6Nt7vytC?utm_source=rss&utm_medium=article",
@@ -499,9 +498,10 @@
     "http://www.geekpark.net/news/371040",
     "https://habr.com/ru/articles/1087250/?utm_campaign=1087250&utm_source=habrahabr&utm_medium=rss",
     "https://arstechnica.com/tech-policy/2026/09/how-the-smithsonian-became-the-latest-front-in-trumps-culture-war/",
-    "https://habr.com/ru/articles/1087284/?utm_campaign=1087284&utm_source=habrahabr&utm_medium=rss"
+    "https://habr.com/ru/articles/1087284/?utm_campaign=1087284&utm_source=habrahabr&utm_medium=rss",
+    "https://tech.eu/2026/09/27/make-robots-fight-instead-of-people-mykhailo-fedorov-launches-army-of-robots-and-you-could-be-its-cto/"
   ],
-  "ai_index": 1,
-  "tech_index": 1,
-  "category": "tech"
+  "ai_index": 2,
+  "tech_index": 2,
+  "category": "ai"
 }
