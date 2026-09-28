@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://the-decoder.com/openai-reportedly-closes-in-on-solving-the-hodge-conjecture-its-second-millennium-prize-problem/",
     "https://36kr.com/p/3987140543593472?f=rss",
     "https://the-decoder.com/anthropic-keeps-pushing-claude-code-toward-autonomous-coding-with-new-parallel-agent-workflows/",
     "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
@@ -499,9 +498,10 @@
     "https://www.therobotreport.com/asimovs-laws-are-not-enough-keep-robotics-ai-safe/",
     "https://arxiv.org/abs/2609.30325",
     "https://www.eetimes.com/full-stack-semiconductor-solutions-for-industry-and-digital-energy-applications/",
-    "https://habr.com/ru/articles/1086938/?utm_campaign=1086938&utm_source=habrahabr&utm_medium=rss"
+    "https://habr.com/ru/articles/1086938/?utm_campaign=1086938&utm_source=habrahabr&utm_medium=rss",
+    "https://www.tomshardware.com/laptops/gaming-laptops/grab-this-14-inch-compact-gaming-laptop-powerhouse-for-usd1000-off-hp-omen-transcend-14-with-rtx-5070-and-3k-oled-display-drops-to-usd1-999-99-at-best-buy"
   ],
-  "ai_index": 7,
-  "tech_index": 7,
-  "category": "tech"
+  "ai_index": 8,
+  "tech_index": 8,
+  "category": "ai"
 }
