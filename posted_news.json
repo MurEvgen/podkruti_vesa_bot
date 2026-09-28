@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.extremetech.com/computing/google-launches-new-voice-ai-models-for-building-real-time-conversational",
     "https://habr.com/ru/articles/1083648/?utm_campaign=1083648&utm_source=habrahabr&utm_medium=rss",
     "https://www.tomshardware.com/tech-industry/artificial-intelligence/balatro-fan-claims-they-trained-google-fruit-fly-brain-simulation-to-beat-the-game-reinforcement-learning-currently-has-the-model-at-20-percent-success-rate",
     "https://habr.com/ru/companies/bcs_company/articles/1083670/?utm_campaign=1083670&utm_source=habrahabr&utm_medium=rss",
@@ -499,9 +498,10 @@
     "https://the-decoder.com/harvard-psychologist-calls-for-sober-ai-safety-engineering-over-doomsday-rhetoric/",
     "https://36kr.com/p/4002939061981062?f=rss",
     "https://the-decoder.com/openais-ai-agents-exploited-a-google-security-education-game-to-scrape-un-trade-data/",
-    "https://www.ithome.com/1/008/065.htm"
+    "https://www.ithome.com/1/008/065.htm",
+    "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/"
   ],
   "ai_index": 19,
   "tech_index": 19,
-  "category": "ai"
+  "category": "tech"
 }
