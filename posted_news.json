@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.tomshardware.com/tech-industry/artificial-intelligence/balatro-fan-claims-they-trained-google-fruit-fly-brain-simulation-to-beat-the-game-reinforcement-learning-currently-has-the-model-at-20-percent-success-rate",
     "https://habr.com/ru/companies/bcs_company/articles/1083670/?utm_campaign=1083670&utm_source=habrahabr&utm_medium=rss",
     "https://phys.org/news/2026-09-early-wheat-yields-hardest-boost.html",
     "https://pandaily.com/lexiang-aether-embodied-model-outdoor-bbq-livestream",
@@ -499,9 +498,10 @@
     "https://the-decoder.com/openais-ai-agents-exploited-a-google-security-education-game-to-scrape-un-trade-data/",
     "https://www.ithome.com/1/008/065.htm",
     "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
-    "http://www.geekpark.net/news/371390"
+    "http://www.geekpark.net/news/371390",
+    "https://openai.com/index/lenfest-ai-collaborative-expansion"
   ],
   "ai_index": 0,
   "tech_index": 0,
-  "category": "ai"
+  "category": "tech"
 }
