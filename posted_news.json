@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
     "https://36kr.com/p/3987192212683781?f=rss",
     "https://the-decoder.com/openai-reportedly-closes-in-on-solving-the-hodge-conjecture-its-second-millennium-prize-problem/",
     "https://36kr.com/p/3987140543593472?f=rss",
@@ -499,9 +498,10 @@
     "https://hackaday.com/2026/09/27/center-pivot-system-modified-to-mow-lawn/",
     "https://arxiv.org/abs/2609.30291",
     "https://www.therobotreport.com/asimovs-laws-are-not-enough-keep-robotics-ai-safe/",
-    "https://arxiv.org/abs/2609.30325"
+    "https://arxiv.org/abs/2609.30325",
+    "https://www.eetimes.com/full-stack-semiconductor-solutions-for-industry-and-digital-energy-applications/"
   ],
-  "ai_index": 6,
-  "tech_index": 6,
-  "category": "tech"
+  "ai_index": 7,
+  "tech_index": 7,
+  "category": "ai"
 }
