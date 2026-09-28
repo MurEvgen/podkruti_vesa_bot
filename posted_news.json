@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://openai.com/index/astra-for-law",
     "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
     "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
     "https://arstechnica.com/health/2026/09/rfk-jr-stacks-another-influential-federal-panel-with-questionable-picks/",
@@ -499,9 +498,10 @@
     "https://www.tomshardware.com/desktops/mini-pcs/custom-24-carat-gold-mini-pc-costs-around-usd1-7-million-weighs-nearly-29-pounds-for-up-to-50-percent-faster-heat-transfer-copper-would-have-been-far-cheaper-and-offers-even-better-thermal-conductivity",
     "https://pandaily.com/tencent-yuanbao-native-harmonyos-hunyuan-hy4-preview",
     "https://phys.org/news/2026-09-spacex-aims-starship-orbit.html",
-    "https://habr.com/ru/companies/trinfico_private/articles/1087414/?utm_campaign=1087414&utm_source=habrahabr&utm_medium=rss"
+    "https://habr.com/ru/companies/trinfico_private/articles/1087414/?utm_campaign=1087414&utm_source=habrahabr&utm_medium=rss",
+    "https://phys.org/news/2026-09-herring-fishery-years-rebound-today.html"
   ],
-  "ai_index": 10,
-  "tech_index": 10,
-  "category": "tech"
+  "ai_index": 11,
+  "tech_index": 11,
+  "category": "ai"
 }
