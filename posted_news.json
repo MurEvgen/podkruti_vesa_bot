@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://semiengineering.com/negative-expansion-materials-resist-warpage/",
     "https://neurohive.io/ru/papers/voicemem-frejmvork-pamyat-dlya-golosovyh-modelej-kotoraya-uspevaet-najti-nuzhnoe-v-pauze-mezhdu-replikami/",
     "https://www.eetimes.com/u-s-awards-anderon-1b-for-quantum-wafer-manufacturing/",
     "https://habr.com/ru/articles/1083574/?utm_campaign=1083574&utm_source=habrahabr&utm_medium=rss",
@@ -499,9 +498,10 @@
     "https://the-decoder.com/a-wuhan-court-just-made-ai-production-costs-a-legal-factor-in-copyright-infringement-cases/",
     "https://www.scmp.com/tech/tech-trends/article/3369074/chinese-chip-foundry-cansemis-ipo-oversubscribed-2360-times-investors-chase-ai-boom?utm_source=rss_feed",
     "https://the-decoder.com/meta-wants-to-turn-muse-into-a-moneymaker-by-selling-ai-services-to-businesses/",
-    "https://36kr.com/p/4001258625994626?f=rss"
+    "https://36kr.com/p/4001258625994626?f=rss",
+    "https://the-decoder.com/harvard-psychologist-calls-for-sober-ai-safety-engineering-over-doomsday-rhetoric/"
   ],
   "ai_index": 17,
   "tech_index": 17,
-  "category": "ai"
+  "category": "tech"
 }
