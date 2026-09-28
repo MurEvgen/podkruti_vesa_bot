@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
     "https://arstechnica.com/health/2026/09/rfk-jr-stacks-another-influential-federal-panel-with-questionable-picks/",
     "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
     "https://tech.eu/2026/09/17/magentic-raises-18m-to-automate-industrial-operations-with-ai-agents/",
@@ -499,9 +498,10 @@
     "https://phys.org/news/2026-09-spacex-aims-starship-orbit.html",
     "https://habr.com/ru/companies/trinfico_private/articles/1087414/?utm_campaign=1087414&utm_source=habrahabr&utm_medium=rss",
     "https://phys.org/news/2026-09-herring-fishery-years-rebound-today.html",
-    "https://huggingface.co/blog/Hcompany/holo4"
+    "https://huggingface.co/blog/Hcompany/holo4",
+    "https://3dnews.ru/1149129"
   ],
-  "ai_index": 11,
-  "tech_index": 11,
-  "category": "tech"
+  "ai_index": 12,
+  "tech_index": 12,
+  "category": "ai"
 }
