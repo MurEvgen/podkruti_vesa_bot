@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.eetimes.com/u-s-awards-anderon-1b-for-quantum-wafer-manufacturing/",
     "https://habr.com/ru/articles/1083574/?utm_campaign=1083574&utm_source=habrahabr&utm_medium=rss",
     "https://www.extremetech.com/computing/google-launches-new-voice-ai-models-for-building-real-time-conversational",
     "https://habr.com/ru/articles/1083648/?utm_campaign=1083648&utm_source=habrahabr&utm_medium=rss",
@@ -499,9 +498,10 @@
     "https://the-decoder.com/meta-wants-to-turn-muse-into-a-moneymaker-by-selling-ai-services-to-businesses/",
     "https://36kr.com/p/4001258625994626?f=rss",
     "https://the-decoder.com/harvard-psychologist-calls-for-sober-ai-safety-engineering-over-doomsday-rhetoric/",
-    "https://36kr.com/p/4002939061981062?f=rss"
+    "https://36kr.com/p/4002939061981062?f=rss",
+    "https://the-decoder.com/openais-ai-agents-exploited-a-google-security-education-game-to-scrape-un-trade-data/"
   ],
   "ai_index": 18,
   "tech_index": 18,
-  "category": "ai"
+  "category": "tech"
 }
