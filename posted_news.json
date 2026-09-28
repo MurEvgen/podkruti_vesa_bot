@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.scmp.com/tech/big-tech/article/3367882/how-huawei-plans-bypass-us-chip-curbs-its-new-unifiedbus-technology?utm_source=rss_feed",
     "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
     "https://36kr.com/p/3987192212683781?f=rss",
     "https://the-decoder.com/openai-reportedly-closes-in-on-solving-the-hodge-conjecture-its-second-millennium-prize-problem/",
@@ -499,9 +498,10 @@
     "https://www.theregister.com/personal-tech/2026/09/28/amazon-evaluating-drone-deliveries-in-australia-asia/5299343",
     "https://hackaday.com/2026/09/27/center-pivot-system-modified-to-mow-lawn/",
     "https://arxiv.org/abs/2609.30291",
-    "https://www.therobotreport.com/asimovs-laws-are-not-enough-keep-robotics-ai-safe/"
+    "https://www.therobotreport.com/asimovs-laws-are-not-enough-keep-robotics-ai-safe/",
+    "https://arxiv.org/abs/2609.30325"
   ],
   "ai_index": 6,
   "tech_index": 6,
-  "category": "ai"
+  "category": "tech"
 }
