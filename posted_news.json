@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://36kr.com/p/3987192212683781?f=rss",
     "https://the-decoder.com/openai-reportedly-closes-in-on-solving-the-hodge-conjecture-its-second-millennium-prize-problem/",
     "https://36kr.com/p/3987140543593472?f=rss",
     "https://the-decoder.com/anthropic-keeps-pushing-claude-code-toward-autonomous-coding-with-new-parallel-agent-workflows/",
@@ -499,9 +498,10 @@
     "https://arxiv.org/abs/2609.30291",
     "https://www.therobotreport.com/asimovs-laws-are-not-enough-keep-robotics-ai-safe/",
     "https://arxiv.org/abs/2609.30325",
-    "https://www.eetimes.com/full-stack-semiconductor-solutions-for-industry-and-digital-energy-applications/"
+    "https://www.eetimes.com/full-stack-semiconductor-solutions-for-industry-and-digital-energy-applications/",
+    "https://habr.com/ru/articles/1086938/?utm_campaign=1086938&utm_source=habrahabr&utm_medium=rss"
   ],
   "ai_index": 7,
   "tech_index": 7,
-  "category": "ai"
+  "category": "tech"
 }
