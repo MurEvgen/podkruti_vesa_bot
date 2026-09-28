@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.chinatechnews.com/2026/09/17/129324-anthropic-ceo-criticized-over-anti-china-ai-stance",
     "https://the-decoder.com/an-openai-model-kept-slipping-prompt-injections-into-its-own-notes-and-researchers-still-arent-sure-why/",
     "https://www.scmp.com/tech/big-tech/article/3367882/how-huawei-plans-bypass-us-chip-curbs-its-new-unifiedbus-technology?utm_source=rss_feed",
     "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
@@ -499,9 +498,10 @@
     "https://www.theregister.com/os-platforms/2026/09/27/apple-buried-copland-30-years-ago-now-the-failed-os-boots-in-a-browser/5299201",
     "https://www.infoq.cn/article/9UvorlMxKgjEoFauQ4py?utm_source=rss&utm_medium=article",
     "https://www.theregister.com/personal-tech/2026/09/28/amazon-evaluating-drone-deliveries-in-australia-asia/5299343",
-    "https://hackaday.com/2026/09/27/center-pivot-system-modified-to-mow-lawn/"
+    "https://hackaday.com/2026/09/27/center-pivot-system-modified-to-mow-lawn/",
+    "https://arxiv.org/abs/2609.30291"
   ],
   "ai_index": 5,
   "tech_index": 5,
-  "category": "ai"
+  "category": "tech"
 }
