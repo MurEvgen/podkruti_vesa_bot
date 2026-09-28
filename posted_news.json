@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://36kr.com/p/3987140543593472?f=rss",
     "https://the-decoder.com/anthropic-keeps-pushing-claude-code-toward-autonomous-coding-with-new-parallel-agent-workflows/",
     "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
     "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
@@ -499,9 +498,10 @@
     "https://arxiv.org/abs/2609.30325",
     "https://www.eetimes.com/full-stack-semiconductor-solutions-for-industry-and-digital-energy-applications/",
     "https://habr.com/ru/articles/1086938/?utm_campaign=1086938&utm_source=habrahabr&utm_medium=rss",
-    "https://www.tomshardware.com/laptops/gaming-laptops/grab-this-14-inch-compact-gaming-laptop-powerhouse-for-usd1000-off-hp-omen-transcend-14-with-rtx-5070-and-3k-oled-display-drops-to-usd1-999-99-at-best-buy"
+    "https://www.tomshardware.com/laptops/gaming-laptops/grab-this-14-inch-compact-gaming-laptop-powerhouse-for-usd1000-off-hp-omen-transcend-14-with-rtx-5070-and-3k-oled-display-drops-to-usd1-999-99-at-best-buy",
+    "https://habr.com/ru/articles/1087330/?utm_campaign=1087330&utm_source=habrahabr&utm_medium=rss"
   ],
   "ai_index": 8,
   "tech_index": 8,
-  "category": "ai"
+  "category": "tech"
 }
