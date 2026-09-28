@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "http://www.geekpark.net/news/370519",
     "https://openai.com/index/astra-for-law",
     "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
     "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
@@ -499,9 +498,10 @@
     "https://habr.com/ru/articles/1087330/?utm_campaign=1087330&utm_source=habrahabr&utm_medium=rss",
     "https://www.tomshardware.com/desktops/mini-pcs/custom-24-carat-gold-mini-pc-costs-around-usd1-7-million-weighs-nearly-29-pounds-for-up-to-50-percent-faster-heat-transfer-copper-would-have-been-far-cheaper-and-offers-even-better-thermal-conductivity",
     "https://pandaily.com/tencent-yuanbao-native-harmonyos-hunyuan-hy4-preview",
-    "https://phys.org/news/2026-09-spacex-aims-starship-orbit.html"
+    "https://phys.org/news/2026-09-spacex-aims-starship-orbit.html",
+    "https://habr.com/ru/companies/trinfico_private/articles/1087414/?utm_campaign=1087414&utm_source=habrahabr&utm_medium=rss"
   ],
   "ai_index": 10,
   "tech_index": 10,
-  "category": "ai"
+  "category": "tech"
 }
