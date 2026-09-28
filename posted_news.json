@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://arxiv.org/abs/2609.19170",
     "https://semiengineering.com/negative-expansion-materials-resist-warpage/",
     "https://neurohive.io/ru/papers/voicemem-frejmvork-pamyat-dlya-golosovyh-modelej-kotoraya-uspevaet-najti-nuzhnoe-v-pauze-mezhdu-replikami/",
     "https://www.eetimes.com/u-s-awards-anderon-1b-for-quantum-wafer-manufacturing/",
@@ -499,9 +498,10 @@
     "https://www.chinatechnews.com/2026/09/27/129859-two-netease-titles-mark-historic-esports-milestone-at-2026-asian-games",
     "https://the-decoder.com/a-wuhan-court-just-made-ai-production-costs-a-legal-factor-in-copyright-infringement-cases/",
     "https://www.scmp.com/tech/tech-trends/article/3369074/chinese-chip-foundry-cansemis-ipo-oversubscribed-2360-times-investors-chase-ai-boom?utm_source=rss_feed",
-    "https://the-decoder.com/meta-wants-to-turn-muse-into-a-moneymaker-by-selling-ai-services-to-businesses/"
+    "https://the-decoder.com/meta-wants-to-turn-muse-into-a-moneymaker-by-selling-ai-services-to-businesses/",
+    "https://36kr.com/p/4001258625994626?f=rss"
   ],
-  "ai_index": 16,
-  "tech_index": 16,
-  "category": "tech"
+  "ai_index": 17,
+  "tech_index": 17,
+  "category": "ai"
 }
