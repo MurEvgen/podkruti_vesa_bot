@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://3dnews.ru/1148615",
     "https://www.infoq.cn/article/EsH2bUAoMNQx6Nt7vytC?utm_source=rss&utm_medium=article",
     "https://www.ixbt.com/news/2026/09/17/436483-predstavlen-lexus-gx-2027-ceny-vyse-a-obeshhannoi-gibridnoi-sistemy-tak-i-net.html",
     "https://the-decoder.com/gpt-6-astra-pokemon-champion-in-18-hours-potato-farmer-after-one-creeper-mishap/",
@@ -499,9 +498,10 @@
     "https://arstechnica.com/tech-policy/2026/09/how-the-smithsonian-became-the-latest-front-in-trumps-culture-war/",
     "https://habr.com/ru/articles/1087284/?utm_campaign=1087284&utm_source=habrahabr&utm_medium=rss",
     "https://tech.eu/2026/09/27/make-robots-fight-instead-of-people-mykhailo-fedorov-launches-army-of-robots-and-you-could-be-its-cto/",
-    "https://www.qbitai.com/2026/09/498605.html"
+    "https://www.qbitai.com/2026/09/498605.html",
+    "https://www.theregister.com/os-platforms/2026/09/27/apple-buried-copland-30-years-ago-now-the-failed-os-boots-in-a-browser/5299201"
   ],
-  "ai_index": 2,
-  "tech_index": 2,
-  "category": "tech"
+  "ai_index": 3,
+  "tech_index": 3,
+  "category": "ai"
 }
