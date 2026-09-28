@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://arstechnica.com/health/2026/09/rfk-jr-stacks-another-influential-federal-panel-with-questionable-picks/",
     "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
     "https://tech.eu/2026/09/17/magentic-raises-18m-to-automate-industrial-operations-with-ai-agents/",
     "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
@@ -499,9 +498,10 @@
     "https://habr.com/ru/companies/trinfico_private/articles/1087414/?utm_campaign=1087414&utm_source=habrahabr&utm_medium=rss",
     "https://phys.org/news/2026-09-herring-fishery-years-rebound-today.html",
     "https://huggingface.co/blog/Hcompany/holo4",
-    "https://3dnews.ru/1149129"
+    "https://3dnews.ru/1149129",
+    "https://www.infoq.cn/article/zl0e1sUoD95YJfboNz2a?utm_source=rss&utm_medium=article"
   ],
   "ai_index": 12,
   "tech_index": 12,
-  "category": "ai"
+  "category": "tech"
 }
