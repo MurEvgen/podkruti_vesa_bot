@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.qbitai.com/2026/09/491875.html",
     "https://3dnews.ru/1148664",
     "https://www.infoq.cn/article/AFC40lL0yaxVCDvBRFOK?utm_source=rss&utm_medium=article",
     "https://www.ixbt.com/news/2026/09/18/436687-9-iz-10-naucnyx-biomedicinskix-statei-k-koncu-2025-goda-napisany-s-ucastiem-ii.html",
@@ -499,9 +498,10 @@
     "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
     "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
     "https://arstechnica.com/science/2026/09/new-device-captures-carbon-dioxide-by-pumping-it-across-a-battery/",
-    "https://the-decoder.com/more-than-20-leading-ai-researchers-warn-that-automated-ai-research-poses-extreme-risks/"
+    "https://the-decoder.com/more-than-20-leading-ai-researchers-warn-that-automated-ai-research-poses-extreme-risks/",
+    "https://tech.eu/2026/09/28/granite-raises-eur4m-to-bring-its-agentic-cloud-infrastructure-to-market/"
   ],
-  "ai_index": 2,
-  "tech_index": 2,
-  "category": "tech"
+  "ai_index": 3,
+  "tech_index": 3,
+  "category": "ai"
 }
