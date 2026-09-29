@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://spectrum.ieee.org/tech-talent-into-leadership-legacy",
     "https://www.qbitai.com/2026/09/492426.html",
     "https://3dnews.ru/1148734",
     "https://www.infoq.cn/article/GAhNItmT2o7kvEA1ovxt?utm_source=rss&utm_medium=article",
@@ -499,9 +498,10 @@
     "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
     "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/",
     "https://huggingface.co/blog/nvidia/kumo-tabular",
-    "https://arstechnica.com/cars/2026/09/connected-car-data-privacy-is-still-abysmal-study-finds/"
+    "https://arstechnica.com/cars/2026/09/connected-car-data-privacy-is-still-abysmal-study-finds/",
+    "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source"
   ],
   "ai_index": 2,
   "tech_index": 2,
-  "category": "ai"
+  "category": "tech"
 }
