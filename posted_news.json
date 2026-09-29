@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://phys.org/news/2026-09-urban-real-hazardous-rainfall.html",
     "https://pandaily.com/catl-2027-all-solid-state-small-batch",
     "https://spectrum.ieee.org/tech-talent-into-leadership-legacy",
     "https://www.qbitai.com/2026/09/492426.html",
@@ -499,9 +498,10 @@
     "https://arxiv.org/abs/2609.31784",
     "http://www.geekpark.net/news/372000",
     "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-    "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/"
+    "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/",
+    "https://huggingface.co/blog/nvidia/kumo-tabular"
   ],
   "ai_index": 1,
   "tech_index": 1,
-  "category": "ai"
+  "category": "tech"
 }
