@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.scmp.com/tech/tech-trends/article/3367998/ant-international-embeds-ai-agents-across-all-platforms-biggest-ever-product-upgrade?utm_source=rss_feed",
     "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
     "https://36kr.com/p/3984230181010434?f=rss",
     "https://the-decoder.com/visible-chains-of-thought-are-a-safety-advantage-for-ai-but-that-transparency-is-slipping-away/",
@@ -499,9 +498,10 @@
     "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
     "https://hackaday.com/2026/09/28/this-pico-8-handheld-is-no-fantasy/",
     "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
-    "https://www.therobotreport.com/gecko-robotics-works-with-nvidia-adds-ai-agent-security-and-control/"
+    "https://www.therobotreport.com/gecko-robotics-works-with-nvidia-adds-ai-agent-security-and-control/",
+    "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/"
   ],
   "ai_index": 6,
   "tech_index": 6,
-  "category": "ai"
+  "category": "tech"
 }
