@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft/",
     "https://www.ithome.com/1/004/343.htm",
     "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
     "http://www.geekpark.net/news/370610",
@@ -499,9 +498,10 @@
     "https://semiengineering.com/copper-grain-structure-influences-stress-around-scaled-tsvs-purdue-ucla/",
     "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
     "https://www.eetimes.com/why-u-s-europe-cooperation-matters-for-quantum-leadership/",
-    "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent"
+    "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
+    "https://www.extremetech.com/mobile/google-teases-android-18-ahead-of-october-dev-summit"
   ],
-  "ai_index": 8,
-  "tech_index": 8,
-  "category": "tech"
+  "ai_index": 9,
+  "tech_index": 9,
+  "category": "ai"
 }
