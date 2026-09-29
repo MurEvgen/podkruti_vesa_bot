@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://3dnews.ru/1148734",
     "https://www.infoq.cn/article/GAhNItmT2o7kvEA1ovxt?utm_source=rss&utm_medium=article",
     "https://www.ixbt.com/news/2026/09/19/436842-krupneisii-amerikanskii-reteiler-walmart-prodal-poddelnyi-processory-ryzen-7-9800x3d-i-otkazalsia-vozvrashhat-dengi.html",
     "https://openai.com/index/australian-youth-safety-blueprint",
@@ -499,9 +498,10 @@
     "https://huggingface.co/blog/nvidia/kumo-tabular",
     "https://arstechnica.com/cars/2026/09/connected-car-data-privacy-is-still-abysmal-study-finds/",
     "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-    "https://tech.eu/2026/09/29/oura-delays-15bbn-us-ipo/"
+    "https://tech.eu/2026/09/29/oura-delays-15bbn-us-ipo/",
+    "https://the-decoder.com/chatgpt-now-reaches-1-2-billion-people-every-week-openai-says/"
   ],
   "ai_index": 3,
   "tech_index": 3,
-  "category": "ai"
+  "category": "tech"
 }
