@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
     "https://www.therobotreport.com/the-picks-and-shovels-strategy-behind-the-robotics-boom/",
     "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
     "https://semiengineering.com/chip-industry-week-in-review-156/",
@@ -499,9 +498,10 @@
     "https://www.ixbt.com/news/2026/09/29/439060-polucaetsia-v-rossii-desevle-ili-net-200-megapikselnaia-kamera-zeiss-novogo-pokoleniia-vnesnii-ekran-8000-mac-90-vt-i-dimensity-9600-pro-kamerofon-vivo-x500-pro-max-postupil-v-prodazu-v-kitae.html",
     "https://openai.com/index/how-we-will-do-better-for-australia",
     "https://www.chinatechnews.com/2026/09/29/129967-china-flags-82-apps-including-financial-and-healthcare-platforms-for-illegal-data-collection",
-    "https://the-decoder.com/openai-reopens-its-200-pro-plan-but-cuts-api-credits-in-half-as-it-nudges-users-toward-pay-per-use/"
+    "https://the-decoder.com/openai-reopens-its-200-pro-plan-but-cuts-api-credits-in-half-as-it-nudges-users-toward-pay-per-use/",
+    "https://www.scmp.com/tech/tech-trends/article/3369192/chinas-cxmt-favour-domestic-suppliers-us52b-memory-chip-capacity-push-source?utm_source=rss_feed"
   ],
-  "ai_index": 15,
-  "tech_index": 15,
-  "category": "tech"
+  "ai_index": 16,
+  "tech_index": 16,
+  "category": "ai"
 }
