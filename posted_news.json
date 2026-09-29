@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.eetimes.com/intel-puts-high-na-euv-into-production-but-stitching-still-has-something-to-prove/",
     "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
     "https://www.extremetech.com/internet/google-asks-users-to-take-video-selfies-to-help-recover-their-accounts",
     "https://habr.com/ru/articles/1079622/?utm_campaign=1079622&utm_source=habrahabr&utm_medium=rss",
@@ -499,9 +498,10 @@
     "https://the-decoder.com/anthropics-ipo-filing-shows-soaring-revenue-mounting-costs-and-existential-risks/",
     "https://36kr.com/p/4003934076456836?f=rss",
     "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
-    "https://36kr.com/p/3995406571933824?f=rss"
+    "https://36kr.com/p/3995406571933824?f=rss",
+    "https://arxiv.org/abs/2609.31763"
   ],
   "ai_index": 18,
   "tech_index": 18,
-  "category": "ai"
+  "category": "tech"
 }
