@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://the-decoder.com/visible-chains-of-thought-are-a-safety-advantage-for-ai-but-that-transparency-is-slipping-away/",
     "https://36kr.com/p/3988678225214466?f=rss",
     "https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft/",
     "https://www.ithome.com/1/004/343.htm",
@@ -499,9 +498,10 @@
     "https://www.therobotreport.com/gecko-robotics-works-with-nvidia-adds-ai-agent-security-and-control/",
     "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
     "https://semiengineering.com/copper-grain-structure-influences-stress-around-scaled-tsvs-purdue-ucla/",
-    "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal"
+    "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+    "https://www.eetimes.com/why-u-s-europe-cooperation-matters-for-quantum-leadership/"
   ],
-  "ai_index": 7,
-  "tech_index": 7,
-  "category": "tech"
+  "ai_index": 8,
+  "tech_index": 8,
+  "category": "ai"
 }
