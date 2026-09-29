@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://habr.com/ru/articles/1079622/?utm_campaign=1079622&utm_source=habrahabr&utm_medium=rss",
     "https://www.tomshardware.com/pc-components/cpus/amd-shares-first-official-benchmarks-for-epyc-venice-cpus-targets-nvidia-company-claims-256-core-chip-is-more-than-twice-as-fast-as-nvidia-vera-96-core-model-20-percent-faster-per-core",
     "https://habr.com/ru/articles/1084028/?utm_campaign=1084028&utm_source=habrahabr&utm_medium=rss",
     "https://phys.org/news/2026-09-urban-real-hazardous-rainfall.html",
@@ -499,9 +498,10 @@
     "https://36kr.com/p/3995406571933824?f=rss",
     "https://arxiv.org/abs/2609.31763",
     "https://www.ithome.com/1/008/488.htm",
-    "https://arxiv.org/abs/2609.31784"
+    "https://arxiv.org/abs/2609.31784",
+    "http://www.geekpark.net/news/372000"
   ],
-  "ai_index": 19,
-  "tech_index": 19,
-  "category": "tech"
+  "ai_index": 0,
+  "tech_index": 0,
+  "category": "ai"
 }
