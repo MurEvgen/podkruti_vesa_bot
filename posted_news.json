@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.ithome.com/1/004/539.htm",
     "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
     "https://www.ithome.com/1/004/559.htm",
     "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
@@ -499,9 +498,10 @@
     "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
     "https://semiengineering.com/tsmc-oip-chip-industry-growth-blows-past-forecast/",
     "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
-    "https://www.eetimes.com/astera-labs-leo-controller-update-targets-memory-constraints/"
+    "https://www.eetimes.com/astera-labs-leo-controller-update-targets-memory-constraints/",
+    "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews"
   ],
   "ai_index": 8,
   "tech_index": 8,
-  "category": "ai"
+  "category": "tech"
 }
