@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://openai.com/index/australian-youth-safety-blueprint",
     "https://www.chinatechnews.com/2026/09/18/129370-chinas-potential-mothership-for-underwater-drones-sparks-speculation",
     "https://the-decoder.com/googles-gemini-also-accidentally-hacked-three-real-companies-during-security-testing/",
     "https://www.scmp.com/opinion/world-opinion/article/3366862/ai-doesnt-just-answer-questions-it-legitimises-bad-ones?utm_source=rss_feed",
@@ -499,9 +498,10 @@
     "https://tech.eu/2026/09/29/oura-delays-15bbn-us-ipo/",
     "https://the-decoder.com/chatgpt-now-reaches-1-2-billion-people-every-week-openai-says/",
     "https://www.theregister.com/security/2026/09/29/custom-malware-used-in-citrix-0-day-attacks-targeting-govt-banks-professional-services/5299867",
-    "https://the-decoder.com/openais-reveals-a-new-chatgpt-that-looks-less-like-a-chatbot-and-more-like-an-operating-system/"
+    "https://the-decoder.com/openais-reveals-a-new-chatgpt-that-looks-less-like-a-chatbot-and-more-like-an-operating-system/",
+    "https://hackaday.com/2026/09/29/improved-double-sided-toner-transfer-method/"
   ],
-  "ai_index": 4,
-  "tech_index": 4,
-  "category": "tech"
+  "ai_index": 5,
+  "tech_index": 5,
+  "category": "ai"
 }
