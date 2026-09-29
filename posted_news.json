@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.chinatechnews.com/2026/09/18/129376-humanoid-robot-kicks-remote-from-engineers-hand-during-china-test",
     "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
     "https://www.scmp.com/tech/tech-trends/article/3367998/ant-international-embeds-ai-agents-across-all-platforms-biggest-ever-product-upgrade?utm_source=rss_feed",
     "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
@@ -499,9 +498,10 @@
     "https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task/",
     "https://www.theregister.com/ai-and-ml/2026/09/28/french-dev-aims-to-solve-bots-blindness-so-they-can-understand-guis/5299575",
     "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-    "https://hackaday.com/2026/09/28/this-pico-8-handheld-is-no-fantasy/"
+    "https://hackaday.com/2026/09/28/this-pico-8-handheld-is-no-fantasy/",
+    "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/"
   ],
   "ai_index": 5,
   "tech_index": 5,
-  "category": "ai"
+  "category": "tech"
 }
