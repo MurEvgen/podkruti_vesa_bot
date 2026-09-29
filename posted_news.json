@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
     "https://the-decoder.com/security-researchers-used-anthropics-claude-to-hack-openais-internal-systems-in-under-72-hours/",
     "https://tech.eu/2026/09/18/open-cosmos-secures-eur300m/",
     "https://arxiv.org/abs/2609.19180",
@@ -499,9 +498,10 @@
     "https://habr.com/ru/articles/1087100/?utm_campaign=1087100&utm_source=habrahabr&utm_medium=rss",
     "https://phys.org/news/2026-09-asia-future-embrace-limitations-people.html",
     "https://pandaily.com/enn-xuanlong-50u-hydrogen-boron-fusion-reaction",
-    "https://spectrum.ieee.org/ieee-stem-books-tweens-tryengineering"
+    "https://spectrum.ieee.org/ieee-stem-books-tweens-tryengineering",
+    "https://www.qbitai.com/2026/09/499098.html"
   ],
   "ai_index": 12,
   "tech_index": 12,
-  "category": "ai"
+  "category": "tech"
 }
