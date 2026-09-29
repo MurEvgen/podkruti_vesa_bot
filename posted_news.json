@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://the-decoder.com/california-governor-newsom-signs-executive-order-demanding-kill-switch-for-ai-models/",
     "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
     "https://the-decoder.com/security-researchers-used-anthropics-claude-to-hack-openais-internal-systems-in-under-72-hours/",
     "https://tech.eu/2026/09/18/open-cosmos-secures-eur300m/",
@@ -499,9 +498,10 @@
     "https://www.tomshardware.com/desktops/mini-pcs/early-amd-gorgon-halo-ai-mini-pc-packs-192gb-ram-for-an-eye-watering-usd7-099-super-early-bird-deal-cuts-down-price-of-gmktec-evo-x5-with-ryzen-ai-max-pro-495-by-usd425",
     "https://habr.com/ru/articles/1087100/?utm_campaign=1087100&utm_source=habrahabr&utm_medium=rss",
     "https://phys.org/news/2026-09-asia-future-embrace-limitations-people.html",
-    "https://pandaily.com/enn-xuanlong-50u-hydrogen-boron-fusion-reaction"
+    "https://pandaily.com/enn-xuanlong-50u-hydrogen-boron-fusion-reaction",
+    "https://spectrum.ieee.org/ieee-stem-books-tweens-tryengineering"
   ],
-  "ai_index": 11,
-  "tech_index": 11,
-  "category": "tech"
+  "ai_index": 12,
+  "tech_index": 12,
+  "category": "ai"
 }
