@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://36kr.com/p/3991436755057415?f=rss",
     "https://the-decoder.com/following-openai-anthropic-is-also-reportedly-postponing-its-ipo/",
     "https://www.ithome.com/1/004/892.htm",
     "https://pandaily.com/faraday-future-jia-yueting-nine-eai-robots-9990",
@@ -499,9 +498,10 @@
     "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
     "https://semiengineering.com/e-series-gpu-ip-the-first-step-towards-converged-acceleration/",
     "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
-    "https://www.eetimes.com/tsmcs-3-nm-ramp-looks-different-in-historical-context/"
+    "https://www.eetimes.com/tsmcs-3-nm-ramp-looks-different-in-historical-context/",
+    "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices"
   ],
   "ai_index": 8,
   "tech_index": 8,
-  "category": "ai"
+  "category": "tech"
 }
