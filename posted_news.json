@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.qbitai.com/2026/09/492755.html",
     "https://3dnews.ru/1148755",
     "https://www.infoq.cn/article/wKbZ8JlwJX26gTsW8r2o?utm_source=rss&utm_medium=article",
     "https://www.ixbt.com/news/2026/09/20/436963-do-2-tb-so-skorostiu-1000-mbs-v-korpuse-vesom-vsego-33-gramma-predstavlen-portativnyi-ssd-sandisk-e31.html",
@@ -499,9 +498,10 @@
     "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
     "https://the-decoder.com/anthropic-says-zhipus-open-weight-glm-5-3-nearly-matches-claude-mythos-preview-at-building-exploits/",
     "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/",
-    "https://the-decoder.com/google-is-paying-almost-no-publishers-almost-nothing-for-content-used-in-ai-answers/"
+    "https://the-decoder.com/google-is-paying-almost-no-publishers-almost-nothing-for-content-used-in-ai-answers/",
+    "https://tech.eu/2026/09/30/ais-6-percent-problem/"
   ],
-  "ai_index": 2,
-  "tech_index": 2,
-  "category": "tech"
+  "ai_index": 3,
+  "tech_index": 3,
+  "category": "ai"
 }
