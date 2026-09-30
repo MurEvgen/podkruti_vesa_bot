@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
     "https://www.chinatechnews.com/2026/09/19/129443-netease-remote-tool-pulls-post-in-china-after-harmonyos-backlash",
     "https://habr.com/ru/articles/1084234/?utm_campaign=1084234&utm_source=habrahabr&utm_medium=rss",
     "https://www.scmp.com/tech/tech-trends/article/3368101/chinas-gopro-rival-insta360-opens-first-us-flagship-store-new-yorks-times-square?utm_source=rss_feed",
@@ -499,9 +498,10 @@
     "https://tech.eu/2026/09/30/ais-6-percent-problem/",
     "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
     "https://www.theregister.com/offbeat/2026/09/30/drunk-van-halen-fan-called-microsoft-support-and-demanded-to-speak-to-gates/5300002",
-    "https://the-decoder.com/chinas-ai-industry-closes-ranks-as-deepseek-ships-open-source-software-for-huaweis-ascend-chips/"
+    "https://the-decoder.com/chinas-ai-industry-closes-ranks-as-deepseek-ships-open-source-software-for-huaweis-ascend-chips/",
+    "https://hackaday.com/2026/09/30/assembling-and-testing-a-diy-jet-turbine/"
   ],
-  "ai_index": 4,
-  "tech_index": 4,
-  "category": "tech"
+  "ai_index": 5,
+  "tech_index": 5,
+  "category": "ai"
 }
