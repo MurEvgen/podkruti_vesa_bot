@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://the-decoder.com/qwen3-8-omni-flash-undercuts-gemini-flash-pricing-while-matching-its-multimodal-benchmarks/",
     "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
     "https://the-decoder.com/unity-launches-official-plugins-for-claude-code-and-openai-codex-to-stop-ai-agents-from-using-outdated-tutorials/",
     "https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy/",
@@ -499,9 +498,10 @@
     "https://www.extremetech.com/internet/google-to-replace-gemini-gems-with-plainly-named-skills",
     "https://neurohive.io/ru/papers/yue2-nejroset-dlya-sozdaniya-pesen/",
     "https://www.tomshardware.com/pc-components/gpus/zotac-denies-warranty-support-to-rtx-3060-owner-in-india-after-just-one-year-despite-offering-three-years-of-coverage-company-says-gpus-2023-import-date-takes-precedence-over-purchase-date",
-    "https://habr.com/ru/articles/1087860/?utm_campaign=1087860&utm_source=habrahabr&utm_medium=rss"
+    "https://habr.com/ru/articles/1087860/?utm_campaign=1087860&utm_source=habrahabr&utm_medium=rss",
+    "https://phys.org/news/2026-09-ai-tool-microscopy.html"
   ],
-  "ai_index": 10,
-  "tech_index": 10,
-  "category": "tech"
+  "ai_index": 11,
+  "tech_index": 11,
+  "category": "ai"
 }
