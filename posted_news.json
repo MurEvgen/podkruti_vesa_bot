@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "http://www.geekpark.net/news/370667",
     "https://the-decoder.com/daily-ai-usage-in-the-u-s-has-more-than-doubled-in-just-six-months/",
     "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
     "https://the-decoder.com/simulated-students-that-make-realistic-mistakes-help-ai-tutors-learn-faster/",
@@ -499,9 +498,10 @@
     "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
     "https://www.extremetech.com/gaming/could-sony-japans-anti-scalper-technique-actually-protect-the-ps5-pro",
     "https://habr.com/ru/articles/1088796/?utm_campaign=1088796&utm_source=habrahabr&utm_medium=rss",
-    "https://www.tomshardware.com/tech-industry/artificial-intelligence/geekbench-7-results-suggest-openais-dots-agent-runs-on-nine-core-amd-epyc-vms-with-nearly-10gb-of-memory-newest-runs-score-about-six-times-meta-muse-in-multi-core"
+    "https://www.tomshardware.com/tech-industry/artificial-intelligence/geekbench-7-results-suggest-openais-dots-agent-runs-on-nine-core-amd-epyc-vms-with-nearly-10gb-of-memory-newest-runs-score-about-six-times-meta-muse-in-multi-core",
+    "https://habr.com/ru/articles/1088768/?utm_campaign=1088768&utm_source=habrahabr&utm_medium=rss"
   ],
   "ai_index": 10,
   "tech_index": 10,
-  "category": "ai"
+  "category": "tech"
 }
