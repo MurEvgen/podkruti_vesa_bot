@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://the-decoder.com/runway-wants-to-turn-ai-video-generation-into-a-live-stream-you-control-in-real-time/",
     "https://www.theregister.com/os-platforms/2026/09/20/how-windows-turned-months-of-inactivity-into-a-7-hour-update-hostage-situation/5297478",
     "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
     "https://hackaday.com/2026/09/20/reverse-engineering-a-sony-car-stereo-lcd/",
@@ -499,9 +498,10 @@
     "https://phys.org/news/2026-09-border-entry-reveals-gap-international.html",
     "https://pandaily.com/ymtc-micron-munich-injunctions-3d-nand-utility-models",
     "https://spectrum.ieee.org/ieee-technical-field-awards-2027",
-    "https://www.qbitai.com/2026/09/499654.html"
+    "https://www.qbitai.com/2026/09/499654.html",
+    "https://3dnews.ru/1149297"
   ],
-  "ai_index": 12,
-  "tech_index": 12,
-  "category": "tech"
+  "ai_index": 13,
+  "tech_index": 13,
+  "category": "ai"
 }
