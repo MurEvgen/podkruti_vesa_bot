@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.eetimes.com/ai-demand-will-keep-dram-market-under-pressure/",
     "https://neurohive.io/ru/gotovye-prilozhenija/vidu-s2-model-generiruet-video-avatary-v-720p-pri-25-42-fps-i-redaktiruet-strim-na-letu/",
     "https://www.extremetech.com/electronics/snap-opens-preorders-for-its-uncomfortable-looking-specs-ar-glasses",
     "https://neurohive.io/ru/papers/worldsculpt-model-sobiraet-3d-scenu-iz-soten-otdelnyh-meshej-po-naboru-kadrov/",
@@ -499,9 +498,10 @@
     "https://arxiv.org/abs/2609.35799",
     "https://36kr.com/p/3994346489084932?f=rss",
     "https://arxiv.org/abs/2609.35833",
-    "https://36kr.com/p/4005358837076101?f=rss"
+    "https://36kr.com/p/4005358837076101?f=rss",
+    "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/"
   ],
   "ai_index": 18,
   "tech_index": 18,
-  "category": "ai"
+  "category": "tech"
 }
