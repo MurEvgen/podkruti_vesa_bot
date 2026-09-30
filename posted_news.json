@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://the-decoder.com/following-openai-anthropic-is-also-reportedly-postponing-its-ipo/",
     "https://www.ithome.com/1/004/892.htm",
     "https://pandaily.com/faraday-future-jia-yueting-nine-eai-robots-9990",
     "http://www.geekpark.net/news/370667",
@@ -499,9 +498,10 @@
     "https://semiengineering.com/e-series-gpu-ip-the-first-step-towards-converged-acceleration/",
     "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
     "https://www.eetimes.com/tsmcs-3-nm-ramp-looks-different-in-historical-context/",
-    "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices"
+    "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
+    "https://www.extremetech.com/gaming/could-sony-japans-anti-scalper-technique-actually-protect-the-ps5-pro"
   ],
-  "ai_index": 8,
-  "tech_index": 8,
-  "category": "tech"
+  "ai_index": 9,
+  "tech_index": 9,
+  "category": "ai"
 }
