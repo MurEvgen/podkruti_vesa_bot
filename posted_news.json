@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.therobotreport.com/hirebotics-adds-line-tracking-linear-rail-capabilities-cobots/",
     "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
     "https://semiengineering.com/predicting-thermal-conductivity-in-advanced-beol-interconnect-stacks-peking-university/",
     "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
@@ -499,9 +498,10 @@
     "https://openai.com/index/introducing-gpt-6-1-sol",
     "https://www.chinatechnews.com/2026/09/30/129969-chinas-elite-universities-double-down-on-ai-leadership-as-global-educators-race-to-adapt",
     "https://the-decoder.com/uk-ai-security-institute-finds-gpt-6-astras-rogue-attack-rate-jumped-fivefold-over-its-predecessor/",
-    "https://www.scmp.com/tech/tech-trends/article/3369301/chinas-deepseek-open-sources-tools-help-huawei-chips-supplant-nvidia-ai?utm_source=rss_feed"
+    "https://www.scmp.com/tech/tech-trends/article/3369301/chinas-deepseek-open-sources-tools-help-huawei-chips-supplant-nvidia-ai?utm_source=rss_feed",
+    "https://arxiv.org/abs/2609.35799"
   ],
   "ai_index": 16,
   "tech_index": 16,
-  "category": "ai"
+  "category": "tech"
 }
