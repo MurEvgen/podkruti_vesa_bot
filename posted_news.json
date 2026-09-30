@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://3dnews.ru/1148759",
     "https://www.qbitai.com/2026/09/492755.html",
     "https://3dnews.ru/1148755",
     "https://www.infoq.cn/article/wKbZ8JlwJX26gTsW8r2o?utm_source=rss&utm_medium=article",
@@ -499,9 +498,10 @@
     "https://openai.com/index/devday-2026-recap",
     "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
     "https://the-decoder.com/anthropic-says-zhipus-open-weight-glm-5-3-nearly-matches-claude-mythos-preview-at-building-exploits/",
-    "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/"
+    "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/",
+    "https://the-decoder.com/google-is-paying-almost-no-publishers-almost-nothing-for-content-used-in-ai-answers/"
   ],
   "ai_index": 2,
   "tech_index": 2,
-  "category": "ai"
+  "category": "tech"
 }
