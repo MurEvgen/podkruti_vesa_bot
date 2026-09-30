@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
     "https://hackaday.com/2026/09/19/teaching-a-robot-hand-to-walk/",
     "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
     "https://www.therobotreport.com/hirebotics-adds-line-tracking-linear-rail-capabilities-cobots/",
@@ -499,9 +498,10 @@
     "https://3dnews.ru/1149239",
     "https://www.infoq.cn/article/z9VP6ZQ3vCxTrk1VdU5D?utm_source=rss&utm_medium=article",
     "https://www.ixbt.com/news/2026/09/30/western-digital-predstavila-my-passport-s-usb-c-do-6-tb-i-garantiia-3-goda.html",
-    "https://openai.com/index/introducing-gpt-6-1-sol"
+    "https://openai.com/index/introducing-gpt-6-1-sol",
+    "https://www.chinatechnews.com/2026/09/30/129969-chinas-elite-universities-double-down-on-ai-leadership-as-global-educators-race-to-adapt"
   ],
-  "ai_index": 14,
-  "tech_index": 14,
-  "category": "tech"
+  "ai_index": 15,
+  "tech_index": 15,
+  "category": "ai"
 }
