@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.infoq.cn/article/wKbZ8JlwJX26gTsW8r2o?utm_source=rss&utm_medium=article",
     "https://www.ixbt.com/news/2026/09/20/436963-do-2-tb-so-skorostiu-1000-mbs-v-korpuse-vesom-vsego-33-gramma-predstavlen-portativnyi-ssd-sandisk-e31.html",
     "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
     "https://www.chinatechnews.com/2026/09/19/129443-netease-remote-tool-pulls-post-in-china-after-harmonyos-backlash",
@@ -499,9 +498,10 @@
     "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/",
     "https://the-decoder.com/google-is-paying-almost-no-publishers-almost-nothing-for-content-used-in-ai-answers/",
     "https://tech.eu/2026/09/30/ais-6-percent-problem/",
-    "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/"
+    "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+    "https://www.theregister.com/offbeat/2026/09/30/drunk-van-halen-fan-called-microsoft-support-and-demanded-to-speak-to-gates/5300002"
   ],
-  "ai_index": 3,
-  "tech_index": 3,
-  "category": "tech"
+  "ai_index": 4,
+  "tech_index": 4,
+  "category": "ai"
 }
