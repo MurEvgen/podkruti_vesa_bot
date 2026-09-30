@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
     "https://tech.eu/2026/09/18/open-ai-closes-the-gap-as-europe-bets-on-sovereignty-and-infrastructure/",
     "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
     "https://www.theregister.com/security/2026/09/19/agentic-security-is-the-billion-dollar-challenge-for-some-clever-startup-to-solve/5297546",
@@ -499,9 +498,10 @@
     "https://phys.org/news/2026-09-ai-tool-microscopy.html",
     "https://pandaily.com/shandong-future-robot-hit-vy150-4500m-deep-sea-rov-south-china-sea",
     "https://spectrum.ieee.org/alternatives-to-animal-testing",
-    "https://www.qbitai.com/2026/09/499246.html"
+    "https://www.qbitai.com/2026/09/499246.html",
+    "https://3dnews.ru/1149239"
   ],
-  "ai_index": 12,
-  "tech_index": 12,
-  "category": "tech"
+  "ai_index": 13,
+  "tech_index": 13,
+  "category": "ai"
 }
