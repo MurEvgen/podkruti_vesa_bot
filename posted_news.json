@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://habr.com/ru/articles/1080018/?utm_campaign=1080018&utm_source=habrahabr&utm_medium=rss",
     "http://go.rss.sina.com.cn/redirect.php?url=http://tech.sina.com.cnhttps://tech.sina.com.cn/roll/2018-09-23/doc-ifxeuwwr7454098.shtml",
     "https://habr.com/ru/articles/1084270/?utm_campaign=1084270&utm_source=habrahabr&utm_medium=rss",
     "https://36kr.com/p/3991436755057415?f=rss",
@@ -499,9 +498,10 @@
     "https://hackaday.com/2026/09/30/assembling-and-testing-a-diy-jet-turbine/",
     "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
     "https://www.therobotreport.com/robot-report-parent-arrowfly-launches-ai-for-engineers-platform-events-engineers-navigating-ai/",
-    "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/"
+    "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+    "https://semiengineering.com/e-series-gpu-ip-the-first-step-towards-converged-acceleration/"
   ],
-  "ai_index": 6,
-  "tech_index": 6,
-  "category": "tech"
+  "ai_index": 7,
+  "tech_index": 7,
+  "category": "ai"
 }
