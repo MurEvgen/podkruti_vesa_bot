@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://semiengineering.com/predicting-thermal-conductivity-in-advanced-beol-interconnect-stacks-peking-university/",
     "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
     "https://www.eetimes.com/ai-demand-will-keep-dram-market-under-pressure/",
     "https://neurohive.io/ru/gotovye-prilozhenija/vidu-s2-model-generiruet-video-avatary-v-720p-pri-25-42-fps-i-redaktiruet-strim-na-letu/",
@@ -499,9 +498,10 @@
     "https://the-decoder.com/uk-ai-security-institute-finds-gpt-6-astras-rogue-attack-rate-jumped-fivefold-over-its-predecessor/",
     "https://www.scmp.com/tech/tech-trends/article/3369301/chinas-deepseek-open-sources-tools-help-huawei-chips-supplant-nvidia-ai?utm_source=rss_feed",
     "https://arxiv.org/abs/2609.35799",
-    "https://36kr.com/p/3994346489084932?f=rss"
+    "https://36kr.com/p/3994346489084932?f=rss",
+    "https://arxiv.org/abs/2609.35833"
   ],
   "ai_index": 17,
   "tech_index": 17,
-  "category": "ai"
+  "category": "tech"
 }
