@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.scmp.com/tech/big-tech/article/3368011/us-weighs-restrictions-cloud-computing-how-will-chinas-ai-sector-adapt?utm_source=rss_feed",
     "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
     "http://go.rss.sina.com.cn/redirect.php?url=http://tech.sina.com.cnhttps://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6915894.shtml",
     "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
@@ -499,9 +498,10 @@
     "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
     "https://hackaday.com/2026/10/01/the-whole-computer-is-vim/",
     "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
-    "https://www.therobotreport.com/anybotics-launches-shift-streamline-robot-fleet-operations-scale-autonomous-inspections/"
+    "https://www.therobotreport.com/anybotics-launches-shift-streamline-robot-fleet-operations-scale-autonomous-inspections/",
+    "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/"
   ],
   "ai_index": 6,
   "tech_index": 6,
-  "category": "ai"
+  "category": "tech"
 }
