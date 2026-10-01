@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://pandaily.com/byd-solid-state-battery-ev-2027-findreams-sulfide",
     "https://phys.org/news/2026-09-tiny-beach-crustaceans-big-sand.html",
     "https://www.qbitai.com/2026/09/492973.html",
     "https://3dnews.ru/1148775",
@@ -499,9 +498,10 @@
     "https://www.ithome.com/1/009/055.htm",
     "https://arxiv.org/abs/2609.38282",
     "http://www.geekpark.net/news/372065",
-    "https://openai.com/index/helping-small-businesses-put-ai-to-work"
+    "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+    "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/"
   ],
-  "ai_index": 0,
-  "tech_index": 0,
-  "category": "tech"
+  "ai_index": 1,
+  "tech_index": 1,
+  "category": "ai"
 }
