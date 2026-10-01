@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://habr.com/ru/articles/1084410/?utm_campaign=1084410&utm_source=habrahabr&utm_medium=rss",
     "https://semiengineering.com/agentic-ai-automates-design-rule-repair-while-preserving-layout-equivalence/",
     "https://habr.com/ru/articles/1084414/?utm_campaign=1084414&utm_source=habrahabr&utm_medium=rss",
     "https://www.tomshardware.com/peripherals/webcams/dell-pro-7-webcam-4k-review",
@@ -499,9 +498,10 @@
     "https://www.chinatechnews.com/2026/10/01/129971-beijing-solicits-bids-for-major-quantum-hardware-initiative-to-accelerate-tech-autonomy",
     "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
     "https://www.scmp.com/tech/big-tech/article/3369354/anthropic-raises-alarm-over-elite-hacking-ability-chinese-firm-zais-glm-53?utm_source=rss_feed",
-    "https://huggingface.co/blog/open-tts-leaderboard"
+    "https://huggingface.co/blog/open-tts-leaderboard",
+    "http://go.rss.sina.com.cn/redirect.php?url=http://tech.sina.com.cnhttps://tech.sina.com.cn/roll/2018-09-23/doc-ifxeuwwr7454098.shtml"
   ],
-  "ai_index": 16,
-  "tech_index": 16,
-  "category": "tech"
+  "ai_index": 17,
+  "tech_index": 17,
+  "category": "ai"
 }
