@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
     "https://hackaday.com/2026/09/20/a-bandpass-filter-pulls-in-the-signals/",
     "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
     "https://www.therobotreport.com/what-do-you-do-with-a-humanoid-robot-when-it-breaks-down/",
@@ -499,9 +498,10 @@
     "https://3dnews.ru/1149297",
     "https://www.infoq.cn/article/M6BRTrsyJvUg8y0M0kyh?utm_source=rss&utm_medium=article",
     "https://www.ixbt.com/news/2026/10/01/439386-altman-i-amodei-propustiat-slusaniia-v-senate-avstralii-po-ii.html",
-    "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign"
+    "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+    "https://www.chinatechnews.com/2026/10/01/129971-beijing-solicits-bids-for-major-quantum-hardware-initiative-to-accelerate-tech-autonomy"
   ],
-  "ai_index": 14,
-  "tech_index": 14,
-  "category": "tech"
+  "ai_index": 15,
+  "tech_index": 15,
+  "category": "ai"
 }
