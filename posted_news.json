@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://3dnews.ru/1148775",
     "https://www.qbitai.com/2026/09/493068.html",
     "https://3dnews.ru/1148773",
     "https://www.infoq.cn/article/9jw1St7ULZijG8XNCWkW?utm_source=rss&utm_medium=article",
@@ -499,9 +498,10 @@
     "https://openai.com/index/helping-small-businesses-put-ai-to-work",
     "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
     "https://deepmind.google/blog/introducing-synthid-bio/",
-    "https://arstechnica.com/science/2026/09/dinosaur-killing-impact-crater-might-have-been-teeming-with-life/"
+    "https://arstechnica.com/science/2026/09/dinosaur-killing-impact-crater-might-have-been-teeming-with-life/",
+    "https://arxiv.org/abs/2609.38288"
   ],
   "ai_index": 2,
   "tech_index": 2,
-  "category": "ai"
+  "category": "tech"
 }
