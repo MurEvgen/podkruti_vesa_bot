@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://habr.com/ru/articles/1084578/?utm_campaign=1084578&utm_source=habrahabr&utm_medium=rss",
     "https://tech.eu/2026/09/21/newschool-vc-closes-eur10m-fund-i-to-back-early-stage-b2b-tech/",
     "https://habr.com/ru/articles/1084608/?utm_campaign=1084608&utm_source=habrahabr&utm_medium=rss",
     "https://www.theregister.com/offbeat/2026/09/21/its-raining-the-transport-isnt-working-and-now-an-android-app-wants-to-walk-out-in-solidarity/5297494",
@@ -499,9 +498,10 @@
     "https://phys.org/news/2026-10-ultra-precise-coatings-power-generation.html",
     "https://pandaily.com/aisphere-pixverse-r2-real-time-world-model-omni-causal-ar",
     "https://spectrum.ieee.org/electricity-theft",
-    "https://www.qbitai.com/2026/10/499812.html"
+    "https://www.qbitai.com/2026/10/499812.html",
+    "https://3dnews.ru/1149353"
   ],
-  "ai_index": 12,
-  "tech_index": 12,
-  "category": "tech"
+  "ai_index": 13,
+  "tech_index": 13,
+  "category": "ai"
 }
