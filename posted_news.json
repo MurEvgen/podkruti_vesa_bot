@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://arxiv.org/abs/2609.20974",
     "http://www.geekpark.net/news/370717",
     "https://habr.com/ru/companies/yandex/articles/1083300/?utm_campaign=1083300&utm_source=habrahabr&utm_medium=rss",
     "https://tech.eu/2026/09/21/metris-secures-5m-to-build-a-unified-data-layer-for-energy-assets/",
@@ -499,9 +498,10 @@
     "https://www.eetimes.com/edge-computing-and-security-for-access-control-applications-getting-the-best-of-the-two-worlds/",
     "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
     "https://www.extremetech.com/internet/the-front-page-of-the-internet-is-killing-rss-feeds",
-    "https://neurohive.io/ru/gotovye-prilozhenija/agregatory-nejrosetej-chto-eto-i-zachem-oni-nuzhny-rossiyanam/"
+    "https://neurohive.io/ru/gotovye-prilozhenija/agregatory-nejrosetej-chto-eto-i-zachem-oni-nuzhny-rossiyanam/",
+    "https://www.tomshardware.com/desktops/mini-pcs/first-intel-panther-lake-mini-pc-cooled-with-solid-state-airjet-tech-operates-at-less-than-21-dba-aaeon-claims-its-fanless-up-xtreme-ptl-edge-air-is-also-slimmer-lighter-than-actively-cooled-rivals"
   ],
-  "ai_index": 9,
-  "tech_index": 9,
-  "category": "tech"
+  "ai_index": 10,
+  "tech_index": 10,
+  "category": "ai"
 }
