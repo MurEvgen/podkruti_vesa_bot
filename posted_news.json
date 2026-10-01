@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://habr.com/ru/articles/1082454/?utm_campaign=1082454&utm_source=habrahabr&utm_medium=rss",
     "https://www.tomshardware.com/tech-industry/big-tech/anthropic-openai-spacexai-and-google-face-antitrust-lawsuit-for-agreeing-to-slow-ai-development-plaintiffs-say-plan-has-been-in-motion-for-months-before-calls-agreement-self-serving",
     "https://habr.com/ru/articles/1084426/?utm_campaign=1084426&utm_source=habrahabr&utm_medium=rss",
     "https://phys.org/news/2026-09-firelight-spoken-language.html",
@@ -499,9 +498,10 @@
     "http://go.rss.sina.com.cn/redirect.php?url=http://tech.sina.com.cnhttps://tech.sina.com.cn/roll/2018-09-23/doc-ifxeuwwr7454098.shtml",
     "https://the-decoder.com/google-gemini-4-argon-closes-the-gap-with-openai-and-anthropic-but-doesnt-take-a-clear-lead/",
     "https://36kr.com/p/4005786829312136?f=rss",
-    "https://the-decoder.com/openai-and-synopsys-team-up-to-build-an-ai-model-that-designs-chips-like-a-seasoned-engineer/"
+    "https://the-decoder.com/openai-and-synopsys-team-up-to-build-an-ai-model-that-designs-chips-like-a-seasoned-engineer/",
+    "https://www.ithome.com/1/009/055.htm"
   ],
-  "ai_index": 18,
-  "tech_index": 18,
-  "category": "tech"
+  "ai_index": 19,
+  "tech_index": 19,
+  "category": "ai"
 }
