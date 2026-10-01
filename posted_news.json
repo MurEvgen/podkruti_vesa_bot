@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.chinatechnews.com/2026/09/21/129446-baidu-highlights-massive-ai-growth-in-latest-financial-report",
     "https://the-decoder.com/tencents-gander-aims-to-keep-talking-while-it-works-in-the-background/",
     "https://www.scmp.com/tech/big-tech/article/3368011/us-weighs-restrictions-cloud-computing-how-will-chinas-ai-sector-adapt?utm_source=rss_feed",
     "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
@@ -499,9 +498,10 @@
     "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
     "https://www.theregister.com/public-sector/2026/10/01/sopra-steria-widens-legal-challenge-to-capitas-whitehall-outsourcing-deal/5300051",
     "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
-    "https://hackaday.com/2026/10/01/the-whole-computer-is-vim/"
+    "https://hackaday.com/2026/10/01/the-whole-computer-is-vim/",
+    "https://www.theverge.com/tech/1002980/google-gemini-4-argon"
   ],
   "ai_index": 5,
   "tech_index": 5,
-  "category": "ai"
+  "category": "tech"
 }
