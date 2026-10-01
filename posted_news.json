@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://phys.org/news/2026-09-firelight-spoken-language.html",
     "https://pandaily.com/byd-solid-state-battery-ev-2027-findreams-sulfide",
     "https://phys.org/news/2026-09-tiny-beach-crustaceans-big-sand.html",
     "https://www.qbitai.com/2026/09/492973.html",
@@ -499,9 +498,10 @@
     "https://the-decoder.com/openai-and-synopsys-team-up-to-build-an-ai-model-that-designs-chips-like-a-seasoned-engineer/",
     "https://www.ithome.com/1/009/055.htm",
     "https://arxiv.org/abs/2609.38282",
-    "http://www.geekpark.net/news/372065"
+    "http://www.geekpark.net/news/372065",
+    "https://openai.com/index/helping-small-businesses-put-ai-to-work"
   ],
   "ai_index": 0,
   "tech_index": 0,
-  "category": "ai"
+  "category": "tech"
 }
