@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://3dnews.ru/1148773",
     "https://www.infoq.cn/article/9jw1St7ULZijG8XNCWkW?utm_source=rss&utm_medium=article",
     "https://www.ixbt.com/news/2026/09/20/437169-google-i-blackstone-zapustili-crux-ai-novyi-operator-stroit-data-centry-dlia-tpu-na-milliardy-dollarov.html",
     "https://the-decoder.com/alibabas-open-weight-qwen-image-2-1-claims-to-beat-closed-models-in-image-generation-with-just-7-billion-parameters/",
@@ -499,9 +498,10 @@
     "https://deepmind.google/blog/introducing-synthid-bio/",
     "https://arstechnica.com/science/2026/09/dinosaur-killing-impact-crater-might-have-been-teeming-with-life/",
     "https://arxiv.org/abs/2609.38288",
-    "https://tech.eu/2026/10/01/hostile-threat-warning-startup-osavul-raises-8-5m/"
+    "https://tech.eu/2026/10/01/hostile-threat-warning-startup-osavul-raises-8-5m/",
+    "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/"
   ],
   "ai_index": 3,
   "tech_index": 3,
-  "category": "ai"
+  "category": "tech"
 }
