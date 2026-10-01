@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.therobotreport.com/what-do-you-do-with-a-humanoid-robot-when-it-breaks-down/",
     "https://habr.com/ru/articles/1084410/?utm_campaign=1084410&utm_source=habrahabr&utm_medium=rss",
     "https://semiengineering.com/agentic-ai-automates-design-rule-repair-while-preserving-layout-equivalence/",
     "https://habr.com/ru/articles/1084414/?utm_campaign=1084414&utm_source=habrahabr&utm_medium=rss",
@@ -499,9 +498,10 @@
     "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
     "https://www.chinatechnews.com/2026/10/01/129971-beijing-solicits-bids-for-major-quantum-hardware-initiative-to-accelerate-tech-autonomy",
     "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-    "https://www.scmp.com/tech/big-tech/article/3369354/anthropic-raises-alarm-over-elite-hacking-ability-chinese-firm-zais-glm-53?utm_source=rss_feed"
+    "https://www.scmp.com/tech/big-tech/article/3369354/anthropic-raises-alarm-over-elite-hacking-ability-chinese-firm-zais-glm-53?utm_source=rss_feed",
+    "https://huggingface.co/blog/open-tts-leaderboard"
   ],
   "ai_index": 16,
   "tech_index": 16,
-  "category": "ai"
+  "category": "tech"
 }
