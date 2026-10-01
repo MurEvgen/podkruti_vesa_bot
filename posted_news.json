@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
     "https://semiengineering.com/how-60-ghz-radar-improves-low-power-presence-sensing-in-iot-devices/",
     "https://habr.com/ru/companies/yandex_cloud_and_infra/articles/1084654/?utm_campaign=1084654&utm_source=habrahabr&utm_medium=rss",
     "https://semiengineering.com/how-robotics-and-intelligent-equipment-control-drive-next-gen-fab-productivity/",
@@ -499,9 +498,10 @@
     "https://www.ixbt.com/news/2026/10/02/439608-nvidia-vypustila-obnovlenie-dlia-gtx-1080-ti-i-drugix-staryx-videokart.html",
     "https://openai.com/index/the-eternal-complement",
     "https://www.chinatechnews.com/2026/10/02/130000-hikvision-fortifies-iot-security-protocols-as-western-sanctions-pressure-global-surveillance-giant",
-    "https://huggingface.co/blog/allenai/olmocore3"
+    "https://huggingface.co/blog/allenai/olmocore3",
+    "https://www.scmp.com/tech/tech-trends/article/3369466/china-leads-drone-patent-volume-us-matches-quality-start-ups-drive-innovation-study?utm_source=rss_feed"
   ],
-  "ai_index": 15,
-  "tech_index": 15,
-  "category": "tech"
+  "ai_index": 16,
+  "tech_index": 16,
+  "category": "ai"
 }
