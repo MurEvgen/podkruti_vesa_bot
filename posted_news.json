@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://hackaday.com/2026/09/20/a-bandpass-filter-pulls-in-the-signals/",
     "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
     "https://www.therobotreport.com/what-do-you-do-with-a-humanoid-robot-when-it-breaks-down/",
     "https://habr.com/ru/articles/1084410/?utm_campaign=1084410&utm_source=habrahabr&utm_medium=rss",
@@ -499,9 +498,10 @@
     "https://www.infoq.cn/article/M6BRTrsyJvUg8y0M0kyh?utm_source=rss&utm_medium=article",
     "https://www.ixbt.com/news/2026/10/01/439386-altman-i-amodei-propustiat-slusaniia-v-senate-avstralii-po-ii.html",
     "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-    "https://www.chinatechnews.com/2026/10/01/129971-beijing-solicits-bids-for-major-quantum-hardware-initiative-to-accelerate-tech-autonomy"
+    "https://www.chinatechnews.com/2026/10/01/129971-beijing-solicits-bids-for-major-quantum-hardware-initiative-to-accelerate-tech-autonomy",
+    "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/"
   ],
   "ai_index": 15,
   "tech_index": 15,
-  "category": "ai"
+  "category": "tech"
 }
