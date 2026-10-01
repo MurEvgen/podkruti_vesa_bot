@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
     "http://go.rss.sina.com.cn/redirect.php?url=http://tech.sina.com.cnhttps://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6915894.shtml",
     "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
     "https://36kr.com/p/3991565233257221?f=rss",
@@ -499,9 +498,10 @@
     "https://hackaday.com/2026/10/01/the-whole-computer-is-vim/",
     "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
     "https://www.therobotreport.com/anybotics-launches-shift-streamline-robot-fleet-operations-scale-autonomous-inspections/",
-    "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/"
+    "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
+    "https://semiengineering.com/the-hidden-challenges-of-edge-ai-design/"
   ],
-  "ai_index": 6,
-  "tech_index": 6,
-  "category": "tech"
+  "ai_index": 7,
+  "tech_index": 7,
+  "category": "ai"
 }
