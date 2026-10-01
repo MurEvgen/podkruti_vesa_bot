@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://habr.com/ru/companies/ru_mts/articles/1083898/?utm_campaign=1083898&utm_source=habrahabr&utm_medium=rss",
     "https://tech.eu/2026/09/21/european-tech-weekly-recap-over-eur17b-invested-across-70-deals/",
     "https://habr.com/ru/articles/1084578/?utm_campaign=1084578&utm_source=habrahabr&utm_medium=rss",
     "https://tech.eu/2026/09/21/newschool-vc-closes-eur10m-fund-i-to-back-early-stage-b2b-tech/",
@@ -499,9 +498,10 @@
     "https://www.tomshardware.com/desktops/mini-pcs/first-intel-panther-lake-mini-pc-cooled-with-solid-state-airjet-tech-operates-at-less-than-21-dba-aaeon-claims-its-fanless-up-xtreme-ptl-edge-air-is-also-slimmer-lighter-than-actively-cooled-rivals",
     "https://habr.com/ru/articles/1088780/?utm_campaign=1088780&utm_source=habrahabr&utm_medium=rss",
     "https://phys.org/news/2026-10-ultra-precise-coatings-power-generation.html",
-    "https://pandaily.com/aisphere-pixverse-r2-real-time-world-model-omni-causal-ar"
+    "https://pandaily.com/aisphere-pixverse-r2-real-time-world-model-omni-causal-ar",
+    "https://spectrum.ieee.org/electricity-theft"
   ],
-  "ai_index": 11,
-  "tech_index": 11,
-  "category": "tech"
+  "ai_index": 12,
+  "tech_index": 12,
+  "category": "ai"
 }
