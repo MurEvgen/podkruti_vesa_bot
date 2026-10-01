@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.infoq.cn/article/9jw1St7ULZijG8XNCWkW?utm_source=rss&utm_medium=article",
     "https://www.ixbt.com/news/2026/09/20/437169-google-i-blackstone-zapustili-crux-ai-novyi-operator-stroit-data-centry-dlia-tpu-na-milliardy-dollarov.html",
     "https://the-decoder.com/alibabas-open-weight-qwen-image-2-1-claims-to-beat-closed-models-in-image-generation-with-just-7-billion-parameters/",
     "https://www.chinatechnews.com/2026/09/21/129446-baidu-highlights-massive-ai-growth-in-latest-financial-report",
@@ -499,9 +498,10 @@
     "https://arstechnica.com/science/2026/09/dinosaur-killing-impact-crater-might-have-been-teeming-with-life/",
     "https://arxiv.org/abs/2609.38288",
     "https://tech.eu/2026/10/01/hostile-threat-warning-startup-osavul-raises-8-5m/",
-    "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/"
+    "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+    "https://www.theregister.com/public-sector/2026/10/01/sopra-steria-widens-legal-challenge-to-capitas-whitehall-outsourcing-deal/5300051"
   ],
-  "ai_index": 3,
-  "tech_index": 3,
-  "category": "tech"
+  "ai_index": 4,
+  "tech_index": 4,
+  "category": "ai"
 }
