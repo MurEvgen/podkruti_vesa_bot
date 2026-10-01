@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://36kr.com/p/3991565233257221?f=rss",
     "https://arxiv.org/abs/2609.20971",
     "https://www.ithome.com/1/005/148.htm",
     "https://arxiv.org/abs/2609.20974",
@@ -499,9 +498,10 @@
     "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
     "https://semiengineering.com/the-hidden-challenges-of-edge-ai-design/",
     "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
-    "https://www.eetimes.com/edge-computing-and-security-for-access-control-applications-getting-the-best-of-the-two-worlds/"
+    "https://www.eetimes.com/edge-computing-and-security-for-access-control-applications-getting-the-best-of-the-two-worlds/",
+    "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle"
   ],
   "ai_index": 8,
   "tech_index": 8,
-  "category": "ai"
+  "category": "tech"
 }
