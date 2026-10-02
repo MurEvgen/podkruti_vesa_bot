@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
     "https://www.theregister.com/ai-and-ml/2026/09/22/california-tightens-datacenter-rules-on-water-and-power/5298028",
     "https://habr.com/ru/articles/1084968/?utm_campaign=1084968&utm_source=habrahabr&utm_medium=rss",
     "https://hackaday.com/2026/09/21/a-computer-terminal-the-old-way/",
@@ -499,9 +498,10 @@
     "https://event.on24.com/wcc/r/5510255/64A1C3695631E727E756BFCA0490437A?utm_source=IEEE",
     "https://www.qbitai.com/2026/10/500098.html",
     "https://3dnews.ru/1149408",
-    "https://www.infoq.cn/article/eRbEA3dMd58RNPqp5D8S?utm_source=rss&utm_medium=article"
+    "https://www.infoq.cn/article/eRbEA3dMd58RNPqp5D8S?utm_source=rss&utm_medium=article",
+    "https://www.ixbt.com/news/2026/10/02/439784-predstavlen-toyota-grand-highlander-2027-osobo-vnedoroznaia-versiia-woodland-edition-s-polnym-privodom-i-vnedoroznymi-sinami-cut-doroze-50-tys-dollarov.html"
   ],
-  "ai_index": 13,
-  "tech_index": 13,
-  "category": "tech"
+  "ai_index": 14,
+  "tech_index": 14,
+  "category": "ai"
 }
