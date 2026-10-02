@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.qbitai.com/2026/09/493268.html",
     "https://3dnews.ru/1148809",
     "https://www.infoq.cn/video/fJe6qRKX70UqqCEDMRTK?utm_source=rss&utm_medium=article",
     "https://www.ixbt.com/news/2026/09/21/437406-naucnye-stati-prevratili-v-ii-agentov-kotorye-sami-vypolniaiut-opisannye-v-nix-issledovaniia.html",
@@ -499,9 +498,10 @@
     "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/",
     "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
     "https://arstechnica.com/science/2026/10/venus-mysterious-haze-is-actually-cosmic-dust/",
-    "https://arxiv.org/abs/2610.00010"
+    "https://arxiv.org/abs/2610.00010",
+    "https://tech.eu/2026/10/01/snyk-laid-off-over-200-employees-revenues-top-300m/"
   ],
-  "ai_index": 2,
-  "tech_index": 2,
-  "category": "tech"
+  "ai_index": 3,
+  "tech_index": 3,
+  "category": "ai"
 }
