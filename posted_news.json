@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
     "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
     "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
     "https://tech.eu/2026/09/22/gamindo-raises-eur14m-to-make-corporate-training-more-interactive/",
@@ -499,9 +498,10 @@
     "https://www.tomshardware.com/tech-industry/drones/flock-drones-with-cameras-deployed-as-first-responders-in-some-us-cities-amid-privacy-concerns-uavs-connect-to-wider-emergency-services-system-and-streams-video-to-dispatchers-officers",
     "https://habr.com/ru/articles/1089704/?utm_campaign=1089704&utm_source=habrahabr&utm_medium=rss",
     "https://phys.org/news/2026-10-natural-material-bricks-aim-urban.html",
-    "https://pandaily.com/leiphone-test-seedance-2-5-vs-kling-video-3-0-short-video"
+    "https://pandaily.com/leiphone-test-seedance-2-5-vs-kling-video-3-0-short-video",
+    "https://event.on24.com/wcc/r/5510255/64A1C3695631E727E756BFCA0490437A?utm_source=IEEE"
   ],
-  "ai_index": 11,
-  "tech_index": 11,
-  "category": "tech"
+  "ai_index": 12,
+  "tech_index": 12,
+  "category": "ai"
 }
