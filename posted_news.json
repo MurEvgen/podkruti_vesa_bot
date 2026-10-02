@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://habr.com/ru/companies/yandex_cloud_and_infra/articles/1084654/?utm_campaign=1084654&utm_source=habrahabr&utm_medium=rss",
     "https://semiengineering.com/how-robotics-and-intelligent-equipment-control-drive-next-gen-fab-productivity/",
     "https://habr.com/ru/companies/infostart/articles/1084708/?utm_campaign=1084708&utm_source=habrahabr&utm_medium=rss",
     "https://www.eetimes.com/highly-integrated-multibeam-beamformers-offer-swap-benefits-for-payload-phased-array-antennas/",
@@ -499,9 +498,10 @@
     "https://www.chinatechnews.com/2026/10/02/130000-hikvision-fortifies-iot-security-protocols-as-western-sanctions-pressure-global-surveillance-giant",
     "https://huggingface.co/blog/allenai/olmocore3",
     "https://www.scmp.com/tech/tech-trends/article/3369466/china-leads-drone-patent-volume-us-matches-quality-start-ups-drive-innovation-study?utm_source=rss_feed",
-    "https://the-decoder.com/nearly-half-of-test-subjects-mistook-tavus-ai-video-avatar-for-a-real-person-on-a-one-minute-call/"
+    "https://the-decoder.com/nearly-half-of-test-subjects-mistook-tavus-ai-video-avatar-for-a-real-person-on-a-one-minute-call/",
+    "http://go.rss.sina.com.cn/redirect.php?url=http://tech.sina.com.cnhttps://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6915894.shtml"
   ],
-  "ai_index": 16,
-  "tech_index": 16,
-  "category": "tech"
+  "ai_index": 17,
+  "tech_index": 17,
+  "category": "ai"
 }
