@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.infoq.cn/video/fJe6qRKX70UqqCEDMRTK?utm_source=rss&utm_medium=article",
     "https://www.ixbt.com/news/2026/09/21/437406-naucnye-stati-prevratili-v-ii-agentov-kotorye-sami-vypolniaiut-opisannye-v-nix-issledovaniia.html",
     "https://openai.com/index/advisory-group-on-mathematics-and-ai",
     "https://www.chinatechnews.com/2026/09/22/129462-chinese-tech-company-executive-tells-american-firms-to-shrink-teams",
@@ -499,9 +498,10 @@
     "https://arstechnica.com/science/2026/10/venus-mysterious-haze-is-actually-cosmic-dust/",
     "https://arxiv.org/abs/2610.00010",
     "https://tech.eu/2026/10/01/snyk-laid-off-over-200-employees-revenues-top-300m/",
-    "https://arxiv.org/abs/2610.00012"
+    "https://arxiv.org/abs/2610.00012",
+    "https://www.theregister.com/ai-and-ml/2026/10/02/pi-coding-agent-pulls-a-180-and-adds-mcp-support/5300678"
   ],
-  "ai_index": 3,
-  "tech_index": 3,
-  "category": "tech"
+  "ai_index": 4,
+  "tech_index": 4,
+  "category": "ai"
 }
