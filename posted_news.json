@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://hackaday.com/2026/09/21/a-computer-terminal-the-old-way/",
     "https://habr.com/ru/articles/1084984/?utm_campaign=1084984&utm_source=habrahabr&utm_medium=rss",
     "https://www.therobotreport.com/iac-completes-autonomous-racing-event-at-laguna-seca/",
     "https://habr.com/ru/articles/1085028/?utm_campaign=1085028&utm_source=habrahabr&utm_medium=rss",
@@ -499,9 +498,10 @@
     "https://www.infoq.cn/article/eRbEA3dMd58RNPqp5D8S?utm_source=rss&utm_medium=article",
     "https://www.ixbt.com/news/2026/10/02/439784-predstavlen-toyota-grand-highlander-2027-osobo-vnedoroznaia-versiia-woodland-edition-s-polnym-privodom-i-vnedoroznymi-sinami-cut-doroze-50-tys-dollarov.html",
     "https://openai.com/index/practical-guide-building-gpt-6",
-    "https://www.chinatechnews.com/2026/10/01/130163-semiconductor-equipment-giant-acm-research-shanghai-backlog-surges-88-as-ai-demand-accelerates"
+    "https://www.chinatechnews.com/2026/10/01/130163-semiconductor-equipment-giant-acm-research-shanghai-backlog-surges-88-as-ai-demand-accelerates",
+    "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/"
   ],
   "ai_index": 15,
   "tech_index": 15,
-  "category": "ai"
+  "category": "tech"
 }
