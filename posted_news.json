@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://36kr.com/p/3993831103347713?f=rss",
     "https://the-decoder.com/xai-launches-grok-4-7-at-bargain-prices-but-benchmarks-reveal-a-wide-gap-to-claude-and-gpt-6/",
     "https://www.ithome.com/1/005/529.htm",
     "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
@@ -499,9 +498,10 @@
     "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
     "https://semiengineering.com/the-proof-economy/",
     "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
-    "https://www.eetimes.com/continuous-health-monitoring-drives-integrated-wearable-system-design/"
+    "https://www.eetimes.com/continuous-health-monitoring-drives-integrated-wearable-system-design/",
+    "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed"
   ],
   "ai_index": 8,
   "tech_index": 8,
-  "category": "ai"
+  "category": "tech"
 }
