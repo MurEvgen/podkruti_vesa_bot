@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
     "https://www.scmp.com/tech/tech-war/article/3368281/ai-safety-fears-mount-can-us-china-hotline-prevent-global-crisis?utm_source=rss_feed",
     "https://huggingface.co/blog/tokenizers-v1",
     "https://36kr.com/p/3993338830486272?f=rss",
@@ -499,9 +498,10 @@
     "https://www.theregister.com/ai-and-ml/2026/10/02/pi-coding-agent-pulls-a-180-and-adds-mcp-support/5300678",
     "https://the-decoder.com/black-forest-labs-launches-flux-3-image-with-multi-step-editing-that-leaves-the-rest-of-your-picture-alone/",
     "https://hackaday.com/2026/10/02/the-game-boy-test-lab-provides-a-cartridge-sized-diagnostic-lab/",
-    "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/"
+    "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+    "https://www.therobotreport.com/top-10-robotics-stories-of-september-2026/"
   ],
-  "ai_index": 5,
-  "tech_index": 5,
-  "category": "tech"
+  "ai_index": 6,
+  "tech_index": 6,
+  "category": "ai"
 }
