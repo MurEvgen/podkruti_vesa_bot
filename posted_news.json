@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://habr.com/ru/companies/just_ai/articles/1084804/?utm_campaign=1084804&utm_source=habrahabr&utm_medium=rss",
     "https://www.extremetech.com/computing/googlebooks-launch-with-models-from-asus-acer-lenovo-dell-and-hp",
     "https://habr.com/ru/articles/1085146/?utm_campaign=1085146&utm_source=habrahabr&utm_medium=rss",
     "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-and-china-propose-hotline-to-de-escalate-ai-threats-ahead-of-washington-summit-comms-channel-between-both-nations-to-be-left-open-in-case-of-national-security-threats-posed-by-autonomous-artificial-intelligence",
@@ -499,9 +498,10 @@
     "https://www.ithome.com/1/009/373.htm",
     "https://the-decoder.com/ai-music-generator-suno-can-now-create-spoken-audio-with-matching-background-music/",
     "https://www.ithome.com/1/009/372.htm",
-    "https://the-decoder.com/anthropic-co-founder-reportedly-told-religious-leaders-he-fears-having-created-something-that-suffers-perpetually/"
+    "https://the-decoder.com/anthropic-co-founder-reportedly-told-religious-leaders-he-fears-having-created-something-that-suffers-perpetually/",
+    "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/"
   ],
-  "ai_index": 18,
-  "tech_index": 18,
-  "category": "tech"
+  "ai_index": 19,
+  "tech_index": 19,
+  "category": "ai"
 }
