@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data",
     "https://www.qbitai.com/2026/09/493268.html",
     "https://3dnews.ru/1148809",
     "https://www.infoq.cn/video/fJe6qRKX70UqqCEDMRTK?utm_source=rss&utm_medium=article",
@@ -499,9 +498,10 @@
     "https://openai.com/index/albertsons-reimagining-retail",
     "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/",
     "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-    "https://arstechnica.com/science/2026/10/venus-mysterious-haze-is-actually-cosmic-dust/"
+    "https://arstechnica.com/science/2026/10/venus-mysterious-haze-is-actually-cosmic-dust/",
+    "https://arxiv.org/abs/2610.00010"
   ],
   "ai_index": 2,
   "tech_index": 2,
-  "category": "ai"
+  "category": "tech"
 }
