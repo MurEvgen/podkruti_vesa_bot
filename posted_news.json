@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://semiengineering.com/chip-industry-technical-paper-roundup-sept-22/",
     "https://habr.com/ru/companies/first/articles/1084590/?utm_campaign=1084590&utm_source=habrahabr&utm_medium=rss",
     "https://www.eetimes.com/how-ai-is-accelerating-pcb-design-and-prototyping/",
     "https://habr.com/ru/companies/just_ai/articles/1084804/?utm_campaign=1084804&utm_source=habrahabr&utm_medium=rss",
@@ -499,9 +498,10 @@
     "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
     "https://www.scmp.com/tech/policy/article/3369617/whats-name-why-trump-wants-rebrand-ai-super-intelligence?utm_source=rss_feed",
     "https://huggingface.co/blog/allenai/astabrief",
-    "https://www.ithome.com/1/009/373.htm"
+    "https://www.ithome.com/1/009/373.htm",
+    "https://the-decoder.com/ai-music-generator-suno-can-now-create-spoken-audio-with-matching-background-music/"
   ],
   "ai_index": 17,
   "tech_index": 17,
-  "category": "ai"
+  "category": "tech"
 }
