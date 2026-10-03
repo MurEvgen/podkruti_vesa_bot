@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.qbitai.com/2026/09/493653.html",
     "https://spectrum.ieee.org/sustainability-robotics-barbara-mazzolai",
     "https://www.qbitai.com/2026/09/494263.html",
     "https://3dnews.ru/1148853",
@@ -499,9 +498,10 @@
     "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
     "https://openai.com/index/chatham-financial",
     "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
-    "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link"
+    "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+    "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/"
   ],
-  "ai_index": 1,
-  "tech_index": 1,
-  "category": "tech"
+  "ai_index": 2,
+  "tech_index": 2,
+  "category": "ai"
 }
