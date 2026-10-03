@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://3dnews.ru/1148853",
     "https://www.infoq.cn/article/rNHK14OsBl5CgSpMoTPq?utm_source=rss&utm_medium=article",
     "https://www.ixbt.com/news/2026/09/22/437600-rutube-podvel-letnie-itogi-polzovateli-stali-dolse-smotret-roliki.html",
     "https://huggingface.co/blog/transformers-llama-cpp-quants",
@@ -499,9 +498,10 @@
     "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
     "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
     "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
-    "https://tech.eu/2026/10/02/headline-closes-400m-fund-oura-delays-ipo-and-fedorov-launches-army-of-robots/"
+    "https://tech.eu/2026/10/02/headline-closes-400m-fund-oura-delays-ipo-and-fedorov-launches-army-of-robots/",
+    "https://habr.com/ru/articles/1089836/?utm_campaign=1089836&utm_source=habrahabr&utm_medium=rss"
   ],
   "ai_index": 3,
   "tech_index": 3,
-  "category": "ai"
+  "category": "tech"
 }
