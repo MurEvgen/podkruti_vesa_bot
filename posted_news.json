@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
     "http://www.geekpark.net/news/370797",
     "https://openai.com/index/better-prompt-caching-for-gpt-6",
     "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
@@ -499,9 +498,10 @@
     "https://www.eetimes.com/autosens-2026-regulations-drive-automotive-sensing-architectures/",
     "https://habr.com/ru/articles/1089882/?utm_campaign=1089882&utm_source=habrahabr&utm_medium=rss",
     "https://www.extremetech.com/computing/buying-an-rtx-5090-you-need-to-promise-you-wont-export-it-first",
-    "https://habr.com/ru/articles/1089890/?utm_campaign=1089890&utm_source=habrahabr&utm_medium=rss"
+    "https://habr.com/ru/articles/1089890/?utm_campaign=1089890&utm_source=habrahabr&utm_medium=rss",
+    "https://www.tomshardware.com/pc-components/hdds/toshiba-to-double-hdd-production-capacity-as-30tb-class-loom-65tb-100tb-drives-on-the-roadmap-for-2030-and-beyond"
   ],
-  "ai_index": 9,
-  "tech_index": 9,
-  "category": "tech"
+  "ai_index": 10,
+  "tech_index": 10,
+  "category": "ai"
 }
