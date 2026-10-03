@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.ixbt.com/news/2026/09/22/437600-rutube-podvel-letnie-itogi-polzovateli-stali-dolse-smotret-roliki.html",
     "https://huggingface.co/blog/transformers-llama-cpp-quants",
     "https://www.scmp.com/tech/tech-trends/article/3368417/chinas-hygon-moves-beyond-data-centres-embedded-processors-robotics-edge-ai?utm_source=rss_feed",
     "https://huggingface.co/blog/evaleval-aisi",
@@ -499,9 +498,10 @@
     "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
     "https://tech.eu/2026/10/02/headline-closes-400m-fund-oura-delays-ipo-and-fedorov-launches-army-of-robots/",
     "https://habr.com/ru/articles/1089836/?utm_campaign=1089836&utm_source=habrahabr&utm_medium=rss",
-    "https://www.theregister.com/software/2026/10/02/google-hearts-apples-swift-so-much-its-pumping-out-server-side-support/5300921"
+    "https://www.theregister.com/software/2026/10/02/google-hearts-apples-swift-so-much-its-pumping-out-server-side-support/5300921",
+    "https://habr.com/ru/companies/gigapisar/articles/1089818/?utm_campaign=1089818&utm_source=habrahabr&utm_medium=rss"
   ],
   "ai_index": 4,
   "tech_index": 4,
-  "category": "ai"
+  "category": "tech"
 }
