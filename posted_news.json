@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://the-decoder.com/openais-gpt-6-sol-and-luna-cut-prices-in-half-but-barely-move-the-needle-on-performance/",
     "https://www.ithome.com/1/006/011.htm",
     "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
     "http://www.geekpark.net/news/370797",
@@ -499,9 +498,10 @@
     "https://semiengineering.com/tracing-hardware-design-from-physical-devices-to-rtl-infineon-tu-munich/",
     "https://www.qbitai.com/2026/10/500148.html",
     "https://www.eetimes.com/autosens-2026-regulations-drive-automotive-sensing-architectures/",
-    "https://habr.com/ru/articles/1089882/?utm_campaign=1089882&utm_source=habrahabr&utm_medium=rss"
+    "https://habr.com/ru/articles/1089882/?utm_campaign=1089882&utm_source=habrahabr&utm_medium=rss",
+    "https://www.extremetech.com/computing/buying-an-rtx-5090-you-need-to-promise-you-wont-export-it-first"
   ],
-  "ai_index": 8,
-  "tech_index": 8,
-  "category": "tech"
+  "ai_index": 9,
+  "tech_index": 9,
+  "category": "ai"
 }
