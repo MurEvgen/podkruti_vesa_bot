@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://huggingface.co/blog/evaleval-aisi",
     "https://www.scmp.com/tech/tech-trends/article/3368404/chinas-huawei-trims-mobile-chip-gap-apple-tau-scaling-law-pays-bernstein?utm_source=rss_feed",
     "https://the-decoder.com/claude-opus-5-5-matches-fable-5-1-at-40-percent-lower-cost-as-anthropic-promises-to-fix-claudish-writing/",
     "https://36kr.com/p/3994316084214534?f=rss",
@@ -499,9 +498,10 @@
     "https://www.theregister.com/software/2026/10/02/google-hearts-apples-swift-so-much-its-pumping-out-server-side-support/5300921",
     "https://habr.com/ru/companies/gigapisar/articles/1089818/?utm_campaign=1089818&utm_source=habrahabr&utm_medium=rss",
     "https://hackaday.com/2026/10/02/2026-retrocomputing-challenge-lunar-lander-on-the-pdp-1/",
-    "https://pandaily.com/primebot-q1-t1-personal-robots-first-deliveries-national-day"
+    "https://pandaily.com/primebot-q1-t1-personal-robots-first-deliveries-national-day",
+    "https://www.therobotreport.com/inside-omrons-next-generation-ld-mobile-robots/"
   ],
-  "ai_index": 5,
-  "tech_index": 5,
-  "category": "tech"
+  "ai_index": 6,
+  "tech_index": 6,
+  "category": "ai"
 }
