@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://spectrum.ieee.org/sustainability-robotics-barbara-mazzolai",
     "https://www.qbitai.com/2026/09/494263.html",
     "https://3dnews.ru/1148853",
     "https://www.infoq.cn/article/rNHK14OsBl5CgSpMoTPq?utm_source=rss&utm_medium=article",
@@ -499,9 +498,10 @@
     "https://openai.com/index/chatham-financial",
     "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
     "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
-    "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/"
+    "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+    "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents"
   ],
   "ai_index": 2,
   "tech_index": 2,
-  "category": "ai"
+  "category": "tech"
 }
