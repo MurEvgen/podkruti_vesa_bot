@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://the-decoder.com/claude-opus-5-5-matches-fable-5-1-at-40-percent-lower-cost-as-anthropic-promises-to-fix-claudish-writing/",
     "https://36kr.com/p/3994316084214534?f=rss",
     "https://the-decoder.com/openai-calls-for-international-standards-on-ai-that-could-improve-itself/",
     "https://36kr.com/p/3994148400200706?f=rss",
@@ -499,9 +498,10 @@
     "https://hackaday.com/2026/10/02/2026-retrocomputing-challenge-lunar-lander-on-the-pdp-1/",
     "https://pandaily.com/primebot-q1-t1-personal-robots-first-deliveries-national-day",
     "https://www.therobotreport.com/inside-omrons-next-generation-ld-mobile-robots/",
-    "https://www.qbitai.com/2026/10/501368.html"
+    "https://www.qbitai.com/2026/10/501368.html",
+    "https://semiengineering.com/tracing-hardware-design-from-physical-devices-to-rtl-infineon-tu-munich/"
   ],
-  "ai_index": 6,
-  "tech_index": 6,
-  "category": "tech"
+  "ai_index": 7,
+  "tech_index": 7,
+  "category": "ai"
 }
