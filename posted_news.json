@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "http://www.geekpark.net/news/370797",
     "https://openai.com/index/better-prompt-caching-for-gpt-6",
     "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
     "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
@@ -499,9 +498,10 @@
     "https://habr.com/ru/articles/1089882/?utm_campaign=1089882&utm_source=habrahabr&utm_medium=rss",
     "https://www.extremetech.com/computing/buying-an-rtx-5090-you-need-to-promise-you-wont-export-it-first",
     "https://habr.com/ru/articles/1089890/?utm_campaign=1089890&utm_source=habrahabr&utm_medium=rss",
-    "https://www.tomshardware.com/pc-components/hdds/toshiba-to-double-hdd-production-capacity-as-30tb-class-loom-65tb-100tb-drives-on-the-roadmap-for-2030-and-beyond"
+    "https://www.tomshardware.com/pc-components/hdds/toshiba-to-double-hdd-production-capacity-as-30tb-class-loom-65tb-100tb-drives-on-the-roadmap-for-2030-and-beyond",
+    "https://habr.com/ru/articles/1089894/?utm_campaign=1089894&utm_source=habrahabr&utm_medium=rss"
   ],
   "ai_index": 10,
   "tech_index": 10,
-  "category": "ai"
+  "category": "tech"
 }
