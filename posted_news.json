@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://the-decoder.com/openai-calls-for-international-standards-on-ai-that-could-improve-itself/",
     "https://36kr.com/p/3994148400200706?f=rss",
     "https://the-decoder.com/openais-gpt-6-sol-and-luna-cut-prices-in-half-but-barely-move-the-needle-on-performance/",
     "https://www.ithome.com/1/006/011.htm",
@@ -499,9 +498,10 @@
     "https://www.therobotreport.com/inside-omrons-next-generation-ld-mobile-robots/",
     "https://www.qbitai.com/2026/10/501368.html",
     "https://semiengineering.com/tracing-hardware-design-from-physical-devices-to-rtl-infineon-tu-munich/",
-    "https://www.qbitai.com/2026/10/500148.html"
+    "https://www.qbitai.com/2026/10/500148.html",
+    "https://www.eetimes.com/autosens-2026-regulations-drive-automotive-sensing-architectures/"
   ],
-  "ai_index": 7,
-  "tech_index": 7,
-  "category": "tech"
+  "ai_index": 8,
+  "tech_index": 8,
+  "category": "ai"
 }
