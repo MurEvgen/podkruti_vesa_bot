@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://arxiv.org/abs/2609.22161",
     "https://hackaday.com/2026/09/22/why-raindrops-make-for-pretty-good-antennae/",
     "https://arxiv.org/abs/2609.22277",
     "https://www.therobotreport.com/intel-discusses-infrastructure-needed-to-scale-physical-ai-robobusiness/",
@@ -499,9 +498,10 @@
     "https://3dnews.ru/1149434",
     "https://www.infoq.cn/article/KXmob0H9RXKmJxIlcAaA?utm_source=rss&utm_medium=article",
     "https://www.ixbt.com/news/2026/10/04/440175-ucenye-sozdali-samuiu-detalnuiu-simuliaciiu-rannego-mlecnogo-puti-i-obnaruzili-galaktiki-kotorye-svetiatsia-bez-zvezd.html",
-    "https://huggingface.co/blog/microsoft/thinkingbox"
+    "https://huggingface.co/blog/microsoft/thinkingbox",
+    "https://www.chinatechnews.com/2026/10/05/130281-tencent-secures-7-billion-oracle-cloud-deal-to-access-ai-chips-deepening-u-s-china-tech-coupling"
   ],
-  "ai_index": 14,
-  "tech_index": 14,
-  "category": "tech"
+  "ai_index": 15,
+  "tech_index": 15,
+  "category": "ai"
 }
