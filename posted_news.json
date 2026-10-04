@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://arxiv.org/abs/2609.22277",
     "https://www.therobotreport.com/intel-discusses-infrastructure-needed-to-scale-physical-ai-robobusiness/",
     "https://arxiv.org/abs/2609.25010",
     "https://semiengineering.com/wafer-scale-sub-5nm-channel-monolayer-mos2-transistors-cmu-uf-mit-et-al/",
@@ -499,9 +498,10 @@
     "https://www.ixbt.com/news/2026/10/04/440175-ucenye-sozdali-samuiu-detalnuiu-simuliaciiu-rannego-mlecnogo-puti-i-obnaruzili-galaktiki-kotorye-svetiatsia-bez-zvezd.html",
     "https://huggingface.co/blog/microsoft/thinkingbox",
     "https://www.chinatechnews.com/2026/10/05/130281-tencent-secures-7-billion-oracle-cloud-deal-to-access-ai-chips-deepening-u-s-china-tech-coupling",
-    "https://the-decoder.com/trump-launches-super-intelligence-force-that-has-nothing-to-do-with-actual-superintelligence/"
+    "https://the-decoder.com/trump-launches-super-intelligence-force-that-has-nothing-to-do-with-actual-superintelligence/",
+    "https://www.scmp.com/opinion/world-opinion/article/3369516/dario-amodeis-american-ai-imperialism?utm_source=rss_feed"
   ],
-  "ai_index": 15,
-  "tech_index": 15,
-  "category": "tech"
+  "ai_index": 16,
+  "tech_index": 16,
+  "category": "ai"
 }
