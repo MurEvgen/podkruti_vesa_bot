@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://36kr.com/p/3995880197230724?f=rss",
     "https://the-decoder.com/youtube-adds-ai-tools-to-creator-studio-with-script-coaching-smart-thumbnails-and-gemini-editing/",
     "https://www.ithome.com/1/006/509.htm",
     "https://arxiv.org/abs/2609.25013",
@@ -499,9 +498,10 @@
     "https://habr.com/ru/companies/ruvds/articles/1089694/?utm_campaign=1089694&utm_source=habrahabr&utm_medium=rss",
     "https://semiengineering.com/the-agentic-ai-supercycle/",
     "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
-    "https://www.eetimes.com/electric-car-makers-need-to-appeal-to-the-other-90/"
+    "https://www.eetimes.com/electric-car-makers-need-to-appeal-to-the-other-90/",
+    "https://habr.com/ru/articles/1090488/?utm_campaign=1090488&utm_source=habrahabr&utm_medium=rss"
   ],
   "ai_index": 8,
   "tech_index": 8,
-  "category": "ai"
+  "category": "tech"
 }
