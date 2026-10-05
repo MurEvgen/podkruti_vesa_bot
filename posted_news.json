@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
     "https://www.scmp.com/tech/article/3368525/trump-offloads-tens-millions-ai-tech-shares-led-microsoft-amazon-meta?utm_source=rss_feed",
     "https://huggingface.co/blog/nvidia/nemotron-diarization",
     "https://www.scmp.com/tech/tech-trends/article/3368535/chinas-storage-makers-aim-climb-value-chain-advanced-packaging-bets?utm_source=rss_feed",
@@ -499,9 +498,10 @@
     "https://tech.eu/2026/10/04/germany-funds-tens-of-thousands-of-interceptor-drones-as-quantum-systems-scales-in-ukraine/",
     "https://habr.com/ru/articles/1090298/?utm_campaign=1090298&utm_source=habrahabr&utm_medium=rss",
     "https://www.theregister.com/networks/2026/10/05/buyer-missed-one-option-and-got-1-of-the-cable-they-needed/5300739",
-    "https://habr.com/ru/articles/1090338/?utm_campaign=1090338&utm_source=habrahabr&utm_medium=rss"
+    "https://habr.com/ru/articles/1090338/?utm_campaign=1090338&utm_source=habrahabr&utm_medium=rss",
+    "https://hackaday.com/2026/10/05/conveyor-belt-gboard-brings-the-keys-to-you/"
   ],
-  "ai_index": 4,
-  "tech_index": 4,
-  "category": "tech"
+  "ai_index": 5,
+  "tech_index": 5,
+  "category": "ai"
 }
