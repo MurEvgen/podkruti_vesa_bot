@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
     "https://www.extremetech.com/mobile/iphone-18-pros-new-variable-aperture-camera-is-unrepairable-per-ifixit",
     "https://habr.com/ru/articles/1085494/?utm_campaign=1085494&utm_source=habrahabr&utm_medium=rss",
     "https://www.tomshardware.com/pc-components/microsd-cards/beat-the-switch-2-storage-crisis-with-this-usd99-512gb-microsd-express-card-amazon-deal-slashes-33-percent-off-high-performance-samsung-p9",
@@ -499,9 +498,10 @@
     "https://www.ithome.com/1/009/741.htm",
     "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
     "https://www.ithome.com/1/009/751.htm",
-    "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/"
+    "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+    "https://arstechnica.com/science/2026/10/lions-and-cheetahs-and-chimps-oh-my-a-spotlight-on-africas-diverse-wildlife/"
   ],
-  "ai_index": 18,
-  "tech_index": 18,
-  "category": "tech"
+  "ai_index": 19,
+  "tech_index": 19,
+  "category": "ai"
 }
