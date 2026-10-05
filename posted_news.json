@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://pandaily.com/zhipu-zcode-open-source-repo-wiki-fix-maas-no-retention",
     "https://spectrum.ieee.org/spain-astronaut-ieee-honorary-member",
     "https://www.qbitai.com/2026/09/496578.html",
     "https://3dnews.ru/1148903",
@@ -499,9 +498,10 @@
     "http://www.geekpark.net/news/372082",
     "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
     "https://arstechnica.com/science/2026/10/all-hail-electrification-but-lets-talk-about-the-hard-part/",
-    "https://arxiv.org/abs/2610.02260"
+    "https://arxiv.org/abs/2610.02260",
+    "https://arstechnica.com/science/2026/10/new-forensice-evidence-supports-egyptian-retainer-sacrifice/"
   ],
-  "ai_index": 1,
-  "tech_index": 1,
-  "category": "tech"
+  "ai_index": 2,
+  "tech_index": 2,
+  "category": "ai"
 }
