@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.scmp.com/tech/article/3368525/trump-offloads-tens-millions-ai-tech-shares-led-microsoft-amazon-meta?utm_source=rss_feed",
     "https://huggingface.co/blog/nvidia/nemotron-diarization",
     "https://www.scmp.com/tech/tech-trends/article/3368535/chinas-storage-makers-aim-climb-value-chain-advanced-packaging-bets?utm_source=rss_feed",
     "https://the-decoder.com/nvidia-backed-nscale-keeps-its-biggest-customer-bytedance-out-of-its-ipo-filing/",
@@ -499,9 +498,10 @@
     "https://habr.com/ru/articles/1090298/?utm_campaign=1090298&utm_source=habrahabr&utm_medium=rss",
     "https://www.theregister.com/networks/2026/10/05/buyer-missed-one-option-and-got-1-of-the-cable-they-needed/5300739",
     "https://habr.com/ru/articles/1090338/?utm_campaign=1090338&utm_source=habrahabr&utm_medium=rss",
-    "https://hackaday.com/2026/10/05/conveyor-belt-gboard-brings-the-keys-to-you/"
+    "https://hackaday.com/2026/10/05/conveyor-belt-gboard-brings-the-keys-to-you/",
+    "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/"
   ],
   "ai_index": 5,
   "tech_index": 5,
-  "category": "ai"
+  "category": "tech"
 }
