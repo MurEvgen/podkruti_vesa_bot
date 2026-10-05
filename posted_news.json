@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.eetimes.com/canadian-startup-sees-success-in-space-qualification/",
     "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
     "https://www.extremetech.com/mobile/iphone-18-pros-new-variable-aperture-camera-is-unrepairable-per-ifixit",
     "https://habr.com/ru/articles/1085494/?utm_campaign=1085494&utm_source=habrahabr&utm_medium=rss",
@@ -499,9 +498,10 @@
     "https://the-decoder.com/google-researchers-find-a-way-to-keep-self-improving-ai-agents-from-memorizing-their-tests/",
     "https://www.ithome.com/1/009/741.htm",
     "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-    "https://www.ithome.com/1/009/751.htm"
+    "https://www.ithome.com/1/009/751.htm",
+    "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/"
   ],
   "ai_index": 18,
   "tech_index": 18,
-  "category": "ai"
+  "category": "tech"
 }
