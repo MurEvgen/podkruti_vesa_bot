@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://the-decoder.com/anthropic-engineer-explains-why-claudes-writing-got-worse-although-the-model-got-smarter/",
     "https://36kr.com/p/3995880197230724?f=rss",
     "https://the-decoder.com/youtube-adds-ai-tools-to-creator-studio-with-script-coaching-smart-thumbnails-and-gemini-editing/",
     "https://www.ithome.com/1/006/509.htm",
@@ -499,9 +498,10 @@
     "https://www.therobotreport.com/how-robotics-physical-ai-can-responsibly-tackle-key-physical-security-challenges/",
     "https://habr.com/ru/companies/ruvds/articles/1089694/?utm_campaign=1089694&utm_source=habrahabr&utm_medium=rss",
     "https://semiengineering.com/the-agentic-ai-supercycle/",
-    "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought"
+    "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
+    "https://www.eetimes.com/electric-car-makers-need-to-appeal-to-the-other-90/"
   ],
-  "ai_index": 7,
-  "tech_index": 7,
-  "category": "tech"
+  "ai_index": 8,
+  "tech_index": 8,
+  "category": "ai"
 }
