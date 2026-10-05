@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://hackaday.com/2026/09/23/modern-usb-controllers-on-win98-and-up/",
     "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
     "https://www.therobotreport.com/new-ventuno-q-board-arduino-hopes-make-robotics-development-easier/",
     "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
@@ -499,9 +498,10 @@
     "https://www.infoq.cn/article/8lQVsmY9e7zdJsKcfPzE?utm_source=rss&utm_medium=article",
     "https://www.ixbt.com/news/2026/10/05/440431-predstavlena-toyota-corolla-cross-2027.html",
     "https://openai.com/index/eu-text-provenance",
-    "https://www.chinatechnews.com/2026/10/06/130277-commercial-space-sector-in-china-hits-record-launch-cadence-as-military-dual-use-strategy-drives-mass-constellation-surge"
+    "https://www.chinatechnews.com/2026/10/06/130277-commercial-space-sector-in-china-hits-record-launch-cadence-as-military-dual-use-strategy-drives-mass-constellation-surge",
+    "https://the-decoder.com/meta-and-microsoft-pull-back-from-claude-as-anthropic-transforms-from-partner-into-competitor/"
   ],
   "ai_index": 15,
   "tech_index": 15,
-  "category": "ai"
+  "category": "tech"
 }
