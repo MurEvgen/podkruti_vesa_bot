@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://the-decoder.com/nvidia-backed-nscale-keeps-its-biggest-customer-bytedance-out-of-its-ipo-filing/",
     "https://36kr.com/p/3996102074290305?f=rss",
     "https://the-decoder.com/anthropic-engineer-explains-why-claudes-writing-got-worse-although-the-model-got-smarter/",
     "https://36kr.com/p/3995880197230724?f=rss",
@@ -499,9 +498,10 @@
     "https://hackaday.com/2026/10/05/conveyor-belt-gboard-brings-the-keys-to-you/",
     "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
     "https://www.therobotreport.com/how-robotics-physical-ai-can-responsibly-tackle-key-physical-security-challenges/",
-    "https://habr.com/ru/companies/ruvds/articles/1089694/?utm_campaign=1089694&utm_source=habrahabr&utm_medium=rss"
+    "https://habr.com/ru/companies/ruvds/articles/1089694/?utm_campaign=1089694&utm_source=habrahabr&utm_medium=rss",
+    "https://semiengineering.com/the-agentic-ai-supercycle/"
   ],
-  "ai_index": 6,
-  "tech_index": 6,
-  "category": "tech"
+  "ai_index": 7,
+  "tech_index": 7,
+  "category": "ai"
 }
