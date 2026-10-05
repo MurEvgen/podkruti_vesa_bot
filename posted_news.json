@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://spectrum.ieee.org/spain-astronaut-ieee-honorary-member",
     "https://www.qbitai.com/2026/09/496578.html",
     "https://3dnews.ru/1148903",
     "https://www.infoq.cn/article/2FFH5EHF2SMusaYQhjlX?utm_source=rss&utm_medium=article",
@@ -499,9 +498,10 @@
     "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
     "https://arstechnica.com/science/2026/10/all-hail-electrification-but-lets-talk-about-the-hard-part/",
     "https://arxiv.org/abs/2610.02260",
-    "https://arstechnica.com/science/2026/10/new-forensice-evidence-supports-egyptian-retainer-sacrifice/"
+    "https://arstechnica.com/science/2026/10/new-forensice-evidence-supports-egyptian-retainer-sacrifice/",
+    "https://arxiv.org/abs/2610.02267"
   ],
   "ai_index": 2,
   "tech_index": 2,
-  "category": "ai"
+  "category": "tech"
 }
