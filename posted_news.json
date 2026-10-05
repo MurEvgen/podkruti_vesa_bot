@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://huggingface.co/blog/nvidia/nemotron-diarization",
     "https://www.scmp.com/tech/tech-trends/article/3368535/chinas-storage-makers-aim-climb-value-chain-advanced-packaging-bets?utm_source=rss_feed",
     "https://the-decoder.com/nvidia-backed-nscale-keeps-its-biggest-customer-bytedance-out-of-its-ipo-filing/",
     "https://36kr.com/p/3996102074290305?f=rss",
@@ -499,9 +498,10 @@
     "https://www.theregister.com/networks/2026/10/05/buyer-missed-one-option-and-got-1-of-the-cable-they-needed/5300739",
     "https://habr.com/ru/articles/1090338/?utm_campaign=1090338&utm_source=habrahabr&utm_medium=rss",
     "https://hackaday.com/2026/10/05/conveyor-belt-gboard-brings-the-keys-to-you/",
-    "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/"
+    "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+    "https://www.therobotreport.com/how-robotics-physical-ai-can-responsibly-tackle-key-physical-security-challenges/"
   ],
-  "ai_index": 5,
-  "tech_index": 5,
-  "category": "tech"
+  "ai_index": 6,
+  "tech_index": 6,
+  "category": "ai"
 }
