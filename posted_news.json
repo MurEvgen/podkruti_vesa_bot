@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
     "https://arstechnica.com/tech-policy/2026/09/discord-age-verification-rolls-out-today-with-changes-spurred-by-user-backlash/",
     "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
     "https://tech.eu/2026/09/23/bird-raises-450m-in-debt-headcount-cut-from-1000-to-120/",
@@ -499,9 +498,10 @@
     "https://www.tomshardware.com/tech-industry/data-centers/tencent-scores-100-000-offshore-ai-chip-deal-with-oracle-for-usd7-billion-despite-climbing-prices-per-hour-costs-estimated-to-be-43-percent-under-standard-h100-rental-rates",
     "https://habr.com/ru/companies/timeweb/articles/1086958/?utm_campaign=1086958&utm_source=habrahabr&utm_medium=rss",
     "https://phys.org/news/2026-10-nanoscale-electromechanical-properties-ceramics.html",
-    "https://pandaily.com/china-huadian-mulei-xinjiang-100mw-compressed-co2-energy-storage-grid-connected"
+    "https://pandaily.com/china-huadian-mulei-xinjiang-100mw-compressed-co2-energy-storage-grid-connected",
+    "https://spectrum.ieee.org/smart-car-researcher-eliminate-stoplights"
   ],
-  "ai_index": 11,
-  "tech_index": 11,
-  "category": "tech"
+  "ai_index": 12,
+  "tech_index": 12,
+  "category": "ai"
 }
