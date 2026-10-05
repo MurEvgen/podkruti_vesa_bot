@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://semiengineering.com/wafer-scale-sub-5nm-channel-monolayer-mos2-transistors-cmu-uf-mit-et-al/",
     "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
     "https://www.eetimes.com/canadian-startup-sees-success-in-space-qualification/",
     "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
@@ -499,9 +498,10 @@
     "https://the-decoder.com/trump-launches-super-intelligence-force-that-has-nothing-to-do-with-actual-superintelligence/",
     "https://www.scmp.com/opinion/world-opinion/article/3369516/dario-amodeis-american-ai-imperialism?utm_source=rss_feed",
     "https://the-decoder.com/google-researchers-find-a-way-to-keep-self-improving-ai-agents-from-memorizing-their-tests/",
-    "https://www.ithome.com/1/009/741.htm"
+    "https://www.ithome.com/1/009/741.htm",
+    "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/"
   ],
   "ai_index": 17,
   "tech_index": 17,
-  "category": "ai"
+  "category": "tech"
 }
