@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.qbitai.com/2026/09/496779.html",
     "https://3dnews.ru/1148949",
     "https://www.infoq.cn/video/P6mBiPWbwZIIpWpUVcOa?utm_source=rss&utm_medium=article",
     "https://www.ixbt.com/news/2026/09/24/438011-pervaia-v-mire-stanciia-zameny-batarei-kotoraia-polnostiu-rabotaet-ot-energii-solnca-otkryta-v-pustyne-gobi.html",
@@ -499,9 +498,10 @@
     "https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/",
     "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
     "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
-    "https://arxiv.org/abs/2610.03872"
+    "https://arxiv.org/abs/2610.03872",
+    "https://tech.eu/2026/10/05/namespace-raises-42m-ssries-b-seven-months-after-series-a/"
   ],
-  "ai_index": 2,
-  "tech_index": 2,
-  "category": "tech"
+  "ai_index": 3,
+  "tech_index": 3,
+  "category": "ai"
 }
