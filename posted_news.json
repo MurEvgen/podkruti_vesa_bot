@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://neurohive.io/ru/papers/obvyazka-ii-agentov-metod-rrsi-ot-google-dajot-do-4-7-punkta-na-neznakomyh-benchmarkah/",
     "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-brings-snapdragon-x2-plus-to-13-inch-surface-laptop-12-inch-surface-pro-low-end-systems-finally-get-upgrades",
     "https://habr.com/ru/articles/1085916/?utm_campaign=1085916&utm_source=habrahabr&utm_medium=rss",
     "https://phys.org/news/2026-09-aerial-reveal-successful-woodland-expansion.html",
@@ -499,9 +498,10 @@
     "https://www.ithome.com/1/009/921.htm",
     "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
     "https://www.ithome.com/1/009/934.htm",
-    "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/"
+    "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+    "http://www.geekpark.net/news/372086"
   ],
-  "ai_index": 19,
-  "tech_index": 19,
-  "category": "tech"
+  "ai_index": 0,
+  "tech_index": 0,
+  "category": "ai"
 }
