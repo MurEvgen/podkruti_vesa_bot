@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://the-decoder.com/black-forest-labs-launches-flux-3-action-an-open-robotics-ai-model/",
     "https://www.theregister.com/security/2026/09/24/decades-old-file-security-flaws-found-in-android-linux-macos-and-windows/5298672",
     "https://the-decoder.com/sakana-ai-hires-jurgen-schmidhuber-inventor-of-deep-learning-world-models-and-your-next-chatgpt-update/",
     "https://hackaday.com/2026/09/24/handheld-scanner-is-a-radio-multi-tool/",
@@ -499,9 +498,10 @@
     "https://spectrum.ieee.org/ieee-day",
     "https://www.qbitai.com/2026/10/501746.html",
     "https://3dnews.ru/1149528",
-    "https://www.infoq.cn/article/seZbK4mHm40juM4vmaDy?utm_source=rss&utm_medium=article"
+    "https://www.infoq.cn/article/seZbK4mHm40juM4vmaDy?utm_source=rss&utm_medium=article",
+    "https://www.ixbt.com/news/2026/10/06/440631-uaz-patriot-polucit-elektronnuiu-imitaciiu-blokirovki-differenciala.html"
   ],
-  "ai_index": 13,
-  "tech_index": 13,
-  "category": "tech"
+  "ai_index": 14,
+  "tech_index": 14,
+  "category": "ai"
 }
