@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://36kr.com/p/3995480853204870?f=rss",
     "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
     "https://36kr.com/p/3996805864312961?f=rss",
     "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data",
@@ -499,9 +498,10 @@
     "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
     "https://www.therobotreport.com/teradyne-invests-ibright-machines-brings-robotics-ai-infrastructure-manufacturing/",
     "https://habr.com/ru/articles/1090856/?utm_campaign=1090856&utm_source=habrahabr&utm_medium=rss",
-    "https://semiengineering.com/chip-industry-technical-paper-roundup-oct-6/"
+    "https://semiengineering.com/chip-industry-technical-paper-roundup-oct-6/",
+    "https://habr.com/ru/articles/1089998/?utm_campaign=1089998&utm_source=habrahabr&utm_medium=rss"
   ],
   "ai_index": 7,
   "tech_index": 7,
-  "category": "ai"
+  "category": "tech"
 }
