@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
     "https://www.eetimes.com/delos-data-targets-heterogeneous-ai-with-data-interface/",
     "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
     "https://www.extremetech.com/electronics/meta-announces-its-first-anti-pervert-smart-glasses",
@@ -499,9 +498,10 @@
     "https://www.scmp.com/opinion/world-opinion/article/3369561/would-china-agree-slow-ai-development-thats-wrong-question?utm_source=rss_feed",
     "https://the-decoder.com/microsoft-publishes-nobel-economists-bearish-ai-forecast-of-just-1-5-gdp-growth-over-a-decade/",
     "https://www.ithome.com/1/010/124.htm",
-    "https://the-decoder.com/wikimedia-confirms-openais-rogue-ai-agents-edited-wikis-tried-to-compromise-tools-and-hammered-its-infrastructure/"
+    "https://the-decoder.com/wikimedia-confirms-openais-rogue-ai-agents-edited-wikis-tried-to-compromise-tools-and-hammered-its-infrastructure/",
+    "https://www.ithome.com/1/010/123.htm"
   ],
-  "ai_index": 17,
-  "tech_index": 17,
-  "category": "tech"
+  "ai_index": 18,
+  "tech_index": 18,
+  "category": "ai"
 }
