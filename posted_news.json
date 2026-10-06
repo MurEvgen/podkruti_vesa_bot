@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
     "https://semiengineering.com/a-network-on-chip-noc-for-multi-die-devices/",
     "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
     "https://www.eetimes.com/delos-data-targets-heterogeneous-ai-with-data-interface/",
@@ -499,9 +498,10 @@
     "https://www.chinatechnews.com/2026/10/06/130431-chinese-policy-analyst-attacks-americas-new-super-intelligence",
     "https://the-decoder.com/insurers-brace-for-millions-in-claims-as-ai-agents-spin-out-of-control/",
     "https://www.scmp.com/opinion/world-opinion/article/3369561/would-china-agree-slow-ai-development-thats-wrong-question?utm_source=rss_feed",
-    "https://the-decoder.com/microsoft-publishes-nobel-economists-bearish-ai-forecast-of-just-1-5-gdp-growth-over-a-decade/"
+    "https://the-decoder.com/microsoft-publishes-nobel-economists-bearish-ai-forecast-of-just-1-5-gdp-growth-over-a-decade/",
+    "https://www.ithome.com/1/010/124.htm"
   ],
-  "ai_index": 16,
-  "tech_index": 16,
-  "category": "tech"
+  "ai_index": 17,
+  "tech_index": 17,
+  "category": "ai"
 }
