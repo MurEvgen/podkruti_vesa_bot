@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.therobotreport.com/why-you-should-look-beyond-spec-sheet-when-choosing-motion-architecture/",
     "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
     "https://semiengineering.com/a-network-on-chip-noc-for-multi-die-devices/",
     "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
@@ -499,9 +498,10 @@
     "https://huggingface.co/blog/tiiuae/falcon-emirati",
     "https://www.chinatechnews.com/2026/10/06/130431-chinese-policy-analyst-attacks-americas-new-super-intelligence",
     "https://the-decoder.com/insurers-brace-for-millions-in-claims-as-ai-agents-spin-out-of-control/",
-    "https://www.scmp.com/opinion/world-opinion/article/3369561/would-china-agree-slow-ai-development-thats-wrong-question?utm_source=rss_feed"
+    "https://www.scmp.com/opinion/world-opinion/article/3369561/would-china-agree-slow-ai-development-thats-wrong-question?utm_source=rss_feed",
+    "https://the-decoder.com/microsoft-publishes-nobel-economists-bearish-ai-forecast-of-just-1-5-gdp-growth-over-a-decade/"
   ],
   "ai_index": 16,
   "tech_index": 16,
-  "category": "ai"
+  "category": "tech"
 }
