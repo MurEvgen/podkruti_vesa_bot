@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
     "https://www.scmp.com/business/companies/article/3368665/us-regulators-back-multi-cancer-blood-test-hong-kong-doctors-remain-cautious?utm_source=rss_feed",
     "https://the-decoder.com/googles-new-flash-tts-models-let-you-design-ai-voices-from-scratch-using-text-descriptions/",
     "https://36kr.com/p/3995480853204870?f=rss",
@@ -499,9 +498,10 @@
     "https://www.theregister.com/offbeat/2026/10/06/security-researcher-claims-they-found-kvm-guest-host-escape-flaw/5301267",
     "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
     "https://hackaday.com/2026/10/05/two-microcontrollers-talking-all-it-needs-is-an-led/",
-    "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions"
+    "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
+    "https://www.therobotreport.com/teradyne-invests-ibright-machines-brings-robotics-ai-infrastructure-manufacturing/"
   ],
-  "ai_index": 5,
-  "tech_index": 5,
-  "category": "tech"
+  "ai_index": 6,
+  "tech_index": 6,
+  "category": "ai"
 }
