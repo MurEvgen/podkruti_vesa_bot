@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.theregister.com/security/2026/09/24/decades-old-file-security-flaws-found-in-android-linux-macos-and-windows/5298672",
     "https://the-decoder.com/sakana-ai-hires-jurgen-schmidhuber-inventor-of-deep-learning-world-models-and-your-next-chatgpt-update/",
     "https://hackaday.com/2026/09/24/handheld-scanner-is-a-radio-multi-tool/",
     "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
@@ -499,9 +498,10 @@
     "https://www.qbitai.com/2026/10/501746.html",
     "https://3dnews.ru/1149528",
     "https://www.infoq.cn/article/seZbK4mHm40juM4vmaDy?utm_source=rss&utm_medium=article",
-    "https://www.ixbt.com/news/2026/10/06/440631-uaz-patriot-polucit-elektronnuiu-imitaciiu-blokirovki-differenciala.html"
+    "https://www.ixbt.com/news/2026/10/06/440631-uaz-patriot-polucit-elektronnuiu-imitaciiu-blokirovki-differenciala.html",
+    "https://huggingface.co/blog/tiiuae/falcon-emirati"
   ],
   "ai_index": 14,
   "tech_index": 14,
-  "category": "ai"
+  "category": "tech"
 }
