@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.tomshardware.com/tech-industry/artificial-intelligence/australian-pm-says-openai-took-84-days-to-email-agency-after-agent-hacked-its-national-health-care-portal-incident-is-believed-to-be-the-first-known-case-of-ai-breaching-a-government-site",
     "https://habr.com/ru/articles/1086426/?utm_campaign=1086426&utm_source=habrahabr&utm_medium=rss",
     "https://phys.org/news/2026-09-qa-grasslands-diverse-landscapes-drought.html",
     "https://pandaily.com/iflytek-spark-asr-2-0-noise-dialect-code-switch",
@@ -499,9 +498,10 @@
     "https://the-decoder.com/google-claims-embeddinggemma-2-outperforms-rival-embedding-models-twice-its-size/",
     "http://www.geekpark.net/news/372087",
     "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
-    "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/"
+    "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/",
+    "https://openai.com/index/advancing-computer-use-with-ironclad"
   ],
   "ai_index": 0,
   "tech_index": 0,
-  "category": "ai"
+  "category": "tech"
 }
