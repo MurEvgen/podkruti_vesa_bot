@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.scmp.com/business/companies/article/3368665/us-regulators-back-multi-cancer-blood-test-hong-kong-doctors-remain-cautious?utm_source=rss_feed",
     "https://the-decoder.com/googles-new-flash-tts-models-let-you-design-ai-voices-from-scratch-using-text-descriptions/",
     "https://36kr.com/p/3995480853204870?f=rss",
     "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
@@ -499,9 +498,10 @@
     "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
     "https://hackaday.com/2026/10/05/two-microcontrollers-talking-all-it-needs-is-an-led/",
     "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
-    "https://www.therobotreport.com/teradyne-invests-ibright-machines-brings-robotics-ai-infrastructure-manufacturing/"
+    "https://www.therobotreport.com/teradyne-invests-ibright-machines-brings-robotics-ai-infrastructure-manufacturing/",
+    "https://habr.com/ru/articles/1090856/?utm_campaign=1090856&utm_source=habrahabr&utm_medium=rss"
   ],
   "ai_index": 6,
   "tech_index": 6,
-  "category": "ai"
+  "category": "tech"
 }
