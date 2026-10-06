@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://the-decoder.com/anthropic-says-claude-discovered-a-new-enzyme-system-but-crispr-researchers-call-it-routine-genome-mining/",
     "https://tech.eu/2026/09/24/brits-in-japan-raise-1m-to-put-modular-humanoid-robots-to-work/",
     "https://the-decoder.com/black-forest-labs-launches-flux-3-action-an-open-robotics-ai-model/",
     "https://www.theregister.com/security/2026/09/24/decades-old-file-security-flaws-found-in-android-linux-macos-and-windows/5298672",
@@ -499,9 +498,10 @@
     "https://phys.org/news/2026-10-exposes-modern-poverty-inequality-britain.html",
     "https://pandaily.com/richard-yu-huawei-381-tau-chips-mass-produced-phones-ai-networking-smart-cars",
     "https://spectrum.ieee.org/ieee-day",
-    "https://www.qbitai.com/2026/10/501746.html"
+    "https://www.qbitai.com/2026/10/501746.html",
+    "https://3dnews.ru/1149528"
   ],
-  "ai_index": 12,
-  "tech_index": 12,
-  "category": "tech"
+  "ai_index": 13,
+  "tech_index": 13,
+  "category": "ai"
 }
