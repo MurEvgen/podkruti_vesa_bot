@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://habr.com/ru/articles/1085916/?utm_campaign=1085916&utm_source=habrahabr&utm_medium=rss",
     "https://phys.org/news/2026-09-aerial-reveal-successful-woodland-expansion.html",
     "https://pandaily.com/sensetime-sensenova-u1-pro-image-model-8k-raccoon-api",
     "https://spectrum.ieee.org/top-engineering-skills",
@@ -499,9 +498,10 @@
     "https://www.ithome.com/1/009/934.htm",
     "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
     "http://www.geekpark.net/news/372086",
-    "https://openai.com/index/new-chatgpt-ads-format-and-measurement"
+    "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+    "https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/"
   ],
-  "ai_index": 0,
-  "tech_index": 0,
-  "category": "tech"
+  "ai_index": 1,
+  "tech_index": 1,
+  "category": "ai"
 }
