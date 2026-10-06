@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://pandaily.com/sensetime-sensenova-u1-pro-image-model-8k-raccoon-api",
     "https://spectrum.ieee.org/top-engineering-skills",
     "https://www.qbitai.com/2026/09/496779.html",
     "https://3dnews.ru/1148949",
@@ -499,9 +498,10 @@
     "http://www.geekpark.net/news/372086",
     "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
     "https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/",
-    "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/"
+    "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+    "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/"
   ],
-  "ai_index": 1,
-  "tech_index": 1,
-  "category": "tech"
+  "ai_index": 2,
+  "tech_index": 2,
+  "category": "ai"
 }
