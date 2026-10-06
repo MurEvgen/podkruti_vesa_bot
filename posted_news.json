@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.ithome.com/1/007/014.htm",
     "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
     "http://www.geekpark.net/news/371030",
     "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
@@ -499,9 +498,10 @@
     "https://habr.com/ru/articles/1089998/?utm_campaign=1089998&utm_source=habrahabr&utm_medium=rss",
     "https://www.eetimes.com/kepler-aims-to-launch-energy-saving-replacement-for-hbm-in-2027/",
     "https://habr.com/ru/articles/1090946/?utm_campaign=1090946&utm_source=habrahabr&utm_medium=rss",
-    "https://www.extremetech.com/computing/white-house-rebrands-ai-as-super-intelligence-with-si-developers-responsible"
+    "https://www.extremetech.com/computing/white-house-rebrands-ai-as-super-intelligence-with-si-developers-responsible",
+    "https://habr.com/ru/articles/1091034/?utm_campaign=1091034&utm_source=habrahabr&utm_medium=rss"
   ],
   "ai_index": 9,
   "tech_index": 9,
-  "category": "ai"
+  "category": "tech"
 }
