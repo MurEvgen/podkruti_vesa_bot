@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.ixbt.com/news/2026/09/24/438011-pervaia-v-mire-stanciia-zameny-batarei-kotoraia-polnostiu-rabotaet-ot-energii-solnca-otkryta-v-pustyne-gobi.html",
     "https://openai.com/index/two-years-of-openai-academy",
     "https://www.chinatechnews.com/2026/09/24/129669-world-artificial-intelligence-open-source-competition-concludes-in-hangzhou-with-focus-on-ai-agents-and-robotics",
     "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
@@ -499,9 +498,10 @@
     "https://arxiv.org/abs/2610.03872",
     "https://tech.eu/2026/10/05/namespace-raises-42m-ssries-b-seven-months-after-series-a/",
     "https://arxiv.org/abs/2610.03888",
-    "https://www.theregister.com/offbeat/2026/10/06/security-researcher-claims-they-found-kvm-guest-host-escape-flaw/5301267"
+    "https://www.theregister.com/offbeat/2026/10/06/security-researcher-claims-they-found-kvm-guest-host-escape-flaw/5301267",
+    "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors"
   ],
   "ai_index": 4,
   "tech_index": 4,
-  "category": "ai"
+  "category": "tech"
 }
