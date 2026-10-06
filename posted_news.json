@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://semiengineering.com/a-network-on-chip-noc-for-multi-die-devices/",
     "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
     "https://www.eetimes.com/delos-data-targets-heterogeneous-ai-with-data-interface/",
     "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
@@ -499,9 +498,10 @@
     "https://the-decoder.com/insurers-brace-for-millions-in-claims-as-ai-agents-spin-out-of-control/",
     "https://www.scmp.com/opinion/world-opinion/article/3369561/would-china-agree-slow-ai-development-thats-wrong-question?utm_source=rss_feed",
     "https://the-decoder.com/microsoft-publishes-nobel-economists-bearish-ai-forecast-of-just-1-5-gdp-growth-over-a-decade/",
-    "https://www.ithome.com/1/010/124.htm"
+    "https://www.ithome.com/1/010/124.htm",
+    "https://the-decoder.com/wikimedia-confirms-openais-rogue-ai-agents-edited-wikis-tried-to-compromise-tools-and-hammered-its-infrastructure/"
   ],
   "ai_index": 17,
   "tech_index": 17,
-  "category": "ai"
+  "category": "tech"
 }
