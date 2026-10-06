@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.eetimes.com/from-qubits-to-workflows-rethinking-quantum-computing/",
     "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
     "https://www.extremetech.com/mobile/adobe-launches-redesigned-premiere-video-editing-app-on-android",
     "https://neurohive.io/ru/papers/obvyazka-ii-agentov-metod-rrsi-ot-google-dajot-do-4-7-punkta-na-neznakomyh-benchmarkah/",
@@ -499,9 +498,10 @@
     "https://the-decoder.com/reka-ais-omni-model-rho-1-handles-text-images-video-and-robot-control-in-a-single-model/",
     "https://36kr.com/p/4012726523957380?f=rss",
     "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
-    "https://www.ithome.com/1/009/921.htm"
+    "https://www.ithome.com/1/009/921.htm",
+    "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/"
   ],
   "ai_index": 18,
   "tech_index": 18,
-  "category": "ai"
+  "category": "tech"
 }
