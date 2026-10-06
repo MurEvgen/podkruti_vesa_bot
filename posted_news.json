@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.eetimes.com/delos-data-targets-heterogeneous-ai-with-data-interface/",
     "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
     "https://www.extremetech.com/electronics/meta-announces-its-first-anti-pervert-smart-glasses",
     "https://habr.com/ru/articles/1086430/?utm_campaign=1086430&utm_source=habrahabr&utm_medium=rss",
@@ -499,9 +498,10 @@
     "https://the-decoder.com/microsoft-publishes-nobel-economists-bearish-ai-forecast-of-just-1-5-gdp-growth-over-a-decade/",
     "https://www.ithome.com/1/010/124.htm",
     "https://the-decoder.com/wikimedia-confirms-openais-rogue-ai-agents-edited-wikis-tried-to-compromise-tools-and-hammered-its-infrastructure/",
-    "https://www.ithome.com/1/010/123.htm"
+    "https://www.ithome.com/1/010/123.htm",
+    "https://the-decoder.com/google-claims-embeddinggemma-2-outperforms-rival-embedding-models-twice-its-size/"
   ],
   "ai_index": 18,
   "tech_index": 18,
-  "category": "ai"
+  "category": "tech"
 }
