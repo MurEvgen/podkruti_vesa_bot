@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://spectrum.ieee.org/top-engineering-skills",
     "https://www.qbitai.com/2026/09/496779.html",
     "https://3dnews.ru/1148949",
     "https://www.infoq.cn/video/P6mBiPWbwZIIpWpUVcOa?utm_source=rss&utm_medium=article",
@@ -499,9 +498,10 @@
     "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
     "https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/",
     "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-    "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/"
+    "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+    "https://arxiv.org/abs/2610.03872"
   ],
   "ai_index": 2,
   "tech_index": 2,
-  "category": "ai"
+  "category": "tech"
 }
