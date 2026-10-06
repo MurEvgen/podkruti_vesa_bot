@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://36kr.com/p/3996805864312961?f=rss",
     "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data",
     "https://www.ithome.com/1/007/014.htm",
     "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
@@ -499,9 +498,10 @@
     "https://habr.com/ru/articles/1090856/?utm_campaign=1090856&utm_source=habrahabr&utm_medium=rss",
     "https://semiengineering.com/chip-industry-technical-paper-roundup-oct-6/",
     "https://habr.com/ru/articles/1089998/?utm_campaign=1089998&utm_source=habrahabr&utm_medium=rss",
-    "https://www.eetimes.com/kepler-aims-to-launch-energy-saving-replacement-for-hbm-in-2027/"
+    "https://www.eetimes.com/kepler-aims-to-launch-energy-saving-replacement-for-hbm-in-2027/",
+    "https://habr.com/ru/articles/1090946/?utm_campaign=1090946&utm_source=habrahabr&utm_medium=rss"
   ],
   "ai_index": 8,
   "tech_index": 8,
-  "category": "ai"
+  "category": "tech"
 }
