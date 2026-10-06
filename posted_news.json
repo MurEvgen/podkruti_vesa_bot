@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.extremetech.com/mobile/adobe-launches-redesigned-premiere-video-editing-app-on-android",
     "https://neurohive.io/ru/papers/obvyazka-ii-agentov-metod-rrsi-ot-google-dajot-do-4-7-punkta-na-neznakomyh-benchmarkah/",
     "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-brings-snapdragon-x2-plus-to-13-inch-surface-laptop-12-inch-surface-pro-low-end-systems-finally-get-upgrades",
     "https://habr.com/ru/articles/1085916/?utm_campaign=1085916&utm_source=habrahabr&utm_medium=rss",
@@ -499,9 +498,10 @@
     "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
     "https://www.ithome.com/1/009/921.htm",
     "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
-    "https://www.ithome.com/1/009/934.htm"
+    "https://www.ithome.com/1/009/934.htm",
+    "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/"
   ],
   "ai_index": 19,
   "tech_index": 19,
-  "category": "ai"
+  "category": "tech"
 }
