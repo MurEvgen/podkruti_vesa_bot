@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
     "https://hackaday.com/2026/09/25/this-week-in-security-fbi-gets-hacked-muse-vulnerable-to-clickfix-popular-rust-developers-at-risk-attacking-the-rp2350-and-new-attacks-against-rsa/",
     "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
     "https://www.therobotreport.com/agility-robotics-maker-of-digit-humanoid-exploring-wheeled-robots/",
@@ -499,9 +498,10 @@
     "https://3dnews.ru/1149570",
     "https://www.infoq.cn/article/CFbVqLXwQvbbhiTMy83e?utm_source=rss&utm_medium=article",
     "https://www.ixbt.com/news/2026/10/07/440839-stiler-redwing-atakuet-klientov-bankov-rossii-uzbekistana-i-kazaxstana.html",
-    "https://openai.com/index/teens-learn-and-plan"
+    "https://openai.com/index/teens-learn-and-plan",
+    "https://www.chinatechnews.com/2026/10/08/130502-huawei-admits-china-lacks-euv-hardware-bets-on-radical-logic-folding-architecture-to-outsmart-u-s-sanctions"
   ],
-  "ai_index": 14,
-  "tech_index": 14,
-  "category": "tech"
+  "ai_index": 15,
+  "tech_index": 15,
+  "category": "ai"
 }
