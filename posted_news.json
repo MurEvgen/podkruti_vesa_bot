@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://arxiv.org/abs/2609.28475",
     "https://36kr.com/p/3997468580958089?f=rss",
     "https://arxiv.org/abs/2609.28506",
     "https://www.ithome.com/1/007/157.htm",
@@ -499,9 +498,10 @@
     "https://hackaday.com/2026/10/06/upgrading-an-iphone-lens-to-the-max/",
     "https://habr.com/ru/articles/1091268/?utm_campaign=1091268&utm_source=habrahabr&utm_medium=rss",
     "https://www.therobotreport.com/boston-dynamics-appoints-former-amazon-executive-rohit-prasad-new-ceo/",
-    "https://habr.com/ru/articles/1091320/?utm_campaign=1091320&utm_source=habrahabr&utm_medium=rss"
+    "https://habr.com/ru/articles/1091320/?utm_campaign=1091320&utm_source=habrahabr&utm_medium=rss",
+    "https://semiengineering.com/ultra-compact-photonic-bends-reduce-loss-while-meeting-foundry-rules-georgia-tech/"
   ],
-  "ai_index": 6,
-  "tech_index": 6,
-  "category": "tech"
+  "ai_index": 7,
+  "tech_index": 7,
+  "category": "ai"
 }
