@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "http://www.geekpark.net/news/371035",
     "https://the-decoder.com/ruby-on-rails-creator-dhh-says-hes-done-writing-code-by-hand/",
     "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
     "https://the-decoder.com/anthropic-signs-11-6-billion-cloud-deal-with-akamai-pushing-its-compute-spending-past-500-billion-in-under-a-year/",
@@ -499,9 +498,10 @@
     "https://pandaily.com/baqis-cas-physics-modular-cryogen-free-dilution-refrigerator-2000-uw",
     "https://www.extremetech.com/computing/initial-googlebooks-repeat-windows-on-arm-issues-but-in-reverse",
     "https://habr.com/ru/articles/1091368/?utm_campaign=1091368&utm_source=habrahabr&utm_medium=rss",
-    "https://www.tomshardware.com/live/news/amazon-prime-big-deal-days-2026-day-two"
+    "https://www.tomshardware.com/live/news/amazon-prime-big-deal-days-2026-day-two",
+    "https://habr.com/ru/companies/kryptonite/articles/1091402/?utm_campaign=1091402&utm_source=habrahabr&utm_medium=rss"
   ],
   "ai_index": 10,
   "tech_index": 10,
-  "category": "ai"
+  "category": "tech"
 }
