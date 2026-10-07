@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
     "http://www.geekpark.net/news/371035",
     "https://the-decoder.com/ruby-on-rails-creator-dhh-says-hes-done-writing-code-by-hand/",
     "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
@@ -499,9 +498,10 @@
     "https://www.eetimes.com/the-ai-boom-has-a-gigawatt-accounting-problem/",
     "https://pandaily.com/baqis-cas-physics-modular-cryogen-free-dilution-refrigerator-2000-uw",
     "https://www.extremetech.com/computing/initial-googlebooks-repeat-windows-on-arm-issues-but-in-reverse",
-    "https://habr.com/ru/articles/1091368/?utm_campaign=1091368&utm_source=habrahabr&utm_medium=rss"
+    "https://habr.com/ru/articles/1091368/?utm_campaign=1091368&utm_source=habrahabr&utm_medium=rss",
+    "https://www.tomshardware.com/live/news/amazon-prime-big-deal-days-2026-day-two"
   ],
-  "ai_index": 9,
-  "tech_index": 9,
-  "category": "tech"
+  "ai_index": 10,
+  "tech_index": 10,
+  "category": "ai"
 }
