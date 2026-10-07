@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://the-decoder.com/anthropic-signs-11-6-billion-cloud-deal-with-akamai-pushing-its-compute-spending-past-500-billion-in-under-a-year/",
     "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/",
     "https://the-decoder.com/metas-muse-agent-gives-every-user-a-full-cloud-computer-running-ubuntu-linux/",
     "https://tech.eu/2026/09/25/central-european-startup-going-for-bigger-cheques-as-want-moment-in-spotlight-says-vc/",
@@ -499,9 +498,10 @@
     "https://www.tomshardware.com/live/news/amazon-prime-big-deal-days-2026-day-two",
     "https://habr.com/ru/companies/kryptonite/articles/1091402/?utm_campaign=1091402&utm_source=habrahabr&utm_medium=rss",
     "https://phys.org/news/2026-10-petal-windows-affect-abundance-microbes.html",
-    "https://pandaily.com/china-satnet-gw-constellation-first-polar-test-arctic-antarctic-video-call"
+    "https://pandaily.com/china-satnet-gw-constellation-first-polar-test-arctic-antarctic-video-call",
+    "https://spectrum.ieee.org/6-guidelines-governing-ai"
   ],
-  "ai_index": 11,
-  "tech_index": 11,
-  "category": "tech"
+  "ai_index": 12,
+  "tech_index": 12,
+  "category": "ai"
 }
