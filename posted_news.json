@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.therobotreport.com/agility-robotics-maker-of-digit-humanoid-exploring-wheeled-robots/",
     "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
     "https://semiengineering.com/chip-industry-week-in-review-157/",
     "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
@@ -499,9 +498,10 @@
     "https://openai.com/index/teens-learn-and-plan",
     "https://www.chinatechnews.com/2026/10/08/130502-huawei-admits-china-lacks-euv-hardware-bets-on-radical-logic-folding-architecture-to-outsmart-u-s-sanctions",
     "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
-    "https://www.scmp.com/tech/big-tech/article/3370209/alibabas-ai-cloud-revenue-set-surge-over-50-investment-blitz-pays-analysts?utm_source=rss_feed"
+    "https://www.scmp.com/tech/big-tech/article/3370209/alibabas-ai-cloud-revenue-set-surge-over-50-investment-blitz-pays-analysts?utm_source=rss_feed",
+    "https://huggingface.co/blog/LiquidAI/open-d1"
   ],
   "ai_index": 16,
   "tech_index": 16,
-  "category": "ai"
+  "category": "tech"
 }
