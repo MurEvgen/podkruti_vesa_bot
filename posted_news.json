@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
     "https://www.eetimes.com/huaweis-tau-law-takes-commercial-form/",
     "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
     "https://www.extremetech.com/computing/so-long-rtx-5090-we-could-hardly-afford-ye",
@@ -499,9 +498,10 @@
     "https://www.scmp.com/tech/big-tech/article/3370209/alibabas-ai-cloud-revenue-set-surge-over-50-investment-blitz-pays-analysts?utm_source=rss_feed",
     "https://huggingface.co/blog/LiquidAI/open-d1",
     "https://36kr.com/p/4017128711278725?f=rss",
-    "https://huggingface.co/blog/building-with-ml-intern"
+    "https://huggingface.co/blog/building-with-ml-intern",
+    "https://36kr.com/p/4018406199021449?f=rss"
   ],
-  "ai_index": 17,
-  "tech_index": 17,
-  "category": "tech"
+  "ai_index": 18,
+  "tech_index": 18,
+  "category": "ai"
 }
