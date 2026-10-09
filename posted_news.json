@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.eetimes.com/huaweis-tau-law-takes-commercial-form/",
     "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
     "https://www.extremetech.com/computing/so-long-rtx-5090-we-could-hardly-afford-ye",
     "https://habr.com/ru/articles/1086798/?utm_campaign=1086798&utm_source=habrahabr&utm_medium=rss",
@@ -499,9 +498,10 @@
     "https://huggingface.co/blog/LiquidAI/open-d1",
     "https://36kr.com/p/4017128711278725?f=rss",
     "https://huggingface.co/blog/building-with-ml-intern",
-    "https://36kr.com/p/4018406199021449?f=rss"
+    "https://36kr.com/p/4018406199021449?f=rss",
+    "https://the-decoder.com/anthropics-claude-can-now-orchestrate-up-to-1000-ai-agents-in-parallel-through-dynamic-workflows/"
   ],
   "ai_index": 18,
   "tech_index": 18,
-  "category": "ai"
+  "category": "tech"
 }
