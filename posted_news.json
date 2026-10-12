@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://openai.com/index/proaction",
     "https://www.chinatechnews.com/2026/09/26/129673-china-fears-resurgent-japanese-militarism-as-tokyo-pursues-autonomous-combat-robots-and-ai-satellites",
     "https://the-decoder.com/pentagon-was-right-to-slap-anthropic-with-a-security-supply-chain-risk-label-federal-court-says/",
     "https://www.scmp.com/tech/tech-trends/article/3368781/chinas-biotech-firms-move-value-chain-drug-deals-evolve-beyond-licensing-analysts?utm_source=rss_feed",
@@ -499,9 +498,10 @@
     "https://tech.eu/2026/10/09/universal-quantum-raises-100m-sap-buys-techwolf-and-european-startups-raise-five-times-more-funding-in-september-than-august/",
     "https://the-decoder.com/ai-agent-teams-waste-massive-tokens-for-barely-measurable-quality-gains-research-finds/",
     "https://www.theregister.com/security/2026/10/11/ai-systems-are-fully-capable-of-carrying-out-nightmare-attacks-against-infrastructure-and-nobodys-ready/5302450",
-    "https://the-decoder.com/google-deepminds-alphaproof-nexus-solved-dozens-of-open-math-problems-and-actually-got-peer-reviewed/"
+    "https://the-decoder.com/google-deepminds-alphaproof-nexus-solved-dozens-of-open-math-problems-and-actually-got-peer-reviewed/",
+    "https://hackaday.com/2026/10/12/the-prusa-core-one-indx-a-troubled-multi-extruder-upgrade/"
   ],
-  "ai_index": 4,
-  "tech_index": 4,
-  "category": "tech"
+  "ai_index": 5,
+  "tech_index": 5,
+  "category": "ai"
 }
