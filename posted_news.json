@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.infoq.cn/article/kJ4EkjPLVTh9iT5yyXkM?utm_source=rss&utm_medium=article",
     "https://www.ixbt.com/news/2026/09/26/438358-rossiiskii-printer-naucili-pecatat-elektroniku-i-iskat-brak-priamo-na-xodu.html",
     "https://openai.com/index/proaction",
     "https://www.chinatechnews.com/2026/09/26/129673-china-fears-resurgent-japanese-militarism-as-tokyo-pursues-autonomous-combat-robots-and-ai-satellites",
@@ -499,9 +498,10 @@
     "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/",
     "https://the-decoder.com/microsofts-nadella-bows-to-trumps-language-diktat-on-super-intelligence-and-uses-it-to-attack-openai-and-anthropic/",
     "https://tech.eu/2026/10/09/universal-quantum-raises-100m-sap-buys-techwolf-and-european-startups-raise-five-times-more-funding-in-september-than-august/",
-    "https://the-decoder.com/ai-agent-teams-waste-massive-tokens-for-barely-measurable-quality-gains-research-finds/"
+    "https://the-decoder.com/ai-agent-teams-waste-massive-tokens-for-barely-measurable-quality-gains-research-finds/",
+    "https://www.theregister.com/security/2026/10/11/ai-systems-are-fully-capable-of-carrying-out-nightmare-attacks-against-infrastructure-and-nobodys-ready/5302450"
   ],
-  "ai_index": 3,
-  "tech_index": 3,
-  "category": "tech"
+  "ai_index": 4,
+  "tech_index": 4,
+  "category": "ai"
 }
