@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.ithome.com/1/007/332.htm",
     "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
     "https://www.ithome.com/1/007/347.htm",
     "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
@@ -499,9 +498,10 @@
     "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
     "https://semiengineering.com/agentic-ai-automates-rtl-waveform-analysis-and-debugging-columbia-google/",
     "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
-    "https://www.eetimes.com/amperesand-aims-to-smooth-ai-data-center-power-spikes/"
+    "https://www.eetimes.com/amperesand-aims-to-smooth-ai-data-center-power-spikes/",
+    "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device"
   ],
   "ai_index": 8,
   "tech_index": 8,
-  "category": "ai"
+  "category": "tech"
 }
