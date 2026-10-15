@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
     "http://www.geekpark.net/news/371038",
     "https://habr.com/ru/articles/1086828/?utm_campaign=1086828&utm_source=habrahabr&utm_medium=rss",
     "https://arstechnica.com/health/2026/09/can-trump-ever-be-wrong-his-pick-to-lead-fda-refused-to-say/",
@@ -499,9 +498,10 @@
     "https://www.eetimes.com/amperesand-aims-to-smooth-ai-data-center-power-spikes/",
     "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
     "https://www.extremetech.com/cars/teslas-robotaxis-blow-through-school-zones-nhtsa-petition-alleges",
-    "https://neurohive.io/ru/papers/videojev-voprosy-po-video/"
+    "https://neurohive.io/ru/papers/videojev-voprosy-po-video/",
+    "https://www.tomshardware.com/tech-industry/grace-hopper-celebration-for-women-in-computing-canceled-two-weeks-out-anitab-org-says-registrations-and-sponsorships-fell-short-of-covering-costs"
   ],
-  "ai_index": 9,
-  "tech_index": 9,
-  "category": "tech"
+  "ai_index": 10,
+  "tech_index": 10,
+  "category": "ai"
 }
