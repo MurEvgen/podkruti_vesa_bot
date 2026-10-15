@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://habr.com/ru/articles/1086828/?utm_campaign=1086828&utm_source=habrahabr&utm_medium=rss",
     "https://arstechnica.com/health/2026/09/can-trump-ever-be-wrong-his-pick-to-lead-fda-refused-to-say/",
     "https://habr.com/ru/articles/1086872/?utm_campaign=1086872&utm_source=habrahabr&utm_medium=rss",
     "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
@@ -499,9 +498,10 @@
     "https://www.extremetech.com/cars/teslas-robotaxis-blow-through-school-zones-nhtsa-petition-alleges",
     "https://neurohive.io/ru/papers/videojev-voprosy-po-video/",
     "https://www.tomshardware.com/tech-industry/grace-hopper-celebration-for-women-in-computing-canceled-two-weeks-out-anitab-org-says-registrations-and-sponsorships-fell-short-of-covering-costs",
-    "https://habr.com/ru/articles/1094568/?utm_campaign=1094568&utm_source=habrahabr&utm_medium=rss"
+    "https://habr.com/ru/articles/1094568/?utm_campaign=1094568&utm_source=habrahabr&utm_medium=rss",
+    "https://phys.org/news/2026-10-ways-thief-intruders-airborne-edna.html"
   ],
-  "ai_index": 10,
-  "tech_index": 10,
-  "category": "tech"
+  "ai_index": 11,
+  "tech_index": 11,
+  "category": "ai"
 }
