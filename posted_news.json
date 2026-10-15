@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://habr.com/ru/articles/1086872/?utm_campaign=1086872&utm_source=habrahabr&utm_medium=rss",
     "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
     "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data/",
     "https://tech.eu/2026/09/25/tekever-raises-580m-series-d-dtcp-closes-455m-defence-fund-and-the-challenge-to-reinvent-chip-design/",
@@ -499,9 +498,10 @@
     "https://www.tomshardware.com/tech-industry/grace-hopper-celebration-for-women-in-computing-canceled-two-weeks-out-anitab-org-says-registrations-and-sponsorships-fell-short-of-covering-costs",
     "https://habr.com/ru/articles/1094568/?utm_campaign=1094568&utm_source=habrahabr&utm_medium=rss",
     "https://phys.org/news/2026-10-ways-thief-intruders-airborne-edna.html",
-    "https://pandaily.com/stepfun-step-5-preview-open-weights-technical-blog-92-layer-sparse-gqa"
+    "https://pandaily.com/stepfun-step-5-preview-open-weights-technical-blog-92-layer-sparse-gqa",
+    "https://spectrum.ieee.org/china-rare-earth-minerals"
   ],
-  "ai_index": 11,
-  "tech_index": 11,
-  "category": "tech"
+  "ai_index": 12,
+  "tech_index": 12,
+  "category": "ai"
 }
