@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://habr.com/ru/companies/studyai/articles/1086772/?utm_campaign=1086772&utm_source=habrahabr&utm_medium=rss",
     "https://semiengineering.com/comparing-a7-cfet-and-a10-nanosheet-fets-from-parasitics-to-chip-reliability-tum-unimore-applied-materials/",
     "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
     "https://www.eetimes.com/balancing-bandwidth-range-and-power-in-intelligent-buildings/",
@@ -499,9 +498,10 @@
     "https://www.chinatechnews.com/2026/10/16/130685-xian-yicai-backs-semiconductor-component-maker-xinhui-materials-with-latest-funding",
     "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
     "https://www.scmp.com/tech/big-tech/article/3371203/alibaba-embed-ai-throughout-taobao-tmall-merchant-operations-2027-executive?utm_source=rss_feed",
-    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+    "https://36kr.com/p/4028766019719557?f=rss"
   ],
-  "ai_index": 16,
-  "tech_index": 16,
-  "category": "tech"
+  "ai_index": 17,
+  "tech_index": 17,
+  "category": "ai"
 }
