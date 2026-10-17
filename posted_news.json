@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
     "https://www.eetimes.com/balancing-bandwidth-range-and-power-in-intelligent-buildings/",
     "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
     "https://www.extremetech.com/mobile/grapheneos-picks-motorola-signature-27-as-its-first-non-pixel-phone",
@@ -499,9 +498,10 @@
     "https://www.scmp.com/tech/big-tech/article/3371203/alibaba-embed-ai-throughout-taobao-tmall-merchant-operations-2027-executive?utm_source=rss_feed",
     "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
     "https://36kr.com/p/4028766019719557?f=rss",
-    "https://huggingface.co/blog/nvidia/scaling-indic-pretraining"
+    "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+    "https://36kr.com/p/4028636199555713?f=rss"
   ],
-  "ai_index": 17,
-  "tech_index": 17,
-  "category": "tech"
+  "ai_index": 18,
+  "tech_index": 18,
+  "category": "ai"
 }
