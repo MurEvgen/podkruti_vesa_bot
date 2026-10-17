@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://semiengineering.com/comparing-a7-cfet-and-a10-nanosheet-fets-from-parasitics-to-chip-reliability-tum-unimore-applied-materials/",
     "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
     "https://www.eetimes.com/balancing-bandwidth-range-and-power-in-intelligent-buildings/",
     "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
@@ -499,9 +498,10 @@
     "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
     "https://www.scmp.com/tech/big-tech/article/3371203/alibaba-embed-ai-throughout-taobao-tmall-merchant-operations-2027-executive?utm_source=rss_feed",
     "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-    "https://36kr.com/p/4028766019719557?f=rss"
+    "https://36kr.com/p/4028766019719557?f=rss",
+    "https://huggingface.co/blog/nvidia/scaling-indic-pretraining"
   ],
   "ai_index": 17,
   "tech_index": 17,
-  "category": "ai"
+  "category": "tech"
 }
