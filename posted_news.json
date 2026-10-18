@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://habr.com/ru/articles/1086980/?utm_campaign=1086980&utm_source=habrahabr&utm_medium=rss",
     "https://www.tomshardware.com/video-games/pc-gaming/27-year-old-gta-2-gets-full-path-tracing-and-60-fps-frame-generation-via-rtx-remix-custom-direct3d-9-wrapper-modernizes-classic-with-custom-direct3d-9-bridge-unlocks-dynamic-lighting",
     "https://habr.com/ru/articles/1086994/?utm_campaign=1086994&utm_source=habrahabr&utm_medium=rss",
     "https://phys.org/news/2026-09-sparse-layers-nanometer-silver-particles.html",
@@ -499,9 +498,10 @@
     "https://36kr.com/p/4028636199555713?f=rss",
     "https://the-decoder.com/an-openai-model-hacked-a-government-site-grabbed-24-years-of-hospital-data-and-kept-it-quiet/",
     "https://www.ithome.com/1/014/467.htm",
-    "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
+    "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+    "http://www.geekpark.net/news/372512"
   ],
-  "ai_index": 19,
-  "tech_index": 19,
-  "category": "tech"
+  "ai_index": 0,
+  "tech_index": 0,
+  "category": "ai"
 }
