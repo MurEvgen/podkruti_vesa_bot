@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.infoq.cn/article/jJIXCaLHUvPgswTOZ1uQ?utm_source=rss&utm_medium=article",
     "https://www.ixbt.com/news/2026/09/26/materinskaia-plata-s-14-iadernym-core-i7-13798hre-i-pcie-50-vsego-195-erying-vypustila-komplekty-dlia-sborki-desevyx-pk-na-cpu-intel-dlia-promyslennyx-sistem.html",
     "https://the-decoder.com/former-ukrainian-defense-minister-fedorov-pitches-a-private-sector-robot-army/",
     "https://www.chinatechnews.com/2026/09/26/129832-beijing-respects-u-s-move-to-rebrand-artificial-intelligence-as-super-intelligence",
@@ -499,9 +498,10 @@
     "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
     "https://huggingface.co/blog/reflection-beam",
     "https://tech.eu/2026/10/19/german-vcs-call-for-eur15b-annual-funding-boost-to-build-the-next-generation-of-tech-giants/",
-    "https://the-decoder.com/minimax-m3-1-flash-shows-chinas-ai-price-race-has-no-floor-in-sight/"
+    "https://the-decoder.com/minimax-m3-1-flash-shows-chinas-ai-price-race-has-no-floor-in-sight/",
+    "https://www.theregister.com/security/2026/10/19/grocery-giant-ahold-delhaize-confirms-cyberattack-forced-us-and-european-systems-offline/5303970"
   ],
-  "ai_index": 3,
-  "tech_index": 3,
-  "category": "tech"
+  "ai_index": 4,
+  "tech_index": 4,
+  "category": "ai"
 }
