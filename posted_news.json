@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://3dnews.ru/1149092",
     "https://www.qbitai.com/2026/09/498271.html",
     "https://3dnews.ru/1149080",
     "https://www.infoq.cn/article/jJIXCaLHUvPgswTOZ1uQ?utm_source=rss&utm_medium=article",
@@ -499,9 +498,10 @@
     "https://openai.com/index/itau-generative-ai",
     "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/",
     "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-    "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/"
+    "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+    "https://huggingface.co/blog/reflection-beam"
   ],
   "ai_index": 2,
   "tech_index": 2,
-  "category": "ai"
+  "category": "tech"
 }
