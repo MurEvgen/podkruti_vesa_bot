@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.qbitai.com/2026/09/498478.html",
     "https://3dnews.ru/1149092",
     "https://www.qbitai.com/2026/09/498271.html",
     "https://3dnews.ru/1149080",
@@ -499,9 +498,10 @@
     "http://www.geekpark.net/news/372512",
     "https://openai.com/index/itau-generative-ai",
     "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/",
-    "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/"
+    "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+    "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/"
   ],
-  "ai_index": 1,
-  "tech_index": 1,
-  "category": "tech"
+  "ai_index": 2,
+  "tech_index": 2,
+  "category": "ai"
 }
