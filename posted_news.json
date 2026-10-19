@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.qbitai.com/2026/09/498271.html",
     "https://3dnews.ru/1149080",
     "https://www.infoq.cn/article/jJIXCaLHUvPgswTOZ1uQ?utm_source=rss&utm_medium=article",
     "https://www.ixbt.com/news/2026/09/26/materinskaia-plata-s-14-iadernym-core-i7-13798hre-i-pcie-50-vsego-195-erying-vypustila-komplekty-dlia-sborki-desevyx-pk-na-cpu-intel-dlia-promyslennyx-sistem.html",
@@ -499,9 +498,10 @@
     "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/",
     "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
     "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
-    "https://huggingface.co/blog/reflection-beam"
+    "https://huggingface.co/blog/reflection-beam",
+    "https://tech.eu/2026/10/19/german-vcs-call-for-eur15b-annual-funding-boost-to-build-the-next-generation-of-tech-giants/"
   ],
-  "ai_index": 2,
-  "tech_index": 2,
-  "category": "tech"
+  "ai_index": 3,
+  "tech_index": 3,
+  "category": "ai"
 }
