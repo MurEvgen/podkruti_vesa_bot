@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.scmp.com/tech/big-tech/article/3368819/how-alibaba-using-ai-revamp-its-mapping-app-and-take-meituan?utm_source=rss_feed",
     "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
     "https://36kr.com/p/3999967284957059?f=rss",
     "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
@@ -499,9 +498,10 @@
     "https://the-decoder.com/kling-ai-drops-version-4-0-with-stereo-audio-multilingual-lip-sync-and-a-lighter-flash-variant/",
     "https://hackaday.com/2026/10/20/visualize-regular-expressions-with-marbles/",
     "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
-    "https://www.therobotreport.com/robobusiness-rebrands-as-robotics-summit-expo-west/"
+    "https://www.therobotreport.com/robobusiness-rebrands-as-robotics-summit-expo-west/",
+    "https://arxiv.org/abs/2610.23866"
   ],
   "ai_index": 6,
   "tech_index": 6,
-  "category": "ai"
+  "category": "tech"
 }
