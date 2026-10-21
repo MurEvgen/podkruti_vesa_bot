@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://36kr.com/p/3999967284957059?f=rss",
     "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
     "https://www.ithome.com/1/007/460.htm",
     "https://habr.com/ru/articles/1087036/?utm_campaign=1087036&utm_source=habrahabr&utm_medium=rss",
@@ -499,9 +498,10 @@
     "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
     "https://www.therobotreport.com/robobusiness-rebrands-as-robotics-summit-expo-west/",
     "https://arxiv.org/abs/2610.23866",
-    "https://semiengineering.com/chip-industry-technical-paper-roundup-oct-14-2/"
+    "https://semiengineering.com/chip-industry-technical-paper-roundup-oct-14-2/",
+    "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/"
   ],
   "ai_index": 7,
   "tech_index": 7,
-  "category": "ai"
+  "category": "tech"
 }
