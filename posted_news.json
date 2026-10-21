@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
     "https://36kr.com/p/3999967284957059?f=rss",
     "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
     "https://www.ithome.com/1/007/460.htm",
@@ -499,9 +498,10 @@
     "https://hackaday.com/2026/10/20/visualize-regular-expressions-with-marbles/",
     "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
     "https://www.therobotreport.com/robobusiness-rebrands-as-robotics-summit-expo-west/",
-    "https://arxiv.org/abs/2610.23866"
+    "https://arxiv.org/abs/2610.23866",
+    "https://semiengineering.com/chip-industry-technical-paper-roundup-oct-14-2/"
   ],
-  "ai_index": 6,
-  "tech_index": 6,
-  "category": "tech"
+  "ai_index": 7,
+  "tech_index": 7,
+  "category": "ai"
 }
