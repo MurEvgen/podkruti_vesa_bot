@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "http://www.geekpark.net/news/371039",
     "https://habr.com/ru/articles/1087018/?utm_campaign=1087018&utm_source=habrahabr&utm_medium=rss",
     "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/",
     "https://habr.com/ru/companies/bothub/articles/1087042/?utm_campaign=1087042&utm_source=habrahabr&utm_medium=rss",
@@ -499,9 +498,10 @@
     "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
     "https://www.extremetech.com/electronics/developers-are-dumbing-down-their-smart-tvs",
     "https://neurohive.io/ru/novosti/torvalds-claude-code-linux/",
-    "https://www.tomshardware.com/tech-industry/semiconductors/intel-installs-production-tools-at-fab-62-in-arizona-provides-updates-on-ohio-chip-fab-confirms-high-na-euv-for-high-volume-manufacturing-in-2028"
+    "https://www.tomshardware.com/tech-industry/semiconductors/intel-installs-production-tools-at-fab-62-in-arizona-provides-updates-on-ohio-chip-fab-confirms-high-na-euv-for-high-volume-manufacturing-in-2028",
+    "https://habr.com/ru/companies/ru_mts/articles/1097914/?utm_campaign=1097914&utm_source=habrahabr&utm_medium=rss"
   ],
   "ai_index": 10,
   "tech_index": 10,
-  "category": "ai"
+  "category": "tech"
 }
