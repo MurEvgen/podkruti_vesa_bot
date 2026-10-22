@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
     "http://www.geekpark.net/news/371039",
     "https://habr.com/ru/articles/1087018/?utm_campaign=1087018&utm_source=habrahabr&utm_medium=rss",
     "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/",
@@ -499,9 +498,10 @@
     "https://www.eetimes.com/why-chip-design-ai-benchmarks-must-go-beyond-functional-correctness/",
     "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
     "https://www.extremetech.com/electronics/developers-are-dumbing-down-their-smart-tvs",
-    "https://neurohive.io/ru/novosti/torvalds-claude-code-linux/"
+    "https://neurohive.io/ru/novosti/torvalds-claude-code-linux/",
+    "https://www.tomshardware.com/tech-industry/semiconductors/intel-installs-production-tools-at-fab-62-in-arizona-provides-updates-on-ohio-chip-fab-confirms-high-na-euv-for-high-volume-manufacturing-in-2028"
   ],
-  "ai_index": 9,
-  "tech_index": 9,
-  "category": "tech"
+  "ai_index": 10,
+  "tech_index": 10,
+  "category": "ai"
 }
