@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://habr.com/ru/companies/bothub/articles/1087042/?utm_campaign=1087042&utm_source=habrahabr&utm_medium=rss",
     "https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/",
     "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
     "https://www.theregister.com/offbeat/2026/09/26/space-jam-uk-debuts-space-squadron-to-protect-satellites/5299119",
@@ -499,9 +498,10 @@
     "https://www.tomshardware.com/tech-industry/semiconductors/intel-installs-production-tools-at-fab-62-in-arizona-provides-updates-on-ohio-chip-fab-confirms-high-na-euv-for-high-volume-manufacturing-in-2028",
     "https://habr.com/ru/companies/ru_mts/articles/1097914/?utm_campaign=1097914&utm_source=habrahabr&utm_medium=rss",
     "https://phys.org/news/2026-10-entrepreneurs-longer-salaried-workers-reveals.html",
-    "https://pandaily.com/tairex-agent-hospital-mhac-multidisciplinary-human-agent-collaboration-outpatient"
+    "https://pandaily.com/tairex-agent-hospital-mhac-multidisciplinary-human-agent-collaboration-outpatient",
+    "https://spectrum.ieee.org/engineering-jobs-that-ai-cant-replace"
   ],
-  "ai_index": 11,
-  "tech_index": 11,
-  "category": "tech"
+  "ai_index": 12,
+  "tech_index": 12,
+  "category": "ai"
 }
