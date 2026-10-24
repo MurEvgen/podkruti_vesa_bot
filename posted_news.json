@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.tomshardware.com/tech-industry/taiwans-chip-talisman-snack-faces-production-halt-after-94-percent-strike-vote-workers-demand-share-of-usd176-million-factory-sale-to-ase",
     "https://www.qbitai.com/2026/09/498546.html",
     "https://www.tomshardware.com/tech-industry/u-s-and-uk-navies-successfully-launch-3-700-pound-submarine-sinking-torpedo-from-robotic-drone-submarine-in-historic-first-project-broadsword-proves-weapon-interchangeability-in-just-seven-months",
     "https://habr.com/ru/articles/1087094/?utm_campaign=1087094&utm_source=habrahabr&utm_medium=rss",
@@ -499,9 +498,10 @@
     "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
     "https://www.scmp.com/tech/tech-war/article/3371929/chinas-ai-compute-surge-heavily-reliant-us-chips-offshore-cloud-access-report",
     "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
-    "https://36kr.com/p/4039749830120583?f=rss"
+    "https://36kr.com/p/4039749830120583?f=rss",
+    "https://huggingface.co/blog/allenai/litpivot"
   ],
   "ai_index": 17,
   "tech_index": 17,
-  "category": "ai"
+  "category": "tech"
 }
