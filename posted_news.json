@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://hackaday.com/2026/09/26/a-modular-macro-keypad/",
     "https://habr.com/ru/articles/1086294/?utm_campaign=1086294&utm_source=habrahabr&utm_medium=rss",
     "https://www.therobotreport.com/from-14-cities-to-15000-what-it-will-take-to-scale-robotaxis/",
     "https://habr.com/ru/articles/1087032/?utm_campaign=1087032&utm_source=habrahabr&utm_medium=rss",
@@ -499,9 +498,10 @@
     "https://www.infoq.cn/article/mhdJwMMzYFedMFHKfHWs?utm_source=rss&utm_medium=article",
     "https://www.ixbt.com/news/2026/10/23/zapreshhennye-uskoriteli-nvidia-blackwell-ultra-b300-obnaruzili-v-seti-kitaiskogo-gosudarstvennogo-operatora-china-telecom.html",
     "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-    "https://www.chinatechnews.com/2026/10/22/131103-harbin-builds-automated-drone-governance-network-boosting-municipal-inspection-efficiency-by-60-percent"
+    "https://www.chinatechnews.com/2026/10/22/131103-harbin-builds-automated-drone-governance-network-boosting-municipal-inspection-efficiency-by-60-percent",
+    "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/"
   ],
   "ai_index": 15,
   "tech_index": 15,
-  "category": "ai"
+  "category": "tech"
 }
