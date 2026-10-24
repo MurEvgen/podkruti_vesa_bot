@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.therobotreport.com/from-14-cities-to-15000-what-it-will-take-to-scale-robotaxis/",
     "https://habr.com/ru/articles/1087032/?utm_campaign=1087032&utm_source=habrahabr&utm_medium=rss",
     "https://www.tomshardware.com/tech-industry/taiwans-chip-talisman-snack-faces-production-halt-after-94-percent-strike-vote-workers-demand-share-of-usd176-million-factory-sale-to-ase",
     "https://www.qbitai.com/2026/09/498546.html",
@@ -499,9 +498,10 @@
     "https://openai.com/index/scaling-storage-one-billion-users-part-two",
     "https://www.chinatechnews.com/2026/10/22/131103-harbin-builds-automated-drone-governance-network-boosting-municipal-inspection-efficiency-by-60-percent",
     "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-    "https://www.scmp.com/tech/tech-war/article/3371929/chinas-ai-compute-surge-heavily-reliant-us-chips-offshore-cloud-access-report"
+    "https://www.scmp.com/tech/tech-war/article/3371929/chinas-ai-compute-surge-heavily-reliant-us-chips-offshore-cloud-access-report",
+    "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/"
   ],
   "ai_index": 16,
   "tech_index": 16,
-  "category": "ai"
+  "category": "tech"
 }
