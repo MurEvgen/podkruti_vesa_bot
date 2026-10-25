@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.tomshardware.com/desktops/gaming-pcs/ps5-emulator-successfully-runs-six-titles-at-a-playable-60-fps-ps5-emulation-continues-to-gather-momentum-as-developers-improve-shader-translation-and-vulkan-support",
     "https://habr.com/ru/articles/1087140/?utm_campaign=1087140&utm_source=habrahabr&utm_medium=rss",
     "https://phys.org/news/2026-09-dna-reveals-chemosynthesis-genes-bacteria.html",
     "https://the-decoder.com/some-anthropic-veterans-are-reportedly-buying-remote-land-in-case-ai-goes-awry/",
@@ -499,9 +498,10 @@
     "https://the-decoder.com/three-fired-openai-safety-researchers-say-they-were-never-told-what-they-actually-leaked/",
     "https://www.ithome.com/1/017/670.htm",
     "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
-    "http://www.geekpark.net/news/372860"
+    "http://www.geekpark.net/news/372860",
+    "https://openai.com/index/securing-our-frontier-model-training-environment"
   ],
   "ai_index": 0,
   "tech_index": 0,
-  "category": "ai"
+  "category": "tech"
 }
