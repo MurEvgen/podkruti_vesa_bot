@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://habr.com/ru/articles/1087094/?utm_campaign=1087094&utm_source=habrahabr&utm_medium=rss",
     "https://www.tomshardware.com/tech-industry/artificial-intelligence/developer-says-jev-decision-model-beat-pokemon-red-in-under-a-week-non-llm-engine-succeeds-where-traditional-chatbots-stalled-for-months-but-claude-opus-5-coached-the-model-through-its-dead-ends",
     "https://habr.com/ru/articles/1087120/?utm_campaign=1087120&utm_source=habrahabr&utm_medium=rss",
     "https://www.tomshardware.com/desktops/gaming-pcs/ps5-emulator-successfully-runs-six-titles-at-a-playable-60-fps-ps5-emulation-continues-to-gather-momentum-as-developers-improve-shader-translation-and-vulkan-support",
@@ -499,9 +498,10 @@
     "https://36kr.com/p/4039749830120583?f=rss",
     "https://huggingface.co/blog/allenai/litpivot",
     "https://36kr.com/p/4039677577122946?f=rss",
-    "https://the-decoder.com/three-fired-openai-safety-researchers-say-they-were-never-told-what-they-actually-leaked/"
+    "https://the-decoder.com/three-fired-openai-safety-researchers-say-they-were-never-told-what-they-actually-leaked/",
+    "https://www.ithome.com/1/017/670.htm"
   ],
-  "ai_index": 18,
-  "tech_index": 18,
-  "category": "tech"
+  "ai_index": 19,
+  "tech_index": 19,
+  "category": "ai"
 }
