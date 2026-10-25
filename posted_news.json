@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.tomshardware.com/tech-industry/u-s-and-uk-navies-successfully-launch-3-700-pound-submarine-sinking-torpedo-from-robotic-drone-submarine-in-historic-first-project-broadsword-proves-weapon-interchangeability-in-just-seven-months",
     "https://habr.com/ru/articles/1087094/?utm_campaign=1087094&utm_source=habrahabr&utm_medium=rss",
     "https://www.tomshardware.com/tech-industry/artificial-intelligence/developer-says-jev-decision-model-beat-pokemon-red-in-under-a-week-non-llm-engine-succeeds-where-traditional-chatbots-stalled-for-months-but-claude-opus-5-coached-the-model-through-its-dead-ends",
     "https://habr.com/ru/articles/1087120/?utm_campaign=1087120&utm_source=habrahabr&utm_medium=rss",
@@ -499,9 +498,10 @@
     "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
     "https://36kr.com/p/4039749830120583?f=rss",
     "https://huggingface.co/blog/allenai/litpivot",
-    "https://36kr.com/p/4039677577122946?f=rss"
+    "https://36kr.com/p/4039677577122946?f=rss",
+    "https://the-decoder.com/three-fired-openai-safety-researchers-say-they-were-never-told-what-they-actually-leaked/"
   ],
   "ai_index": 18,
   "tech_index": 18,
-  "category": "ai"
+  "category": "tech"
 }
