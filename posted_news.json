@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://the-decoder.com/some-anthropic-veterans-are-reportedly-buying-remote-land-in-case-ai-goes-awry/",
     "https://spectrum.ieee.org/poetry-user-interface-design",
     "https://www.qbitai.com/2026/09/498633.html",
     "https://3dnews.ru/1149115",
@@ -499,9 +498,10 @@
     "http://www.geekpark.net/news/372860",
     "https://openai.com/index/securing-our-frontier-model-training-environment",
     "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-    "https://huggingface.co/blog/torch-neuronx-model-support"
+    "https://huggingface.co/blog/torch-neuronx-model-support",
+    "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/"
   ],
-  "ai_index": 1,
-  "tech_index": 1,
-  "category": "tech"
+  "ai_index": 2,
+  "tech_index": 2,
+  "category": "ai"
 }
