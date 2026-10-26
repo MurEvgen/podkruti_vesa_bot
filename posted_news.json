@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://spectrum.ieee.org/poetry-user-interface-design",
     "https://www.qbitai.com/2026/09/498633.html",
     "https://3dnews.ru/1149115",
     "https://the-decoder.com/ai-agents-do-more-of-the-work-in-model-development-but-humans-still-make-the-decisions/",
@@ -499,9 +498,10 @@
     "https://openai.com/index/securing-our-frontier-model-training-environment",
     "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
     "https://huggingface.co/blog/torch-neuronx-model-support",
-    "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/"
+    "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
+    "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/"
   ],
   "ai_index": 2,
   "tech_index": 2,
-  "category": "ai"
+  "category": "tech"
 }
