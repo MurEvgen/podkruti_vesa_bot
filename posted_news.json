@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.ixbt.com/news/2026/09/27/438664-kosmiceskaia-benzokolonka-v-deistvii-kitaiskii-sputnik-beidou-polucil-toplivo-priamo-na-orbite-ot-drugogo-sputnika.html",
     "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
     "https://www.chinatechnews.com/2026/09/28/129886-china-wants-to-break-free-from-western-tech-dependence-and-its-latest-high-level-meeting-proves-it",
     "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
@@ -499,9 +498,10 @@
     "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
     "https://www.theregister.com/security/2026/10/26/microsoft-releases-emergency-net-security-fixes-for-google-brotli-bug/5305515",
     "https://the-decoder.com/gpt-6-1-terra-halves-openais-api-prices-and-still-gains-ground-on-its-larger-models/",
-    "https://www.theregister.com/ai-and-ml/2026/10/27/elvis-rightsholders-sue-anthropic-for-stealing-songs-and-leaving-them-in-heartbreak-hotel/5305625"
+    "https://www.theregister.com/ai-and-ml/2026/10/27/elvis-rightsholders-sue-anthropic-for-stealing-songs-and-leaving-them-in-heartbreak-hotel/5305625",
+    "https://the-decoder.com/former-deepmind-researcher-thinks-alphagos-playbook-can-cure-ai-hallucinations/"
   ],
   "ai_index": 4,
   "tech_index": 4,
-  "category": "ai"
+  "category": "tech"
 }
