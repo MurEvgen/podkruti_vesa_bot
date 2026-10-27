@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://3dnews.ru/1149115",
     "https://the-decoder.com/ai-agents-do-more-of-the-work-in-model-development-but-humans-still-make-the-decisions/",
     "https://www.ixbt.com/news/2026/09/27/438664-kosmiceskaia-benzokolonka-v-deistvii-kitaiskii-sputnik-beidou-polucil-toplivo-priamo-na-orbite-ot-drugogo-sputnika.html",
     "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
@@ -499,9 +498,10 @@
     "https://huggingface.co/blog/torch-neuronx-model-support",
     "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
     "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
-    "https://www.theregister.com/security/2026/10/26/microsoft-releases-emergency-net-security-fixes-for-google-brotli-bug/5305515"
+    "https://www.theregister.com/security/2026/10/26/microsoft-releases-emergency-net-security-fixes-for-google-brotli-bug/5305515",
+    "https://the-decoder.com/gpt-6-1-terra-halves-openais-api-prices-and-still-gains-ground-on-its-larger-models/"
   ],
   "ai_index": 3,
   "tech_index": 3,
-  "category": "ai"
+  "category": "tech"
 }
