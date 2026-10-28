@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://neurohive.io/ru/gotovye-prilozhenija/video-iz-foto-18-kak-ozhivit-foto-i-delat-generaciju-18-s-erofylab/",
     "https://www.ithome.com/1/007/612.htm",
     "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
     "https://www.ithome.com/1/007/611.htm",
@@ -499,9 +498,10 @@
     "https://hackaday.com/2026/10/27/where-did-your-mouse-come-from/",
     "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
     "https://www.therobotreport.com/anybotics-begins-delivering-anymal-x-legged-robot-explosive-atmospheres/",
-    "https://arxiv.org/abs/2610.35942"
+    "https://arxiv.org/abs/2610.35942",
+    "https://semiengineering.com/introducing-build-a-chip-bench-from-workload-specification-to-gds/"
   ],
-  "ai_index": 6,
-  "tech_index": 6,
-  "category": "tech"
+  "ai_index": 7,
+  "tech_index": 7,
+  "category": "ai"
 }
