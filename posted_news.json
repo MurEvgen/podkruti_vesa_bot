@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
     "https://www.ithome.com/1/007/611.htm",
     "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
     "https://www.ithome.com/1/007/615.htm",
@@ -499,9 +498,10 @@
     "https://www.therobotreport.com/anybotics-begins-delivering-anymal-x-legged-robot-explosive-atmospheres/",
     "https://arxiv.org/abs/2610.35942",
     "https://semiengineering.com/introducing-build-a-chip-bench-from-workload-specification-to-gds/",
-    "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/"
+    "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+    "https://www.eetimes.com/canadian-startup-aims-to-be-quantums-picks-and-shovels/"
   ],
-  "ai_index": 7,
-  "tech_index": 7,
-  "category": "tech"
+  "ai_index": 8,
+  "tech_index": 8,
+  "category": "ai"
 }
