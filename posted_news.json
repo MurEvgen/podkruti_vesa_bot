@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.ithome.com/1/007/611.htm",
     "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
     "https://www.ithome.com/1/007/615.htm",
     "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
@@ -499,9 +498,10 @@
     "https://arxiv.org/abs/2610.35942",
     "https://semiengineering.com/introducing-build-a-chip-bench-from-workload-specification-to-gds/",
     "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
-    "https://www.eetimes.com/canadian-startup-aims-to-be-quantums-picks-and-shovels/"
+    "https://www.eetimes.com/canadian-startup-aims-to-be-quantums-picks-and-shovels/",
+    "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity"
   ],
   "ai_index": 8,
   "tech_index": 8,
-  "category": "ai"
+  "category": "tech"
 }
