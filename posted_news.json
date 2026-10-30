@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://habr.com/ru/articles/1087250/?utm_campaign=1087250&utm_source=habrahabr&utm_medium=rss",
     "https://arstechnica.com/tech-policy/2026/09/how-the-smithsonian-became-the-latest-front-in-trumps-culture-war/",
     "https://habr.com/ru/articles/1087284/?utm_campaign=1087284&utm_source=habrahabr&utm_medium=rss",
     "https://tech.eu/2026/09/27/make-robots-fight-instead-of-people-mykhailo-fedorov-launches-army-of-robots-and-you-could-be-its-cto/",
@@ -499,9 +498,10 @@
     "https://www.extremetech.com/defense/the-ultimate-egg-drop-us-military-to-use-spacex-tech-to-deliver-aid-from",
     "https://neurohive.io/ru/frameworki/dynaflow-komanda-ii-agentov/",
     "https://www.tomshardware.com/pc-components/cpus/intel-confirms-nova-lake-will-use-advanced-18a-p-node-more-details-at-ces-company-says-its-taking-panther-lake-capacity-offline-to-build-more-granite-rapids-data-center-cpus",
-    "https://habr.com/ru/articles/1100878/?utm_campaign=1100878&utm_source=habrahabr&utm_medium=rss"
+    "https://habr.com/ru/articles/1100878/?utm_campaign=1100878&utm_source=habrahabr&utm_medium=rss",
+    "https://phys.org/news/2026-10-scientists-millisecond-sensitive-gas-sensors.html"
   ],
-  "ai_index": 10,
-  "tech_index": 10,
-  "category": "tech"
+  "ai_index": 11,
+  "tech_index": 11,
+  "category": "ai"
 }
