@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
     "http://www.geekpark.net/news/371040",
     "https://habr.com/ru/articles/1087250/?utm_campaign=1087250&utm_source=habrahabr&utm_medium=rss",
     "https://arstechnica.com/tech-policy/2026/09/how-the-smithsonian-became-the-latest-front-in-trumps-culture-war/",
@@ -499,9 +498,10 @@
     "https://www.eetimes.com/canadian-startup-aims-to-be-quantums-picks-and-shovels/",
     "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
     "https://www.extremetech.com/defense/the-ultimate-egg-drop-us-military-to-use-spacex-tech-to-deliver-aid-from",
-    "https://neurohive.io/ru/frameworki/dynaflow-komanda-ii-agentov/"
+    "https://neurohive.io/ru/frameworki/dynaflow-komanda-ii-agentov/",
+    "https://www.tomshardware.com/pc-components/cpus/intel-confirms-nova-lake-will-use-advanced-18a-p-node-more-details-at-ces-company-says-its-taking-panther-lake-capacity-offline-to-build-more-granite-rapids-data-center-cpus"
   ],
-  "ai_index": 9,
-  "tech_index": 9,
-  "category": "tech"
+  "ai_index": 10,
+  "tech_index": 10,
+  "category": "ai"
 }
