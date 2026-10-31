@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://habr.com/ru/articles/1087284/?utm_campaign=1087284&utm_source=habrahabr&utm_medium=rss",
     "https://tech.eu/2026/09/27/make-robots-fight-instead-of-people-mykhailo-fedorov-launches-army-of-robots-and-you-could-be-its-cto/",
     "https://www.qbitai.com/2026/09/498605.html",
     "https://www.theregister.com/os-platforms/2026/09/27/apple-buried-copland-30-years-ago-now-the-failed-os-boots-in-a-browser/5299201",
@@ -499,9 +498,10 @@
     "https://www.tomshardware.com/pc-components/cpus/intel-confirms-nova-lake-will-use-advanced-18a-p-node-more-details-at-ces-company-says-its-taking-panther-lake-capacity-offline-to-build-more-granite-rapids-data-center-cpus",
     "https://habr.com/ru/articles/1100878/?utm_campaign=1100878&utm_source=habrahabr&utm_medium=rss",
     "https://phys.org/news/2026-10-scientists-millisecond-sensitive-gas-sensors.html",
-    "https://pandaily.com/saic-gm-wuling-first-automotive-grade-unmanned-logistics-vehicle-last-mile-delivery-drive-by-wire"
+    "https://pandaily.com/saic-gm-wuling-first-automotive-grade-unmanned-logistics-vehicle-last-mile-delivery-drive-by-wire",
+    "https://spectrum.ieee.org/ai-personal-assistant-intelligent-wearables"
   ],
-  "ai_index": 11,
-  "tech_index": 11,
-  "category": "tech"
+  "ai_index": 12,
+  "tech_index": 12,
+  "category": "ai"
 }
