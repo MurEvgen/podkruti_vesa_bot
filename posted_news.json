@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://hackaday.com/2026/09/27/center-pivot-system-modified-to-mow-lawn/",
     "https://arxiv.org/abs/2609.30291",
     "https://www.therobotreport.com/asimovs-laws-are-not-enough-keep-robotics-ai-safe/",
     "https://arxiv.org/abs/2609.30325",
@@ -499,9 +498,10 @@
     "https://3dnews.ru/1150705",
     "https://www.infoq.cn/article/HHgKMMKa8BNZYQuMFSMS?utm_source=rss&utm_medium=article",
     "https://www.ixbt.com/news/2026/11/01/anonsirovan-pervyi-posledovatelnyi-gibrid-belorusskogo-proizvodstva.html",
-    "https://openai.com/index/helping-websites-express-ai-training-preferences"
+    "https://openai.com/index/helping-websites-express-ai-training-preferences",
+    "https://www.chinatechnews.com/2026/10/30/131565-sichuan-quantum-tech-sector-surges-28-percent-to-9-6-billion-as-region-expands-academic-hub"
   ],
-  "ai_index": 14,
-  "tech_index": 14,
-  "category": "tech"
+  "ai_index": 15,
+  "tech_index": 15,
+  "category": "ai"
 }
