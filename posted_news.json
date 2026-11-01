@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.therobotreport.com/asimovs-laws-are-not-enough-keep-robotics-ai-safe/",
     "https://arxiv.org/abs/2609.30325",
     "https://www.eetimes.com/full-stack-semiconductor-solutions-for-industry-and-digital-energy-applications/",
     "https://habr.com/ru/articles/1086938/?utm_campaign=1086938&utm_source=habrahabr&utm_medium=rss",
@@ -499,9 +498,10 @@
     "https://www.ixbt.com/news/2026/11/01/anonsirovan-pervyi-posledovatelnyi-gibrid-belorusskogo-proizvodstva.html",
     "https://openai.com/index/helping-websites-express-ai-training-preferences",
     "https://www.chinatechnews.com/2026/10/30/131565-sichuan-quantum-tech-sector-surges-28-percent-to-9-6-billion-as-region-expands-academic-hub",
-    "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/"
+    "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+    "https://www.scmp.com/tech/tech-trends/article/3372834/self-improving-ai-key-step-towards-agi-safety-key-zai-founder"
   ],
-  "ai_index": 15,
-  "tech_index": 15,
-  "category": "tech"
+  "ai_index": 16,
+  "tech_index": 16,
+  "category": "ai"
 }
