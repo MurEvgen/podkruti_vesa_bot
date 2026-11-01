@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.theregister.com/personal-tech/2026/09/28/amazon-evaluating-drone-deliveries-in-australia-asia/5299343",
     "https://hackaday.com/2026/09/27/center-pivot-system-modified-to-mow-lawn/",
     "https://arxiv.org/abs/2609.30291",
     "https://www.therobotreport.com/asimovs-laws-are-not-enough-keep-robotics-ai-safe/",
@@ -499,9 +498,10 @@
     "https://www.qbitai.com/2026/10/506743.html",
     "https://3dnews.ru/1150705",
     "https://www.infoq.cn/article/HHgKMMKa8BNZYQuMFSMS?utm_source=rss&utm_medium=article",
-    "https://www.ixbt.com/news/2026/11/01/anonsirovan-pervyi-posledovatelnyi-gibrid-belorusskogo-proizvodstva.html"
+    "https://www.ixbt.com/news/2026/11/01/anonsirovan-pervyi-posledovatelnyi-gibrid-belorusskogo-proizvodstva.html",
+    "https://openai.com/index/helping-websites-express-ai-training-preferences"
   ],
   "ai_index": 14,
   "tech_index": 14,
-  "category": "ai"
+  "category": "tech"
 }
