@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://arxiv.org/abs/2609.30325",
     "https://www.eetimes.com/full-stack-semiconductor-solutions-for-industry-and-digital-energy-applications/",
     "https://habr.com/ru/articles/1086938/?utm_campaign=1086938&utm_source=habrahabr&utm_medium=rss",
     "https://www.tomshardware.com/laptops/gaming-laptops/grab-this-14-inch-compact-gaming-laptop-powerhouse-for-usd1000-off-hp-omen-transcend-14-with-rtx-5070-and-3k-oled-display-drops-to-usd1-999-99-at-best-buy",
@@ -499,9 +498,10 @@
     "https://openai.com/index/helping-websites-express-ai-training-preferences",
     "https://www.chinatechnews.com/2026/10/30/131565-sichuan-quantum-tech-sector-surges-28-percent-to-9-6-billion-as-region-expands-academic-hub",
     "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-    "https://www.scmp.com/tech/tech-trends/article/3372834/self-improving-ai-key-step-towards-agi-safety-key-zai-founder"
+    "https://www.scmp.com/tech/tech-trends/article/3372834/self-improving-ai-key-step-towards-agi-safety-key-zai-founder",
+    "https://huggingface.co/blog/nvidia/nemotron-halloween"
   ],
   "ai_index": 16,
   "tech_index": 16,
-  "category": "ai"
+  "category": "tech"
 }
