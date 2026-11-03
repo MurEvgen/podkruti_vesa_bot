@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.tomshardware.com/desktops/mini-pcs/custom-24-carat-gold-mini-pc-costs-around-usd1-7-million-weighs-nearly-29-pounds-for-up-to-50-percent-faster-heat-transfer-copper-would-have-been-far-cheaper-and-offers-even-better-thermal-conductivity",
     "https://pandaily.com/tencent-yuanbao-native-harmonyos-hunyuan-hy4-preview",
     "https://phys.org/news/2026-09-spacex-aims-starship-orbit.html",
     "https://habr.com/ru/companies/trinfico_private/articles/1087414/?utm_campaign=1087414&utm_source=habrahabr&utm_medium=rss",
@@ -499,9 +498,10 @@
     "https://36kr.com/p/4052281515660422?f=rss",
     "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
     "https://36kr.com/p/4053273336517767?f=rss",
-    "https://the-decoder.com/goldman-sachs-pulls-ai-coding-tools-from-traders-and-bankers/"
+    "https://the-decoder.com/goldman-sachs-pulls-ai-coding-tools-from-traders-and-bankers/",
+    "https://www.ithome.com/1/021/854.htm"
   ],
-  "ai_index": 18,
-  "tech_index": 18,
-  "category": "tech"
+  "ai_index": 19,
+  "tech_index": 19,
+  "category": "ai"
 }
