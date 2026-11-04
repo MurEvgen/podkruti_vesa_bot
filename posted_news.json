@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://habr.com/ru/companies/trinfico_private/articles/1087414/?utm_campaign=1087414&utm_source=habrahabr&utm_medium=rss",
     "https://phys.org/news/2026-09-herring-fishery-years-rebound-today.html",
     "https://huggingface.co/blog/Hcompany/holo4",
     "https://3dnews.ru/1149129",
@@ -499,9 +498,10 @@
     "https://the-decoder.com/goldman-sachs-pulls-ai-coding-tools-from-traders-and-bankers/",
     "https://www.ithome.com/1/021/854.htm",
     "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-    "http://www.geekpark.net/news/373427"
+    "http://www.geekpark.net/news/373427",
+    "https://openai.com/index/accelerating-engineering-for-the-physical-world"
   ],
   "ai_index": 0,
   "tech_index": 0,
-  "category": "ai"
+  "category": "tech"
 }
