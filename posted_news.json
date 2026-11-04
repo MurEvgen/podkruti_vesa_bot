@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://huggingface.co/blog/Hcompany/holo4",
     "https://3dnews.ru/1149129",
     "https://www.infoq.cn/article/zl0e1sUoD95YJfboNz2a?utm_source=rss&utm_medium=article",
     "https://3dnews.ru/1149136",
@@ -499,9 +498,10 @@
     "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
     "http://www.geekpark.net/news/373427",
     "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-    "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/"
+    "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
+    "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/"
   ],
   "ai_index": 1,
   "tech_index": 1,
-  "category": "ai"
+  "category": "tech"
 }
