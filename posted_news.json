@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://3dnews.ru/1149136",
     "https://www.infoq.cn/article/7zcxyr8aBkDqQO682CJm?utm_source=rss&utm_medium=article",
     "https://www.ixbt.com/news/2026/09/28/438891-pocti-3-000-mosenniceskix-resursov-mosenniki-gotoviat-lovuski-dlia-pokupatelei-novyx-iphone.html",
     "https://the-decoder.com/every-ai-lab-thinks-its-the-responsible-one-and-safety-researcher-ryan-greenblatt-says-thats-what-keeps-the-arms-race-going/",
@@ -499,9 +498,10 @@
     "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
     "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
     "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
-    "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/"
+    "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+    "https://www.theregister.com/security/2026/11/05/get-root-on-a-musl-linux-system-by-slamming-it-with-an-overly-long-password/5307910"
   ],
-  "ai_index": 2,
-  "tech_index": 2,
-  "category": "tech"
+  "ai_index": 3,
+  "tech_index": 3,
+  "category": "ai"
 }
