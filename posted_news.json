@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://the-decoder.com/a-wuhan-court-just-made-ai-production-costs-a-legal-factor-in-copyright-infringement-cases/",
     "https://www.scmp.com/tech/tech-trends/article/3369074/chinese-chip-foundry-cansemis-ipo-oversubscribed-2360-times-investors-chase-ai-boom?utm_source=rss_feed",
     "https://the-decoder.com/meta-wants-to-turn-muse-into-a-moneymaker-by-selling-ai-services-to-businesses/",
     "https://36kr.com/p/4001258625994626?f=rss",
@@ -499,9 +498,10 @@
     "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
     "https://www.theregister.com/applications/2026/11/06/safaris-autofill-feature-may-be-distoring-time/5308006",
     "https://the-decoder.com/metr-finds-anthropic-may-have-crossed-its-own-ai-acceleration-warning-threshold-back-in-july/",
-    "https://hackaday.com/2026/11/06/mousepods-reverse-engineers-head-tracking-data-from-stubborn-airpods/"
+    "https://hackaday.com/2026/11/06/mousepods-reverse-engineers-head-tracking-data-from-stubborn-airpods/",
+    "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/"
   ],
   "ai_index": 5,
   "tech_index": 5,
-  "category": "ai"
+  "category": "tech"
 }
