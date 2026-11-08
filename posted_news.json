@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://the-decoder.com/openais-ai-agents-exploited-a-google-security-education-game-to-scrape-un-trade-data/",
     "https://www.ithome.com/1/008/065.htm",
     "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
     "http://www.geekpark.net/news/371390",
@@ -499,9 +498,10 @@
     "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
     "https://semiengineering.com/chip-industry-week-in-review-163/",
     "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
-    "https://www.eetimes.com/the-countdown-to-q-day-has-begun/"
+    "https://www.eetimes.com/the-countdown-to-q-day-has-begun/",
+    "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review"
   ],
   "ai_index": 8,
   "tech_index": 8,
-  "category": "ai"
+  "category": "tech"
 }
