@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.ithome.com/1/008/065.htm",
     "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
     "http://www.geekpark.net/news/371390",
     "https://openai.com/index/lenfest-ai-collaborative-expansion",
@@ -499,9 +498,10 @@
     "https://semiengineering.com/chip-industry-week-in-review-163/",
     "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
     "https://www.eetimes.com/the-countdown-to-q-day-has-begun/",
-    "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review"
+    "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+    "https://www.extremetech.com/computing/its-getting-hard-to-recommend-any-nvidia-graphics-cards-to-gamers"
   ],
-  "ai_index": 8,
-  "tech_index": 8,
-  "category": "tech"
+  "ai_index": 9,
+  "tech_index": 9,
+  "category": "ai"
 }
