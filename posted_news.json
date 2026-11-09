@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "http://www.geekpark.net/news/371390",
     "https://openai.com/index/lenfest-ai-collaborative-expansion",
     "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
     "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
@@ -499,9 +498,10 @@
     "https://www.eetimes.com/the-countdown-to-q-day-has-begun/",
     "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
     "https://www.extremetech.com/computing/its-getting-hard-to-recommend-any-nvidia-graphics-cards-to-gamers",
-    "https://neurohive.io/ru/frameworki/fairouter-llm-router/"
+    "https://neurohive.io/ru/frameworki/fairouter-llm-router/",
+    "https://www.tomshardware.com/pc-components/gpus/nvidia-ceo-jensen-huang-admits-to-having-an-affair-with-suspected-chinese-spy-jensen-apologizes-in-letter-to-staff-company-board-forms-independent-committee-to-investigate"
   ],
-  "ai_index": 9,
-  "tech_index": 9,
-  "category": "tech"
+  "ai_index": 10,
+  "tech_index": 10,
+  "category": "ai"
 }
