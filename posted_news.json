@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://tech.eu/2026/09/28/granite-raises-eur4m-to-bring-its-agentic-cloud-infrastructure-to-market/",
     "https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task/",
     "https://www.theregister.com/ai-and-ml/2026/09/28/french-dev-aims-to-solve-bots-blindness-so-they-can-understand-guis/5299575",
     "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
@@ -499,9 +498,10 @@
     "https://phys.org/news/2026-11-sun-undiscovered-stellar-nemesis-physicist.html",
     "https://pandaily.com/shanxi-first-university-satellite-first-orbital-data-taihang-constellation",
     "https://content.knowledgehub.wiley.com/shifting-reliability-left-guided-virtual-validation-for-electronics-shock-and-drop-testing/",
-    "https://www.qbitai.com/2026/11/509017.html"
+    "https://www.qbitai.com/2026/11/509017.html",
+    "https://3dnews.ru/1151128"
   ],
-  "ai_index": 12,
-  "tech_index": 12,
-  "category": "tech"
+  "ai_index": 13,
+  "tech_index": 13,
+  "category": "ai"
 }
