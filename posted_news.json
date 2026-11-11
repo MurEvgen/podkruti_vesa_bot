@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task/",
     "https://www.theregister.com/ai-and-ml/2026/09/28/french-dev-aims-to-solve-bots-blindness-so-they-can-understand-guis/5299575",
     "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
     "https://hackaday.com/2026/09/28/this-pico-8-handheld-is-no-fantasy/",
@@ -499,9 +498,10 @@
     "https://pandaily.com/shanxi-first-university-satellite-first-orbital-data-taihang-constellation",
     "https://content.knowledgehub.wiley.com/shifting-reliability-left-guided-virtual-validation-for-electronics-shock-and-drop-testing/",
     "https://www.qbitai.com/2026/11/509017.html",
-    "https://3dnews.ru/1151128"
+    "https://3dnews.ru/1151128",
+    "https://www.infoq.cn/article/xCQx0qBofJYfBdVrxVxt?utm_source=rss&utm_medium=article"
   ],
   "ai_index": 13,
   "tech_index": 13,
-  "category": "ai"
+  "category": "tech"
 }
