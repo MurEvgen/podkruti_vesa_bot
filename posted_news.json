@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
     "https://www.eetimes.com/why-u-s-europe-cooperation-matters-for-quantum-leadership/",
     "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
     "https://www.extremetech.com/mobile/google-teases-android-18-ahead-of-october-dev-summit",
@@ -499,9 +498,10 @@
     "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
     "https://www.scmp.com/tech/big-tech/article/3374255/jensen-huang-resigns-nvidia-ceo-amid-affair-scandal",
     "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
-    "https://36kr.com/p/4067852789372033?f=rss"
+    "https://36kr.com/p/4067852789372033?f=rss",
+    "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place"
   ],
   "ai_index": 17,
   "tech_index": 17,
-  "category": "ai"
+  "category": "tech"
 }
