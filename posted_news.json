@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://habr.com/ru/companies/haulmont/articles/1086450/?utm_campaign=1086450&utm_source=habrahabr&utm_medium=rss",
     "https://www.tomshardware.com/desktops/mini-pcs/early-amd-gorgon-halo-ai-mini-pc-packs-192gb-ram-for-an-eye-watering-usd7-099-super-early-bird-deal-cuts-down-price-of-gmktec-evo-x5-with-ryzen-ai-max-pro-495-by-usd425",
     "https://habr.com/ru/articles/1087100/?utm_campaign=1087100&utm_source=habrahabr&utm_medium=rss",
     "https://phys.org/news/2026-09-asia-future-embrace-limitations-people.html",
@@ -499,9 +498,10 @@
     "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
     "https://36kr.com/p/4067744401020041?f=rss",
     "https://the-decoder.com/jensen-huangs-ouster-likely-traces-back-to-nvidias-risky-business-practices-more-than-his-personal-life/",
-    "https://www.ithome.com/1/027/239.htm"
+    "https://www.ithome.com/1/027/239.htm",
+    "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/"
   ],
   "ai_index": 19,
   "tech_index": 19,
-  "category": "ai"
+  "category": "tech"
 }
