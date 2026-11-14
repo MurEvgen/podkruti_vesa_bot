@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
     "https://www.extremetech.com/mobile/google-teases-android-18-ahead-of-october-dev-summit",
     "https://habr.com/ru/companies/haulmont/articles/1086450/?utm_campaign=1086450&utm_source=habrahabr&utm_medium=rss",
     "https://www.tomshardware.com/desktops/mini-pcs/early-amd-gorgon-halo-ai-mini-pc-packs-192gb-ram-for-an-eye-watering-usd7-099-super-early-bird-deal-cuts-down-price-of-gmktec-evo-x5-with-ryzen-ai-max-pro-495-by-usd425",
@@ -499,9 +498,10 @@
     "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
     "https://36kr.com/p/4067852789372033?f=rss",
     "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-    "https://36kr.com/p/4067744401020041?f=rss"
+    "https://36kr.com/p/4067744401020041?f=rss",
+    "https://the-decoder.com/jensen-huangs-ouster-likely-traces-back-to-nvidias-risky-business-practices-more-than-his-personal-life/"
   ],
   "ai_index": 18,
   "tech_index": 18,
-  "category": "ai"
+  "category": "tech"
 }
