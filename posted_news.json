@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.eetimes.com/why-u-s-europe-cooperation-matters-for-quantum-leadership/",
     "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
     "https://www.extremetech.com/mobile/google-teases-android-18-ahead-of-october-dev-summit",
     "https://habr.com/ru/companies/haulmont/articles/1086450/?utm_campaign=1086450&utm_source=habrahabr&utm_medium=rss",
@@ -499,9 +498,10 @@
     "https://www.scmp.com/tech/big-tech/article/3374255/jensen-huang-resigns-nvidia-ceo-amid-affair-scandal",
     "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
     "https://36kr.com/p/4067852789372033?f=rss",
-    "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place"
+    "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+    "https://36kr.com/p/4067744401020041?f=rss"
   ],
-  "ai_index": 17,
-  "tech_index": 17,
-  "category": "tech"
+  "ai_index": 18,
+  "tech_index": 18,
+  "category": "ai"
 }
