@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://pandaily.com/enn-xuanlong-50u-hydrogen-boron-fusion-reaction",
     "https://spectrum.ieee.org/ieee-stem-books-tweens-tryengineering",
     "https://www.qbitai.com/2026/09/499098.html",
     "https://3dnews.ru/1149175",
@@ -499,9 +498,10 @@
     "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
     "http://www.geekpark.net/news/373946",
     "https://openai.com/index/introducing-chatgpt-wallet",
-    "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"
+    "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+    "https://deepmind.google/blog/introducing-gemini-4-hydrogen/"
   ],
   "ai_index": 1,
   "tech_index": 1,
-  "category": "ai"
+  "category": "tech"
 }
