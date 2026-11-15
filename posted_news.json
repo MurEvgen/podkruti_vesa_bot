@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://habr.com/ru/articles/1087100/?utm_campaign=1087100&utm_source=habrahabr&utm_medium=rss",
     "https://phys.org/news/2026-09-asia-future-embrace-limitations-people.html",
     "https://pandaily.com/enn-xuanlong-50u-hydrogen-boron-fusion-reaction",
     "https://spectrum.ieee.org/ieee-stem-books-tweens-tryengineering",
@@ -499,9 +498,10 @@
     "https://the-decoder.com/jensen-huangs-ouster-likely-traces-back-to-nvidias-risky-business-practices-more-than-his-personal-life/",
     "https://www.ithome.com/1/027/239.htm",
     "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
-    "http://www.geekpark.net/news/373946"
+    "http://www.geekpark.net/news/373946",
+    "https://openai.com/index/introducing-chatgpt-wallet"
   ],
   "ai_index": 0,
   "tech_index": 0,
-  "category": "ai"
+  "category": "tech"
 }
