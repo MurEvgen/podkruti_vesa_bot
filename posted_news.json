@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://spectrum.ieee.org/ieee-stem-books-tweens-tryengineering",
     "https://www.qbitai.com/2026/09/499098.html",
     "https://3dnews.ru/1149175",
     "https://www.infoq.cn/article/O5pKYU5hfR2DgrXP6zRE?utm_source=rss&utm_medium=article",
@@ -499,9 +498,10 @@
     "http://www.geekpark.net/news/373946",
     "https://openai.com/index/introducing-chatgpt-wallet",
     "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-    "https://deepmind.google/blog/introducing-gemini-4-hydrogen/"
+    "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+    "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/"
   ],
-  "ai_index": 1,
-  "tech_index": 1,
-  "category": "tech"
+  "ai_index": 2,
+  "tech_index": 2,
+  "category": "ai"
 }
