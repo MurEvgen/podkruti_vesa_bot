@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://3dnews.ru/1149175",
     "https://www.infoq.cn/article/O5pKYU5hfR2DgrXP6zRE?utm_source=rss&utm_medium=article",
     "https://www.ixbt.com/news/2026/09/29/439060-polucaetsia-v-rossii-desevle-ili-net-200-megapikselnaia-kamera-zeiss-novogo-pokoleniia-vnesnii-ekran-8000-mac-90-vt-i-dimensity-9600-pro-kamerofon-vivo-x500-pro-max-postupil-v-prodazu-v-kitae.html",
     "https://openai.com/index/how-we-will-do-better-for-australia",
@@ -499,9 +498,10 @@
     "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
     "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
     "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
-    "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+    "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+    "https://tech.eu/2026/11/16/from-munich-to-singapore-building-the-next-generation-of-global-deeptech-companies/"
   ],
-  "ai_index": 2,
-  "tech_index": 2,
-  "category": "tech"
+  "ai_index": 3,
+  "tech_index": 3,
+  "category": "ai"
 }
