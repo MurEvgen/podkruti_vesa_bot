@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://openai.com/index/how-we-will-do-better-for-australia",
     "https://www.chinatechnews.com/2026/09/29/129967-china-flags-82-apps-including-financial-and-healthcare-platforms-for-illegal-data-collection",
     "https://the-decoder.com/openai-reopens-its-200-pro-plan-but-cuts-api-credits-in-half-as-it-nudges-users-toward-pay-per-use/",
     "https://www.scmp.com/tech/tech-trends/article/3369192/chinas-cxmt-favour-domestic-suppliers-us52b-memory-chip-capacity-push-source?utm_source=rss_feed",
@@ -499,9 +498,10 @@
     "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
     "https://tech.eu/2026/11/16/from-munich-to-singapore-building-the-next-generation-of-global-deeptech-companies/",
     "https://huggingface.co/blog/openrouter",
-    "https://www.theregister.com/security/2026/11/17/japans-fugaku-supercomputer-has-decidedly-un-super-security/5310333"
+    "https://www.theregister.com/security/2026/11/17/japans-fugaku-supercomputer-has-decidedly-un-super-security/5310333",
+    "https://the-decoder.com/openai-opens-its-cybersecurity-tool-daybreak-to-nato-and-european-governments/"
   ],
   "ai_index": 4,
   "tech_index": 4,
-  "category": "ai"
+  "category": "tech"
 }
