@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://the-decoder.com/anthropics-ipo-filing-shows-soaring-revenue-mounting-costs-and-existential-risks/",
     "https://36kr.com/p/4003934076456836?f=rss",
     "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
     "https://36kr.com/p/3995406571933824?f=rss",
@@ -499,9 +498,10 @@
     "https://the-decoder.com/openai-opens-its-cybersecurity-tool-daybreak-to-nato-and-european-governments/",
     "https://hackaday.com/2026/11/17/custom-firmware-for-fortinet-fortigate-60-firewall-router/",
     "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
-    "https://www.therobotreport.com/california-dmv-bars-waymo-avs-from-operating-on-the-states-freeways/"
+    "https://www.therobotreport.com/california-dmv-bars-waymo-avs-from-operating-on-the-states-freeways/",
+    "https://arxiv.org/abs/2611.21682"
   ],
   "ai_index": 6,
   "tech_index": 6,
-  "category": "ai"
+  "category": "tech"
 }
