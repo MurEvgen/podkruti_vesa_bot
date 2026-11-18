@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://the-decoder.com/openai-reopens-its-200-pro-plan-but-cuts-api-credits-in-half-as-it-nudges-users-toward-pay-per-use/",
     "https://www.scmp.com/tech/tech-trends/article/3369192/chinas-cxmt-favour-domestic-suppliers-us52b-memory-chip-capacity-push-source?utm_source=rss_feed",
     "https://the-decoder.com/anthropics-ipo-filing-shows-soaring-revenue-mounting-costs-and-existential-risks/",
     "https://36kr.com/p/4003934076456836?f=rss",
@@ -499,9 +498,10 @@
     "https://huggingface.co/blog/openrouter",
     "https://www.theregister.com/security/2026/11/17/japans-fugaku-supercomputer-has-decidedly-un-super-security/5310333",
     "https://the-decoder.com/openai-opens-its-cybersecurity-tool-daybreak-to-nato-and-european-governments/",
-    "https://hackaday.com/2026/11/17/custom-firmware-for-fortinet-fortigate-60-firewall-router/"
+    "https://hackaday.com/2026/11/17/custom-firmware-for-fortinet-fortigate-60-firewall-router/",
+    "https://www.technologyreview.com/2026/11/17/1148203/research-reports/"
   ],
   "ai_index": 5,
   "tech_index": 5,
-  "category": "ai"
+  "category": "tech"
 }
