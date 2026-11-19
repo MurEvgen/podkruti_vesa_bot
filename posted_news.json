@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://36kr.com/p/3995406571933824?f=rss",
     "https://arxiv.org/abs/2609.31763",
     "https://www.ithome.com/1/008/488.htm",
     "https://arxiv.org/abs/2609.31784",
@@ -499,9 +498,10 @@
     "https://www.therobotreport.com/california-dmv-bars-waymo-avs-from-operating-on-the-states-freeways/",
     "https://arxiv.org/abs/2611.21682",
     "https://semiengineering.com/can-ai-agents-really-shift-chip-design-left/",
-    "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/"
+    "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+    "https://www.eetimes.com/memory-rd-is-a-high-stakes-game/"
   ],
-  "ai_index": 7,
-  "tech_index": 7,
-  "category": "tech"
+  "ai_index": 8,
+  "tech_index": 8,
+  "category": "ai"
 }
