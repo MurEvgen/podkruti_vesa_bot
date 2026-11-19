@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
     "https://36kr.com/p/3995406571933824?f=rss",
     "https://arxiv.org/abs/2609.31763",
     "https://www.ithome.com/1/008/488.htm",
@@ -499,9 +498,10 @@
     "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
     "https://www.therobotreport.com/california-dmv-bars-waymo-avs-from-operating-on-the-states-freeways/",
     "https://arxiv.org/abs/2611.21682",
-    "https://semiengineering.com/can-ai-agents-really-shift-chip-design-left/"
+    "https://semiengineering.com/can-ai-agents-really-shift-chip-design-left/",
+    "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/"
   ],
   "ai_index": 7,
   "tech_index": 7,
-  "category": "ai"
+  "category": "tech"
 }
