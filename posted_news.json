@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://arxiv.org/abs/2609.31763",
     "https://www.ithome.com/1/008/488.htm",
     "https://arxiv.org/abs/2609.31784",
     "http://www.geekpark.net/news/372000",
@@ -499,9 +498,10 @@
     "https://arxiv.org/abs/2611.21682",
     "https://semiengineering.com/can-ai-agents-really-shift-chip-design-left/",
     "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
-    "https://www.eetimes.com/memory-rd-is-a-high-stakes-game/"
+    "https://www.eetimes.com/memory-rd-is-a-high-stakes-game/",
+    "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing"
   ],
   "ai_index": 8,
   "tech_index": 8,
-  "category": "ai"
+  "category": "tech"
 }
