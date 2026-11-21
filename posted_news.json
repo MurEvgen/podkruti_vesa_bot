@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "http://www.geekpark.net/news/372000",
     "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
     "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/",
     "https://huggingface.co/blog/nvidia/kumo-tabular",
@@ -499,9 +498,10 @@
     "https://www.eetimes.com/memory-rd-is-a-high-stakes-game/",
     "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
     "https://www.extremetech.com/computing/ddr6-modules-could-be-almost-half-the-size-of-ddr5",
-    "https://neurohive.io/ru/novosti/gemini-api-tool-retrieval/"
+    "https://neurohive.io/ru/novosti/gemini-api-tool-retrieval/",
+    "https://www.tomshardware.com/tech-industry/artificial-intelligence/south-korea-busts-54-students-cheating-on-national-college-admission-exam-by-deploying-emergency-disaster-alert-during-test-ai-micro-cameras-and-phones-drive-cheating-epidemic-that-forced-government-crackdown"
   ],
-  "ai_index": 9,
-  "tech_index": 9,
-  "category": "tech"
+  "ai_index": 10,
+  "tech_index": 10,
+  "category": "ai"
 }
