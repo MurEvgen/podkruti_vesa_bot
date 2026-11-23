@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.theregister.com/security/2026/09/29/custom-malware-used-in-citrix-0-day-attacks-targeting-govt-banks-professional-services/5299867",
     "https://the-decoder.com/openais-reveals-a-new-chatgpt-that-looks-less-like-a-chatbot-and-more-like-an-operating-system/",
     "https://hackaday.com/2026/09/29/improved-double-sided-toner-transfer-method/",
     "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
@@ -499,9 +498,10 @@
     "https://spectrum.ieee.org/fighting-back-against-deep-fakes",
     "https://www.qbitai.com/2026/11/511904.html",
     "https://3dnews.ru/1151660",
-    "https://www.infoq.cn/article/OPbZhT0OHL4IbZz8exvA?utm_source=rss&utm_medium=article"
+    "https://www.infoq.cn/article/OPbZhT0OHL4IbZz8exvA?utm_source=rss&utm_medium=article",
+    "https://www.ixbt.com/news/2026/11/23/osnova-dlia-skorostnogo-ryvka-telezki-pervogo-rossiiskogo-vsm-prosli-ispytaniia.html"
   ],
-  "ai_index": 13,
-  "tech_index": 13,
-  "category": "tech"
+  "ai_index": 14,
+  "tech_index": 14,
+  "category": "ai"
 }
