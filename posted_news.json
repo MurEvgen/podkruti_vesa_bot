@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.therobotreport.com/forcen-gives-crash-course-force-torque-sensing-humanoids-robobusiness-2026/",
     "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
     "https://semiengineering.com/tsmc-oip-chip-industry-growth-blows-past-forecast/",
     "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
@@ -499,9 +498,10 @@
     "https://www.ixbt.com/news/2026/11/23/osnova-dlia-skorostnogo-ryvka-telezki-pervogo-rossiiskogo-vsm-prosli-ispytaniia.html",
     "https://openai.com/index/introducing-shirudo",
     "https://www.chinatechnews.com/2026/11/24/133512-china-tightens-drone-airspace-enforcement-as-police-and-forestry-agencies-expand-aerial-tech",
-    "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/"
+    "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+    "https://www.scmp.com/tech/big-tech/article/3375632/jensen-huangs-return-steadies-nvidia-china-curbs-us-scrutiny-show-no-sign-easing"
   ],
-  "ai_index": 15,
-  "tech_index": 15,
-  "category": "tech"
+  "ai_index": 16,
+  "tech_index": 16,
+  "category": "ai"
 }
