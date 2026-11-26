@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
     "https://www.eetimes.com/astera-labs-leo-controller-update-targets-memory-constraints/",
     "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
     "https://www.extremetech.com/internet/google-to-replace-gemini-gems-with-plainly-named-skills",
@@ -499,9 +498,10 @@
     "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
     "https://www.scmp.com/tech/big-tech/article/3375632/jensen-huangs-return-steadies-nvidia-china-curbs-us-scrutiny-show-no-sign-easing",
     "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
-    "https://36kr.com/p/4085010597210754?f=rss"
+    "https://36kr.com/p/4085010597210754?f=rss",
+    "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents"
   ],
   "ai_index": 17,
   "tech_index": 17,
-  "category": "ai"
+  "category": "tech"
 }
