@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.eetimes.com/astera-labs-leo-controller-update-targets-memory-constraints/",
     "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
     "https://www.extremetech.com/internet/google-to-replace-gemini-gems-with-plainly-named-skills",
     "https://neurohive.io/ru/papers/yue2-nejroset-dlya-sozdaniya-pesen/",
@@ -499,9 +498,10 @@
     "https://www.scmp.com/tech/big-tech/article/3375632/jensen-huangs-return-steadies-nvidia-china-curbs-us-scrutiny-show-no-sign-easing",
     "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
     "https://36kr.com/p/4085010597210754?f=rss",
-    "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents"
+    "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+    "https://36kr.com/p/4086378667600512?f=rss"
   ],
-  "ai_index": 17,
-  "tech_index": 17,
-  "category": "tech"
+  "ai_index": 18,
+  "tech_index": 18,
+  "category": "ai"
 }
