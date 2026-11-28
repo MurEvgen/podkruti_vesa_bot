@@ -1,6 +1,5 @@
 {
   "posted_links": [
-    "https://www.tomshardware.com/pc-components/gpus/zotac-denies-warranty-support-to-rtx-3060-owner-in-india-after-just-one-year-despite-offering-three-years-of-coverage-company-says-gpus-2023-import-date-takes-precedence-over-purchase-date",
     "https://habr.com/ru/articles/1087860/?utm_campaign=1087860&utm_source=habrahabr&utm_medium=rss",
     "https://phys.org/news/2026-09-ai-tool-microscopy.html",
     "https://pandaily.com/shandong-future-robot-hit-vy150-4500m-deep-sea-rov-south-china-sea",
@@ -499,9 +498,10 @@
     "https://36kr.com/p/4086378667600512?f=rss",
     "https://the-decoder.com/former-openai-researcher-says-the-riemann-proof-matters-less-than-the-fact-that-an-ai-system-can-produce-it/",
     "https://www.ithome.com/1/033/361.htm",
-    "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/"
+    "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+    "http://www.geekpark.net/news/374621"
   ],
-  "ai_index": 19,
-  "tech_index": 19,
-  "category": "tech"
+  "ai_index": 0,
+  "tech_index": 0,
+  "category": "ai"
 }
